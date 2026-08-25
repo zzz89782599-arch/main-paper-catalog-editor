@@ -805,5 +805,102 @@
   "UFFICIO::NASTRI ADESIVI": "../../../catalog_v2/assets/hero/p86-nastri-adesivi.webp",
   "UFFICIO::PINZATRICI": "../../../catalog_v2/assets/hero/p98-pinzatrici.webp",
   "UFFICIO::PORTAPENNE": "../../../catalog_v2/assets/hero/p111-portapenne.webp"
+ },
+ "hero_ref": {
+  "SCRITTURA&CORREZIONE::CORRETTORI A NASTRO": [
+   "PA189"
+  ],
+  "SCRITTURA&CORREZIONE::EVIDENZIATORI": [
+   "PE535",
+   "PE537",
+   "PE534-05"
+  ],
+  "SCRITTURA&CORREZIONE::GOMME": [
+   "PG139-1",
+   "PG168",
+   "PG178-01"
+  ],
+  "SCRITTURA&CORREZIONE::MARCATORE INDELEBILE": [
+   "PE180O",
+   "PE180P",
+   "PE413-S",
+   "PE414"
+  ],
+  "SCRITTURA&CORREZIONE::MATITE GRAFITE": [
+   "PE315-2H",
+   "PE315-H",
+   "PE315-HB",
+   "PE315-B",
+   "PE315-2B"
+  ],
+  "SCRITTURA&CORREZIONE::PORTAMINE": [
+   "PE223"
+  ],
+  "SCRITTURA&CORREZIONE::TEMPERINI": [
+   "PA829",
+   "PA831",
+   "PA840",
+   "PA846",
+   "PA834",
+   "PA838"
+  ],
+  "UFFICIO::BADGE": [
+   "PP022-02",
+   "PP023-02",
+   "PP024-01",
+   "PP024-02",
+   "PP025-02",
+   "PP061-05"
+  ],
+  "UFFICIO::LAVAGNE": [
+   "PT310-01",
+   "PT311-01",
+   "PT312",
+   "PT313",
+   "PT314",
+   "PT315"
+  ],
+  "UFFICIO::NASTRI ADESIVI": [
+   "PA509-02",
+   "PA511-02",
+   "PA512-02",
+   "PA517-01",
+   "PA517-02",
+   "PA517-04"
+  ],
+  "UFFICIO::PINZATRICI": [
+   "PA532-1",
+   "PA611",
+   "PA616",
+   "PA627C",
+   "PA628C",
+   "PA629C"
+  ],
+  "UFFICIO::PORTAPENNE": [
+   "PA964N",
+   "PA965B",
+   "PA901"
+  ],
+  "ARCHIVIAZIONE::BUSTE": [
+   "PC539"
+  ],
+  "ARCHIVIAZIONE::CARTELLE": [
+   "PC101IT",
+   "PC101IT-01",
+   "PC101IT-02",
+   "PC101IT-03",
+   "PC101IT-04",
+   "PC101IT-05"
+  ],
+  "CREATIVITà KIDS::FORBICI": [
+   "PA1101-1",
+   "PA1101-2"
+  ],
+  "CREATIVITà KIDS::PENNARELLI": [
+   "PP851"
+  ],
+  "CREATIVITà KIDS::PLASTILINA": [
+   "PY040"
+  ]
  }
 }
