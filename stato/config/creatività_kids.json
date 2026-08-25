@@ -1,0 +1,270 @@
+{
+  "section": "CREATIVITà KIDS",
+  "lang": "it",
+  "opener": {
+    "kicker": "CAPITOLO SESTO",
+    "chapter_big": "06",
+    "title_lines": [
+      "Creatività",
+      "Kids"
+    ],
+    "hero_img": "../../../catalog_v2/assets/hero/creativita-kids__A.webp",
+    "intro": "La linea creativa Main Paper pensata per i più piccoli: tempere lavabili e pitture a dita atossiche, pennarelli TriKids dal fusto triangolare, matite colorate e pastelli a cera morbidi, plastilina che non secca e stampini per modellare. E ancora acquerelli con pennello, forbici a punta arrotondata, stickers, salvadanai da decorare e grembiuli impermeabili. Materiali sicuri e lavabili, pensati per l'uso dai 3 anni. Disponibili in blister, set assortiti ed espositori da banco.",
+    "featured": [
+      "PP610",
+      "PP891",
+      "PP943-10"
+    ]
+  },
+  "editorial": {
+    "title_main": "BUSINESS SCHOOL HOME",
+    "title_sub": "cancelleria di qualità, dal 1998",
+    "side_tag": "MP Qualità",
+    "lead": "Dal 1998 Main Paper progetta e distribuisce cancelleria di qualità per ufficio, scuola e casa. Azienda CEPYME500 — riconosciuta tra le 500 imprese leader per crescita, innovazione e proiezione internazionale — e premiata dalla Comunità di Madrid per l'innovazione e la qualità nei prodotti di cancelleria. Il capitolo Creatività Kids raccoglie la linea creativa per i bambini: 177 referenze in 14 sottocategorie.",
+    "stats": [
+      {
+        "n": "177",
+        "l": "REFERENZE"
+      },
+      {
+        "n": "14",
+        "l": "SOTTOCAT."
+      }
+    ],
+    "pillars": [
+      {
+        "h": "SICUREZZA",
+        "b": "Materiali atossici, forbici a punta arrotondata e colori a base acqua: pensati per l'uso in sicurezza dai 3 anni."
+      },
+      {
+        "h": "LAVABILITÀ",
+        "b": "Tempere, pennarelli e pitture a dita lavabili dalla pelle e dai tessuti: il divertimento non lascia tracce."
+      },
+      {
+        "h": "ERGONOMIA",
+        "b": "Fusti triangolari anti-rotolamento, forme facili da impugnare e impugnature morbide adatte alle mani dei più piccoli."
+      },
+      {
+        "h": "COLORE",
+        "b": "Palette vivaci e brillanti su tempere, plastilina, pastelli e pennarelli: tanti colori assortiti per stimolare la fantasia."
+      }
+    ],
+    "scenes": [
+      {
+        "img": "links_small/links_flatlay.webp",
+        "cap": "Forbici sicure per bambini"
+      },
+      {
+        "img": "clean_small/PP802.webp",
+        "cap": "Matite & acquerelli"
+      },
+      {
+        "img": "clean_small/PP432-1.webp",
+        "cap": "Grembiuli & protezione"
+      }
+    ],
+    "certs": [],
+    "timeline": [
+      {
+        "y": "1998",
+        "l": "Fondazione MP"
+      },
+      {
+        "y": "2005",
+        "l": "GDO europea"
+      },
+      {
+        "y": "2012",
+        "l": "30+ paesi"
+      },
+      {
+        "y": "2018",
+        "l": "Linea eco"
+      },
+      {
+        "y": "2022",
+        "l": "Premio Madrid · CEPYME500"
+      }
+    ]
+  },
+  "promo_page": {
+    "title": "Promozioni & Pre-order",
+    "side_tag": "Novità 2026",
+    "intro": "Offerte e pre-ordini attivi del capitolo. I prodotti sono contrassegnati anche nelle pagine di catalogo."
+  },
+  "hero_rule": {
+    "max_fams": 8,
+    "require_desc": true
+  },
+  "big_family_min": 20,
+  "tips": {
+    "_generic": [
+      "Dal 1998 Main Paper distribuisce cancelleria e materiale creativo per bambini.",
+      "Il programma RFQ Main Paper garantisce quotazioni entro 24 ore e un ordine minimo di un solo collo.",
+      "Ogni referenza è disponibile in blister singolo, multipack ed espositore da banco per la vendita al dettaglio."
+    ],
+    "TEMPERE": "Le tempere MP per bambini sono lavabili e atossiche: colori coprenti e brillanti, pronte all'uso in vasetto o bottiglia da 250 ml.",
+    "FORBICI": "Le forbici per bambini MP hanno punta arrotondata e lame in acciaio: impugnatura ergonomica destra/sinistra, taglio sicuro dai 3 anni.",
+    "PENNARELLI": "I pennarelli TriKids MP hanno fusto triangolare anti-rotolamento e punta resistente: inchiostro lavabile dalla pelle e dai tessuti.",
+    "PLASTILINA": "La plastilina MP resta morbida e non secca: colori mescolabili, atossica e senza glutine, per modellare senza limiti.",
+    "MATITE COLORATE": "Le matite colorate MP hanno mina morbida e resistente: fusto esagonale anti-rotolamento, colori intensi facili da temperare.",
+    "PASTELLI A CERA": "I pastelli a cera MP sono morbidi e coprenti: forme facili da impugnare per le manine, colori brillanti che non si sbriciolano.",
+    "STAMPINI": "Gli stampini MP per plastilina e argilla imprimono lettere, numeri e figure: set completi per giocare creando.",
+    "ACQUERELLI": "Gli acquerelli MP in godet danno colori luminosi con un po' d'acqua: pennello incluso, pastiglie facili da riattivare.",
+    "PENNELLI": "I pennelli MP per bambini hanno setola morbida e manico corto colorato: presa facile per i primi capolavori.",
+    "GREMBIULI": "Il grembiule MP protegge i vestiti durante i lavoretti: tessuto impermeabile con maniche lunghe e chiusura sul retro.",
+    "STICKERS": "Gli stickers MP a tema animali e forme decorano quaderni e lavoretti: adesivo forte e riposizionabile, sicuri per i bambini."
+  },
+  "related": {
+    "ACQUERELLI": [
+      "PENNELLI",
+      "TEMPERE",
+      "GREMBIULI",
+      "MATITE COLORATE"
+    ],
+    "FORBICI": [
+      "STICKERS",
+      "PLASTILINA",
+      "STAMPINI",
+      "PENNARELLI"
+    ],
+    "GREMBIULI": [
+      "TEMPERE",
+      "PENNELLI",
+      "PLASTILINA",
+      "ACQUERELLI"
+    ],
+    "LETTERING": [
+      "PENNARELLI",
+      "STICKERS",
+      "MATITE COLORATE",
+      "PASTELLI A CERA"
+    ],
+    "MATITE COLORATE": [
+      "PENNARELLI",
+      "PASTELLI A CERA",
+      "PASTELLI MORBIDI",
+      "ACQUERELLI"
+    ],
+    "PASTELLI A CERA": [
+      "PASTELLI MORBIDI",
+      "MATITE COLORATE",
+      "PENNARELLI",
+      "TEMPERE"
+    ],
+    "PASTELLI MORBIDI": [
+      "PASTELLI A CERA",
+      "MATITE COLORATE",
+      "PENNARELLI",
+      "TEMPERE"
+    ],
+    "PENNARELLI": [
+      "MATITE COLORATE",
+      "PASTELLI A CERA",
+      "STICKERS",
+      "TEMPERE"
+    ],
+    "PENNELLI": [
+      "TEMPERE",
+      "ACQUERELLI",
+      "GREMBIULI",
+      "PENNARELLI"
+    ],
+    "PLASTILINA": [
+      "STAMPINI",
+      "FORBICI",
+      "GREMBIULI",
+      "PASTELLI MORBIDI"
+    ],
+    "SALVADANAI": [
+      "TEMPERE",
+      "PENNELLI",
+      "PENNARELLI",
+      "STICKERS"
+    ],
+    "STAMPINI": [
+      "PLASTILINA",
+      "FORBICI",
+      "TEMPERE",
+      "PENNELLI"
+    ],
+    "STICKERS": [
+      "PENNARELLI",
+      "MATITE COLORATE",
+      "FORBICI",
+      "LETTERING"
+    ],
+    "TEMPERE": [
+      "PENNELLI",
+      "GREMBIULI",
+      "ACQUERELLI",
+      "PENNARELLI"
+    ]
+  },
+  "texts": {
+    "perche_mp": "PERCHÉ SCEGLIERE MP",
+    "diff_pillars": [
+      "Materiali atossici e lavabili su tutta la gamma",
+      "Materiali sicuri per l'uso dai 3 anni",
+      "Oltre 25 anni di esperienza"
+    ]
+  },
+  "xsell": {
+    "prod_acc": {},
+    "xrel": {
+      "MATITE COLORATE": [
+        {
+          "u": "X:PE305",
+          "c": "PE305",
+          "n": "MP MATITA DOPPIA PUNTA 5.0MM BLU+ROSSO 3PZ",
+          "ea": "8435464171959",
+          "sz": "5.0 mm",
+          "pk": "12",
+          "bx": "432",
+          "xi": "../../Catalogue材料/output_all/Carpeta 01_Escritura_2026_IT/../../../catalog_v2/assets/derived/PE305__solo.webp",
+          "sec": "Scrittura & Correzione",
+          "ty": "coordinato"
+        }
+      ],
+      "PENNELLI": [
+        {
+          "u": "X:PP298-01",
+          "c": "PP298-01",
+          "n": "ARTIX PENNELLO PROF LINGUA GATTO 2 12PZ NERO",
+          "ea": "8435464132639",
+          "sz": "—",
+          "pk": "12",
+          "bx": "288",
+          "xi": "../../Catalogue材料/output_all/Carpeta 08_Bellas Artes_2026_IT/../../../catalog_v2/assets/derived/PP298-01__solo.webp",
+          "sec": "Artix",
+          "ty": "coordinato"
+        }
+      ],
+      "TEMPERE": [
+        {
+          "u": "X:PP639-14",
+          "c": "PP639-14",
+          "n": "ARTIX PITTURA ACRILICA 35ML BLU FTALO",
+          "ea": "8435464107293",
+          "sz": "BLU",
+          "pk": "8",
+          "bx": "144",
+          "xi": "../../Catalogue材料/output_all/Carpeta 08_Bellas Artes_2026_IT/../../../catalog_v2/assets/derived/PP639-14__solo.webp",
+          "sec": "Artix",
+          "ty": "complemento"
+        }
+      ]
+    }
+  },
+  "deco": [
+    [
+      "links_small/links_flatlay.webp",
+      1452,
+      1800,
+      []
+    ]
+  ],
+  "brand": {
+    "color": "#A81457"
+  }
+}

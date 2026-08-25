@@ -1,0 +1,7934 @@
+{
+ "ACQUE": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "matita nuda + pennello; 5 e' la quota 19cm"
+ },
+ "ARTIX BLOCCO DISEGNO ACQUERELLI SPIRALATO": {
+  "conf": false,
+  "n": [
+   2,
+   5
+  ],
+  "nota": "blocco: copertina e vista interna"
+ },
+ "ARTIX BLOCCO DISEGNO COP. PP NERO LISC": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "blocco: copertina e vista interna"
+ },
+ "ARTIX CAVALLETTO DA TAVOLO IN LEGNO": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "ARTIX COPRI TAVOLOZZA MONOUSO CON 5PZ": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "ARTIX PENNELLI PROF 3PZ ASSORT": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "set di 3 pennelli nudi"
+ },
+ "ARTIX PENNELLI PROF PIATTI/TONDI 3PZ ASSORT": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "set di 3 pennelli nudi"
+ },
+ "ARTIX PENNELLI PROF STENCIL 3PZ ASSORT": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "set di 3 pennelli nudi"
+ },
+ "ARTIX PITTURA ACRILICA ORO METAL": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "tubetto singolo; 3 e' la scatola da 6"
+ },
+ "ARTIX SET PENNELLI PROF 19.5CM 3PZ ASSORT AZZURRO": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "set di 3 pennelli nudi"
+ },
+ "ARTIX SET PENNELLI PROF 20.5CM 4PZ ASSORT": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "i 4 pennelli in un unico riquadro"
+ },
+ "ARTIX SET PENNELLI PROF PIATTI/TONDI 3PZ": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "set di 3 pennelli nudi"
+ },
+ "ARTIX TAVOLOZZA IN LEGNO OVALE": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "due viste della tavolozza nuda"
+ },
+ "ARTIX TAVOLOZZA RETTANGOLARE": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "BD23023": {
+  "conf": false,
+  "n": [
+   3,
+   7,
+   9
+  ],
+  "nota": "3 zainetti nudi; etichette 3 e 9 tagliate"
+ },
+ "BEBASIC BUSTA 50PZ": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "BEBASIC COLLA STICK": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "stick + tappo"
+ },
+ "BEBASIC CORRETTORE A NASTRO 5MMX12M 3PZ": {
+  "conf": false,
+  "n": [
+   4,
+   5,
+   6
+  ],
+  "nota": "3 correttori nudi"
+ },
+ "BEBASIC EVIDENZIATORI A PENNA 6PZ": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "penna + cappuccio"
+ },
+ "BEBASIC PORTAMINE+RICARICA MINE HB 0.7 M": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "portamine + astuccio mine"
+ },
+ "BEBASIC SET DI PENNELLI PZ": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "nota": "set di 5 pennelli nudi"
+ },
+ "BICO": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "BLOCCO DISEGNO M4 20FF LISCIO ARTIX": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo la copertina, nessuno scatto nudo"
+ },
+ "BLOCCO DISEGNO M4 20FF RIQ.LISC ARTIX": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo la copertina, nessuno scatto nudo"
+ },
+ "BLOCCO DISEGNO M4 20FF RUVIDO ARTIX": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo la copertina, nessuno scatto nudo"
+ },
+ "BUONI DI CONSEGNA COPIE MODULI MP": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "blocco moduli; 2 e' il modulo stampato"
+ },
+ "CE1061IT": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo la confezione dei ricambi"
+ },
+ "CLIP": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due viste della pinza nuda"
+ },
+ "COMANDE COPIE MODULI MP": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "blocco moduli; 4 e' il modulo stampato"
+ },
+ "ESSENTIAL": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "unico riquadro col quaderno nudo"
+ },
+ "EX032": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "evidenziatore singolo; 1 e' l'espositore"
+ },
+ "EX167": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "l'espositore e' il prodotto"
+ },
+ "HK57009": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "i due zainetti nudi"
+ },
+ "HK57013": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "dispenser + rotoli nudi"
+ },
+ "HK57014": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": ""
+ },
+ "HK57020": {
+  "conf": false,
+  "n": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "nota": ""
+ },
+ "KU57009": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "nota": ""
+ },
+ "KU57013": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": ""
+ },
+ "KU57014": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": ""
+ },
+ "KU57020": {
+  "conf": false,
+  "n": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "nota": "6 e' il tappo, parte del prodotto"
+ },
+ "KUROMI ZAINO SCOLASTICO 2ZIP": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MAXIQUADERNO COLORE TOTALE": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": ""
+ },
+ "MO001": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3
+  ],
+  "nota": ""
+ },
+ "MO013": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3
+  ],
+  "nota": ""
+ },
+ "MO248": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "nota": ""
+ },
+ "MO506": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MO507": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MO508": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MO509": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "4 scartato: scatto con cibo dentro"
+ },
+ "MOLLE FERMACARTE": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "",
+  "per_code": {
+   "PA396": [
+    4
+   ]
+  }
+ },
+ "MP ACQUERELLI SET COLORI + PENNELLO": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP BACHECA IN SUGHERO": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP BADGE IDENTIFICATIVO ORIZZONTALE": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP BASE DA TAGLIO": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MP BLOCCO A7 70FF/60G": {
+  "conf": false,
+  "n": [
+   1,
+   4
+  ],
+  "nota": ""
+ },
+ "MP BLOCCO SPIRALATO A7 60FF/80G": {
+  "conf": false,
+  "n": [
+   1,
+   4,
+   5
+  ],
+  "nota": ""
+ },
+ "MP BUSTA 10PZ C/ASSORT": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP BUSTA 20PZ": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP BUSTA 60PZ": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo etichetta confezione"
+ },
+ "MP BUSTA BIGLIETTI VISITA TRASPARENTE CHIUSURA VEL": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "nota": ""
+ },
+ "MP BUSTA CHIUSURA BOTTONE NERO": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MP BUSTA IMBOTTITA": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo la confezione, due viste"
+ },
+ "MP BUSTA MULTIUSO IN TESSUTO C/CERNIERA COL. AS": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": ""
+ },
+ "MP BUSTA TRASLUCIDA CHIUSURA BOTTONE+PORTATESSE": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": ""
+ },
+ "MP BUSTA TRASP. BICOLOR CHIUSURA BOTTONE COL. A": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": ""
+ },
+ "MP BUSTA TRASPARENTE CHIUSURA BOTTONE COL. ASS.": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": ""
+ },
+ "MP BUSTA TRASPARENTE CHIUSURA BOTTONE NEUTRO": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MP BUSTA TRASPARENTE CHIUSURA RAPIDA COL. ASS.": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": ""
+ },
+ "MP BUSTA TRASPARENTE CHIUSURA VELCRO COL. ASS.": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP BUSTA TRASPARENTE LUCIDA CHIUSURA BOTTONE CO": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MP CARTA PER STAMPANTE": {
+  "conf": false,
+  "n": [
+   6
+  ],
+  "nota": "risma di fogli bianchi"
+ },
+ "MP CARTA PER STAMPANTE COL. ASS.": {
+  "conf": false,
+  "n": [
+   8
+  ],
+  "nota": "ventaglio fogli colorati"
+ },
+ "MP CARTELLA LEMBI CHIUSURA ELASTICO COL. ASS.": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP CARTELLA LEMBI TRASLUCIDA CH. ELASTICO COL": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MP CARTELLA LEMBI TRASLUCIDA CHIUSURA ELASTIC": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MP CARTELLA PORTADOCUMENTI LUCIDA CHIUSURA ZIP": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP CARTELLA SOFFIETTO DIVISORI CH. ELASTICO": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP CARTELLA TRASLUCIDA GOMMATA 3LEMBI CHIUSURA": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP CARTELLINA CON CLIP COL. ASS.": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MP CARTONCINO BIANCO DIAMANTE": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "unico oggetto: cartoncino bianco su fondo chiaro"
+ },
+ "MP CESTINO METALLICO NERO": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MP COLLA EXTRA FORTE DOPPIA PUNTA": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP COLLA ISTANT EXTRA FORTE": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "flacone piu tappo staccato"
+ },
+ "MP COLLA LIQUIDA ISTANTANEA": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "tubetto piu tappo staccato"
+ },
+ "MP COLLA SILICONICA": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MP COLLA STICK": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "stick chiuso, scatto principale"
+ },
+ "MP COLLA UNIVERSALE": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MP COLLA UNIVERSALE EXTRA FORTE": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MP COLLA VINILICA BIANCA": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MP COMPASSO BALAUSTRONE + ACC + MINE RICARICA": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "nota": "set di 4 pezzi separati"
+ },
+ "MP CORRETTORE A NASTRO MM X M": {
+  "conf": false,
+  "n": [
+   4,
+   5,
+   6
+  ],
+  "nota": "tre varianti colore, scatti equivalenti"
+ },
+ "MP CORRETTORE A NASTRO X": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "due varianti colore"
+ },
+ "MP CORRETTORE A NASTRO X 3PZ": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "riquadro unico sui 3 pezzi"
+ },
+ "MP CORRETTORE A NASTRO X 3PZ COL. ASS.": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "set di 3 pezzi"
+ },
+ "MP CORRETTORE A PENNA 4PZ": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP CUCITRICE BIANCA SENZA PUNTI METALLICI": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP ETICHE. PREZZO FLUORESCENTI GIALLO": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP EVIDENZIATORE 2-5MM COLORI FLUO": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "evidenziatore e cappuccio nello stesso riquadro"
+ },
+ "MP FORBICI SCUOLA C/ASSORT": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP KIT ELETTRICO CON MOTORE PER PROGETTI SCOLASTIC": {
+  "conf": false,
+  "n": [
+   6
+  ],
+  "nota": "contenuto completo del kit"
+ },
+ "MP LAVAGNA COMBO MAGNETICA/ARDESIA": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "le due facce della stessa lavagna"
+ },
+ "MP LAVAGNA MAGNETICA": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MP LAVAGNA MAGNETICA BIANCO IN ALLUMINIO": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "lavagna con etichetta, unico scatto"
+ },
+ "MP LAVAGNA MAGNETICA C/ALLUMINIO": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "lavagna con etichetta, unico scatto"
+ },
+ "MP LENTE DI INGRANDIMENTO": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP LENTE DI INGRANDIMENTO BORDO METALLICO": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP LETTERE ADESIVE IN EVA COL. ASS.": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP LETTERE IN EVA ADESIVI GLITTER": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP MATITA HB + GOMMA 4PZ": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP MATITE COLORATE CANCELLABILI CONF. COLORI": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "MP MATITE COLORATE CONF. COLORI": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "MP MINI CORRETTORE A NASTRO X": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5
+  ],
+  "nota": "tre colori del prodotto nudo"
+ },
+ "MP MINI CORRETTORE A PENNA 4PZ": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "penna + cappuccio"
+ },
+ "MP MINI PINZATRICE 24/6 26/6 COL. ASS. + RICARICA": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "nota": "quattro scatti nudi, colori assortiti"
+ },
+ "MP NOTE ADESIVE 4*50F COL. ASS.": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "MP NOTE ADESIVE COL. ASS.": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP NOTE ADESIVE COL. ASS. FLUO": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP NOTE ADESIVE GIALLO CHIARO": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP NOTE ADESIVE TRASPARENTI": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due scatti del blocco nudo"
+ },
+ "MP NUMERI ADESIVI IN EVA COL. ASS.": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "numeri sfusi divisi in tre riquadri"
+ },
+ "MP ORGANIZER DA SCRIVANIA SCOMPARTI NERO": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' solo un ritaglio parziale"
+ },
+ "MP PASTELLI A CERA CONF. COLORI": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "MP PASTELLI A CERA TONDO CONF. COLORI": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "MP PENNA SFERA 0.7MM CON BASE ANTIFURTO BLU": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "",
+  "per_code": {
+   "PE268A": [
+    2
+   ],
+   "PE268N": [
+    2
+   ]
+  }
+ },
+ "MP PENNA SFERA CANCELLABILE 0.7MM 4PZ": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "",
+  "per_code": {
+   "PE217N-S": [
+    1
+   ],
+   "PE217R-S": [
+    1
+   ]
+  }
+ },
+ "MP PENNARELLI CLASSICI PUNTA FINE CONF. COLORI": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5
+  ],
+  "nota": "set, pennarello e cappuccio"
+ },
+ "MP PENNARELLI JUMBO CONF. COLORI": {
+  "conf": false,
+  "n": [
+   4,
+   5
+  ],
+  "nota": "pennarello + cappuccio"
+ },
+ "MP PERFORATORE A FORI FF": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due scatti del perforatore nudo"
+ },
+ "MP PERFORATORE REGOLABILE FORI NERO": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "due viste del prodotto nudo"
+ },
+ "MP PERFORATRICE MANUALE 1FORO COL. ASS.": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "MP PINZATRICE DA BANCO 24/6 26/6 METAL + RICARICA": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP PINZATRICE M 24/6 26/6 COL. ASS. + RICARICA PUN": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "MP PISTOLA COLLA A CALDO + RICARICHE": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP PLASTILINA COL.ASS.": {
+  "conf": false,
+  "n": [
+   2,
+   4,
+   6,
+   7,
+   8,
+   9
+  ],
+  "nota": "sei panetti; 10 e' una figura modellata"
+ },
+ "MP PLASTILINA FLUO. COL.ASS.": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "panetti divisi in due riquadri"
+ },
+ "MP PLASTILINA PASTEL COL.ASS.": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "4 e' una figura modellata"
+ },
+ "MP PORTA BADGE VERTICALE": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "nessuno scatto nudo; 3 e' una mano"
+ },
+ "MP PORTABLOCCO IN LEGNO CON CLIP METALLICA": {
+  "conf": false,
+  "n": [
+   6
+  ],
+  "nota": "6: prodotto fuori conf., con foglio e penna"
+ },
+ "MP PORTABLOCCO IN LEGNO CON MOLLA A GANCIO": {
+  "conf": false,
+  "n": [
+   6
+  ],
+  "nota": "6: prodotto fuori conf., con foglio e penna"
+ },
+ "MP PORTADOCUMENTI ORIZZONTALE VASSOI NERO": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MP PORTALISTINI SPIRALATO BUSTE TRASPARENTI": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP PORTAMINE 2.0MM CON AFFILAMINE + RICARICHE HB": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5
+  ],
+  "nota": "3 portamine; 4-5 set con ricarica"
+ },
+ "MP PORTAPENNE": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "MP PUNTI METALLICI 23/13 CONF. 1000PZ ARGENTO": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "punti mai fotografati nudi"
+ },
+ "MP RIGHELLO CON GUIDE FORME LETTERE": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP RIGHELLO IN ALLUMINIO": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP RIGHELLO TRASPARENTE": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP SEGNAPAGINE ADESIVI RIMOVIBILI COL. ASS": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP SEGNAPAGINE ADESIVI RIMOVIBILI COL. ASS.": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP SEPARATORI CARTONCINO RACCOGLITORI ANELLI": {
+  "conf": true,
+  "n": [
+   2
+  ],
+  "nota": "nudo solo in conf.; 8 e' dentro un raccoglitore"
+ },
+ "MP SET DISEGNO GEOMETRICO 4PZ TRASPARENTE": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "gli altri pezzi stanno nel riquadro 1 col blister"
+ },
+ "MP SET PENNELLI PER SCUOLA": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "i due pennelli del set"
+ },
+ "MP SET PENNELLI SCOLASTICI EASY GRIP": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "MP SET SCRITTURA 2*MATITE HB+GOMMA+TEMPERINO": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5
+  ],
+  "nota": "matita, gomma, temperino"
+ },
+ "MP TAGLIACARTA A RULLO": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "1 racchiude blister e prodotto nudo insieme"
+ },
+ "MP TEMPERAMATITE DOPPIO FORO CON SERBATOIO CO": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "varianti colore"
+ },
+ "MP TEMPERAMATITE DOPPIO FORO CON SERBATOIO+ COPERC": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5,
+   6
+  ],
+  "nota": "4 col coperchio aperto; 3-5-6 varianti"
+ },
+ "MP TEMPERAMATITE ELETTRICO DA BANCO COL. ASS.": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "3 e' la scatola"
+ },
+ "MP TEMPERINO CON SERBATOIO": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "nota": "3 aperto; 4-5-6-7 varianti colore"
+ },
+ "MP ZIGZAG MISURE C/ASSORT": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "riquadri in alto: forbici + swatch del taglio"
+ },
+ "PA005-08": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "fronte e retro del righello"
+ },
+ "PA010": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "2 nastro tessile, 3 penna"
+ },
+ "PA011": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PA012": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PA017": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due viste della taglierina"
+ },
+ "PA102": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "varianti colore"
+ },
+ "PA103": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA104": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "versione bianca e nera"
+ },
+ "PA105": {
+  "conf": false,
+  "n": [
+   4,
+   5,
+   6,
+   7
+  ],
+  "nota": "varianti colore"
+ },
+ "PA106": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA109": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PA110": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "PA1101": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due varianti colore"
+ },
+ "PA1102": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "matita + temperino del set"
+ },
+ "PA1105": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "il rosa e' altra variante"
+ },
+ "PA112": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "il 2 e' scatto di gamma"
+ },
+ "PA117": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA118": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "compasso + adattatore"
+ },
+ "PA119": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "nota": "pezzi del set"
+ },
+ "PA120": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "PA122": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "solo il prodotto, niente conf."
+ },
+ "PA123": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "tubetto + mine"
+ },
+ "PA124": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA130": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "il 2 e' scatto di gamma"
+ },
+ "PA131": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA132": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "PA133": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "PA135": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "il 1 e' scatto di gamma"
+ },
+ "PA136": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "flauto fuori dalla busta"
+ },
+ "PA138": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "penna + cappuccio"
+ },
+ "PA139": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "PA140": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": "il 6 e' la scatola"
+ },
+ "PA141": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "il 3 e' la scatola"
+ },
+ "PA146": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "foglio magnetico nudo"
+ },
+ "PA148": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo cornice con cartellino"
+ },
+ "PA159": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "nota": "righelli del set"
+ },
+ "PA160": {
+  "conf": false,
+  "n": [
+   6
+  ],
+  "nota": ""
+ },
+ "PA165": {
+  "conf": false,
+  "n": [
+   4,
+   5
+  ],
+  "nota": "due stecche di punti"
+ },
+ "PA166": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA167": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA168": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "nota": "varianti colore e retro"
+ },
+ "PA169": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA174": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "aperta e chiusa"
+ },
+ "PA181": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "gesso singolo e i 6 colori"
+ },
+ "PA183": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "due scatti dei punti nudi"
+ },
+ "PA189": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA193": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA194": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA195": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA201": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA202": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA214": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "chiusa + aperta; 4 e' gamma misure"
+ },
+ "PA215": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "custodia con tessera"
+ },
+ "PA216": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PA220": {
+  "conf": true,
+  "n": [
+   5
+  ],
+  "nota": "punti solo insieme alla scatolina"
+ },
+ "PA221": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "custodia con tessere"
+ },
+ "PA230": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "nessuno scatto del kit nudo"
+ },
+ "PA262": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "l'1 e' scatto di gamma colori"
+ },
+ "PA263": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "l'1 e' scatto di gamma colori"
+ },
+ "PA273": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "l'1 e' scatto di gamma colori"
+ },
+ "PA337": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "il 4 e' la chiave, ambientato"
+ },
+ "PA341": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "gruppo di puntine spezzato in due"
+ },
+ "PA342": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA343": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA344": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "tre varianti colore"
+ },
+ "PA345": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA346": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "nota": "cinque varianti colore"
+ },
+ "PA347": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5
+  ],
+  "nota": "puntine sciolte, piu' scatti"
+ },
+ "PA348": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due varianti colore"
+ },
+ "PA350": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA351": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA352": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "nota": "quattro angolazioni del fermacampione"
+ },
+ "PA355": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "gruppo + anello singolo"
+ },
+ "PA356": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA357": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "il 3 e' la quota 28mm"
+ },
+ "PA358": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "spilla aperta + chiusa"
+ },
+ "PA359": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA364": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "il 2 e' scatto di gamma colori"
+ },
+ "PA365": {
+  "conf": false,
+  "n": [
+   3,
+   5,
+   6
+  ],
+  "nota": "3 varianti colore; 4 sono i fermagli inclusi"
+ },
+ "PA375": {
+  "conf": false,
+  "n": [
+   4,
+   5
+  ],
+  "nota": "gomma nuda + temperino nudo"
+ },
+ "PA376": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5
+  ],
+  "nota": "roller, penna e cappuccio"
+ },
+ "PA403": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "3 varianti colore"
+ },
+ "PA404": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "2 varianti colore"
+ },
+ "PA419": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "corpo + cappuccio"
+ },
+ "PA420": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' foto ambientata"
+ },
+ "PA425": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5
+  ],
+  "nota": "3 varianti colore"
+ },
+ "PA426": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "1 unisce blister e roller giallo"
+ },
+ "PA429": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "2 e 4 sono mani"
+ },
+ "PA433": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "5-6 spaccato con freccia rossa"
+ },
+ "PA440": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA441": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA442": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "pile di magneti + magnete singolo"
+ },
+ "PA455-1": {
+  "conf": false,
+  "n": [
+   5,
+   6
+  ],
+  "nota": "2 varianti colore"
+ },
+ "PA500": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": ""
+ },
+ "PA501": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": ""
+ },
+ "PA502": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": ""
+ },
+ "PA503": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "nastro con dispenser"
+ },
+ "PA504": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": ""
+ },
+ "PA505": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": ""
+ },
+ "PA506-01": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PA507-01": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PA508-01": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PA509-01": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA511-01": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "PA512-01": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "unico box copre tutta l'immagine, nessuno nudo"
+ },
+ "PA514": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "PA515": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "PA516": {
+  "conf": false,
+  "n": [
+   4,
+   5
+  ],
+  "nota": "applicatore + lembo di nastro"
+ },
+ "PA517-01": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "rotolo singolo; 1 e' il pacco da 6"
+ },
+ "PA518-01": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "rotolo singolo; 1 e' il pacco da 6"
+ },
+ "PA520": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   4,
+   5
+  ],
+  "nota": "4 varianti colore; 6 e' la scatola"
+ },
+ "PA524-01": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "blister e rotolo nudo uniti in un box"
+ },
+ "PA525": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "pistola nuda; 5 sono le quote"
+ },
+ "PA528": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "trio di colori + dispenser nero singolo"
+ },
+ "PA533": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "mucchio di anelli + anello singolo"
+ },
+ "PA535": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "nota": "4 moschettoni nudi"
+ },
+ "PA537": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "roller blu e rosso nudi"
+ },
+ "PA538": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5
+  ],
+  "nota": "tre viste del temperino nudo"
+ },
+ "PA540": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "nessuno scatto nudo, solo foto ambientate"
+ },
+ "PA541": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "3 correttori nudi"
+ },
+ "PA552": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "nota": "4 grip nudi; 6 e' la mano"
+ },
+ "PA553": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PA600": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "il foglio di appendini senza header"
+ },
+ "PA601": {
+  "conf": false,
+  "n": [
+   5,
+   6
+  ],
+  "nota": "cucitrice rosa e azzurra nude"
+ },
+ "PA602": {
+  "conf": false,
+  "n": [
+   6
+  ],
+  "nota": "le due cucitrici in un unico riquadro"
+ },
+ "PA603": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "nera e blu in un unico riquadro"
+ },
+ "PA604": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "cucitrice nera e rossa nude"
+ },
+ "PA606": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA607": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA621": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "perforatori blu, rosso e nero"
+ },
+ "PA622": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "perforatori blu, rosso e nero"
+ },
+ "PA623": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "perforatori blu, rosso e nero"
+ },
+ "PA627": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PA628": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' la scatola di punti PA220"
+ },
+ "PA629": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "4 e' la scatola di punti PA220"
+ },
+ "PA630": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "4 e' la scatola di punti PA220"
+ },
+ "PA631": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "due viste della cucitrice; 2 e' la scatola punti"
+ },
+ "PA632": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "3 e' la scatola di punti"
+ },
+ "PA633": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PA638": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": "i tre colori in un unico riquadro"
+ },
+ "PA640": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": "cucitrice bianca nuda; 4 e' la quota"
+ },
+ "PA641-01": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "3 e' la scatola di punti"
+ },
+ "PA650": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "unico riquadro col perforatore nudo"
+ },
+ "PA652": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "disco di ricambio singolo"
+ },
+ "PA653": {
+  "conf": false,
+  "n": [
+   6,
+   7
+  ],
+  "nota": "i due punzoni di ricambio nudi"
+ },
+ "PA751": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "5 astucci + astuccio verde; 1 e' l'imballo"
+ },
+ "PA809": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due temperini nudi"
+ },
+ "PA811": {
+  "conf": false,
+  "n": [
+   4,
+   5
+  ],
+  "nota": "due temperini metallici nudi"
+ },
+ "PA816": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "versione blu e rosa"
+ },
+ "PA832": {
+  "conf": false,
+  "n": [
+   4,
+   5
+  ],
+  "nota": "mappamondo + base con temperino"
+ },
+ "PA835": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "nota": "stesso prodotto in 4 scatti"
+ },
+ "PA841": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": ""
+ },
+ "PA842": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": ""
+ },
+ "PA843": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": ""
+ },
+ "PA844": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "pallone + base con temperino"
+ },
+ "PA845": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "set di 6 temperini"
+ },
+ "PA847": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA848": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PA858": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3
+  ],
+  "nota": "verde grande + verde e blu piccoli"
+ },
+ "PA859": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "PA860": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "PA861": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "PA863": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "coppia rosa/blu + giallo"
+ },
+ "PA865": {
+  "conf": false,
+  "n": [
+   5,
+   6
+  ],
+  "nota": "gomma azzurra e rosa aperte"
+ },
+ "PA900": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' scatto con penne dentro"
+ },
+ "PA901": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' scatto con penne dentro"
+ },
+ "PA903": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "PA905": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' una striscia sottile"
+ },
+ "PA907": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "PA909": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "PA914": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' foto ambientata"
+ },
+ "PA915": {
+  "conf": false,
+  "n": [
+   1,
+   3,
+   4
+  ],
+  "nota": "2 e' scatto con accessori"
+ },
+ "PA916": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "2 e 4 hanno penne dentro"
+ },
+ "PA922": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3 e' il cartone di spedizione"
+ },
+ "PA924B": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' scatto allestito"
+ },
+ "PA925B": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3 e' scatto allestito"
+ },
+ "PA926B": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' scatto allestito"
+ },
+ "PA927B": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' scatto con penne"
+ },
+ "PA930": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "cappuccio + corpo del marcatore"
+ },
+ "PA933": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "4 e' un duplicato sbiadito"
+ },
+ "PA934": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "PA939": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' il portapenne pieno di penne"
+ },
+ "PA945": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' la lavagna ambientata"
+ },
+ "PA946": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' la lavagna ambientata"
+ },
+ "PA948": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3-5 sono viste con i pennarelli dentro"
+ },
+ "PA949": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' la lavagna ambientata"
+ },
+ "PA952-6035": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "tappetino arrotolato; 3 e' ambientata"
+ },
+ "PA954-0913": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo espositore con cartoncino"
+ },
+ "PA957": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e 3 sono la seconda vista spezzata"
+ },
+ "PA966-01": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "portabiglietti vuoto; 1 ha il cartellino"
+ },
+ "PA991": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": "contenuto del kit fuori dal blister"
+ },
+ "PB1000": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "quaderno singolo; 3 e' la gamma colori"
+ },
+ "PB1028IT\nPB1029IT": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo la busta stampata"
+ },
+ "PB1030IT\nPB1031IT": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo la busta stampata"
+ },
+ "PB1032": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo la copertina, nessuno scatto nudo"
+ },
+ "PB1033": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo la copertina, nessuno scatto nudo"
+ },
+ "PB1034": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo la copertina, nessuno scatto nudo"
+ },
+ "PB1038": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo la copertina, nessuno scatto nudo"
+ },
+ "PB1050IT": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "riquadro unico su tutta la composizione"
+ },
+ "PB1054IT": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3 e 4 sono la gamma colori"
+ },
+ "PB1055IT": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3 e 4 sono la gamma colori"
+ },
+ "PB1056IT": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3 e' la gamma colori"
+ },
+ "PB1057IT": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3 e' la gamma colori"
+ },
+ "PB1062IT": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' la fascetta PROMO"
+ },
+ "PB311": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "blocco Master; 6 e' una mano"
+ },
+ "PB321": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "blocco: copertina e vista interna"
+ },
+ "PB363": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "riquadro unico: copertina e interno"
+ },
+ "PB364": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "riquadro unico con le varianti"
+ },
+ "PB365": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "riquadro unico: copertina e interni"
+ },
+ "PB388": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2-4 sono icone di dettaglio"
+ },
+ "PB420IT-01": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "6 e' la gamma colori"
+ },
+ "PB568-1IT": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "rubrica verde; 5 e 7 altri colori"
+ },
+ "PB970": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "riquadro unico: copertina e pagina interna"
+ },
+ "PB971": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "riquadro unico: modulo e copertina"
+ },
+ "PB974": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "blocco moduli; 2 e' il modulo stampato"
+ },
+ "PB975": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "blocco moduli; 2 e' il modulo stampato"
+ },
+ "PB978": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "copertina e blocco; 2 e' il modulo stampato"
+ },
+ "PB979": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "solo la copertina; 2-3 sono in conf."
+ },
+ "PB980": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "blocco moduli; 2 e' il modulo stampato"
+ },
+ "PC005": {
+  "conf": false,
+  "n": [
+   1,
+   3,
+   4,
+   5,
+   8
+  ],
+  "nota": "varianti colore; 6 dettaglio, 7 formato A4"
+ },
+ "PC007": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "1 nuda + 3 varianti; 4 dettaglio bottone"
+ },
+ "PC010": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "varianti colore; 4 dettaglio, 5 formato A4"
+ },
+ "PC012": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "2 nuda + 3 varianti; 1 quota, 4 dettaglio"
+ },
+ "PC015": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "1 nuda + 3 varianti; 4 dettaglio bottone"
+ },
+ "PC016": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "varianti colore; 4 dettaglio, 5 formato A4"
+ },
+ "PC018": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "riquadro unico su tutta la composizione"
+ },
+ "PC020": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3 dettaglio bottone, 4 formato A4"
+ },
+ "PC021": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' la quota 250x330mm"
+ },
+ "PC022": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' la quota 250x310mm"
+ },
+ "PC028": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   4,
+   5
+  ],
+  "nota": "1 nuda + 2-4-5 varianti; 6 dettaglio"
+ },
+ "PC029": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3 dettaglio bottone, 4 formato A4"
+ },
+ "PC031": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3 e' il dettaglio del bottone"
+ },
+ "PC035": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "1 nuda + 3 varianti; 4 dettaglio cerniera"
+ },
+ "PC038": {
+  "conf": false,
+  "n": [
+   1,
+   3,
+   4
+  ],
+  "nota": "1 fronte, 3 di lato, 4 varianti colore"
+ },
+ "PC039": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "due scatti della busta nuda"
+ },
+ "PC043": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "due scatti della busta nuda"
+ },
+ "PC048": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "3 e 4 buste nude; 5 dettaglio cerniera"
+ },
+ "PC059": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "2 nuda + 3 varianti; 1 e' la quota"
+ },
+ "PC074": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "2 nuda + 3 varianti; 4 foto con mano"
+ },
+ "PC075": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "2 nuda + 3 varianti; 4 foto con mano"
+ },
+ "PC076": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' la quota, 3 foto con mano"
+ },
+ "PC092": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "cartella chiusa e aperta"
+ },
+ "PC102IT": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3
+  ],
+  "nota": "varianti colore; 4 pannello caratteristiche"
+ },
+ "PC103IT-01": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "montata e in formato steso"
+ },
+ "PC105": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "1 nudo + 3 varianti colore"
+ },
+ "PC105IT-01": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "montata e in formato steso"
+ },
+ "PC107IT-01": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "montata e in formato steso"
+ },
+ "PC109IT": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "nota": "1 nudo + 2-3-4 varianti colore"
+ },
+ "PC110IT": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e 4 sono scatti di gamma"
+ },
+ "PC111IT-01": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "scatola montata + formato steso"
+ },
+ "PC113-A4": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3 e' coppia di gamma, 4 dettaglio"
+ },
+ "PC118": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "nudo solo in conf.; 3 e' in un raccoglitore"
+ },
+ "PC119": {
+  "conf": true,
+  "n": [
+   2
+  ],
+  "nota": "nudo solo in conf.; 8 e' in un raccoglitore"
+ },
+ "PC120": {
+  "conf": true,
+  "n": [
+   2
+  ],
+  "nota": "nudo solo in conf.; 11 e' in un raccoglitore"
+ },
+ "PC125": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "nota": "portablocco e varianti colore"
+ },
+ "PC126": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "nota": "portablocco e varianti colore"
+ },
+ "PC134": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "etichetta sul prodotto; 3 e 4 di gamma"
+ },
+ "PC142": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "etichetta sul prodotto; 3-5 ripetizioni"
+ },
+ "PC146": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "4 e' il set nudo, 1 e' la confezione"
+ },
+ "PC146B": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "4 e' il set nudo, 2 e' la confezione"
+ },
+ "PC148": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3 e' gamma, 4 dettaglio bottone"
+ },
+ "PC149": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PC150IT-01": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "chiuso e aperto"
+ },
+ "PC165": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' scatto di gamma"
+ },
+ "PC180IT-01": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "chiuso e aperto"
+ },
+ "PC204": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3 e' gamma, 4 dettaglio"
+ },
+ "PC212": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3 e' scatto di gamma"
+ },
+ "PC220": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' scatto di gamma"
+ },
+ "PC222": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PC223": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3 e' scatto di gamma"
+ },
+ "PC225": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "PC226": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' scatto di gamma"
+ },
+ "PC227": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3 e' scatto di gamma"
+ },
+ "PC228": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "PC230": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PC305": {
+  "conf": false,
+  "n": [
+   1,
+   4
+  ],
+  "nota": "chiusa e aperta"
+ },
+ "PC306": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "chiusa e aperta"
+ },
+ "PC307": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "chiusa e aperta"
+ },
+ "PC311": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "chiuso e aperto"
+ },
+ "PC331": {
+  "conf": false,
+  "n": [
+   1,
+   4
+  ],
+  "nota": "chiusa e aperta"
+ },
+ "PC335": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "chiusa e aperta"
+ },
+ "PC345": {
+  "conf": false,
+  "n": [
+   1,
+   4
+  ],
+  "nota": "chiusa e aperta"
+ },
+ "PC346": {
+  "conf": false,
+  "n": [
+   1,
+   4
+  ],
+  "nota": "cartella chiusa + aperta; 3 e' la gamma colori"
+ },
+ "PC348": {
+  "conf": false,
+  "n": [
+   1,
+   4
+  ],
+  "nota": "cartella chiusa + aperta; 3 e' la gamma colori"
+ },
+ "PC349": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "cartella chiusa + aperta; 3 e' la gamma colori"
+ },
+ "PC385": {
+  "conf": false,
+  "n": [
+   1,
+   4
+  ],
+  "nota": "cartella chiusa + aperta; 6 e' la sigla A4"
+ },
+ "PC392": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "cartella chiusa + aperta; 3 e' la gamma colori"
+ },
+ "PC452": {
+  "conf": false,
+  "n": [
+   1,
+   4
+  ],
+  "nota": "valigetta chiusa + aperta"
+ },
+ "PC453": {
+  "conf": false,
+  "n": [
+   1,
+   4
+  ],
+  "nota": "cartella chiusa + aperta"
+ },
+ "PC454": {
+  "conf": false,
+  "n": [
+   1,
+   4
+  ],
+  "nota": "cartella chiusa + aperta"
+ },
+ "PC461": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "raccoglitore chiuso + aperto"
+ },
+ "PC476": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "portablocco chiuso + aperto; 4 gamma colori"
+ },
+ "PC496": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "cartella chiusa + aperta"
+ },
+ "PC549": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo la conf. da 12, nessuno scatto nudo"
+ },
+ "PC550": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": "cartellina nuda; 1 e' la confezione"
+ },
+ "PC551": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "cartella con etichetta; 3 e' la gamma colori"
+ },
+ "PC553": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3-14 sono le varianti colore"
+ },
+ "PC555": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "busta nuda; 4 e' un dettaglio"
+ },
+ "PC556": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "busta nuda; 3-4 gamma colori"
+ },
+ "PC612": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "valigetta chiusa + aperta"
+ },
+ "PC613": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cartella chiusa + aperta"
+ },
+ "PC614": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "cartella chiusa + aperta; 3 gamma colori"
+ },
+ "PC619": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cartella chiusa + aperta; 5 e' la sigla A4"
+ },
+ "PC811": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "raccoglitore chiuso + aperto"
+ },
+ "PC882": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "5 e' la gamma colori; 3-4 in conf."
+ },
+ "PC883": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "5 e' la gamma colori; 3-4 in conf."
+ },
+ "PC884IT": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3-4 sono la gamma colori"
+ },
+ "PC901": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": "buste nude; 2 e' la confezione"
+ },
+ "PC902": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo la conf. da 50, nessuno scatto nudo"
+ },
+ "PC903": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": "buste nude; 2 e' la confezione"
+ },
+ "PC905": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": "buste nude; 2 e' la confezione"
+ },
+ "PC911": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "leggio nudo; 1 e' la busta, 3-5 dettagli"
+ },
+ "PC919": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "portablocco chiuso + aperto; 4 e' un badge"
+ },
+ "PC920": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "due viste del portablocco nudo"
+ },
+ "PD034-37": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo la busta con testata"
+ },
+ "PD140-01": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "album nudo; 2-3 sono quote 20cm"
+ },
+ "PE025": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "2/3 i due modelli, 4 la custodia chiusa; 5 e' testo"
+ },
+ "PE026": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE027": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "2 e 3 sono badge"
+ },
+ "PE028": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE029": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE030": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "2 e 3 sono in conf."
+ },
+ "PE031-1": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "2 e' la quota 10,5cm"
+ },
+ "PE032-01": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "4 e 5 sono quote"
+ },
+ "PE033-1": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE034-1": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "3 aperta, 2 chiusa (con quota nel riquadro)"
+ },
+ "PE035": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "5 e' foto con mano; 6-7 in conf."
+ },
+ "PE036": {
+  "conf": false,
+  "n": [
+   3,
+   5
+  ],
+  "nota": "due colori; 4 e 6 sono quote"
+ },
+ "PE102": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + penna"
+ },
+ "PE105": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + penna; 4 e' scritta GLITTER"
+ },
+ "PE106": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "cappuccio + penna (3 e 4 quasi uguali)"
+ },
+ "PE128-01": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5
+  ],
+  "nota": "cappuccio + marker (4 e 5 quasi uguali)"
+ },
+ "PE134": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' il pannello icone"
+ },
+ "PE135": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' il pannello icone"
+ },
+ "PE140": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' il pannello icone"
+ },
+ "PE143": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "penna con base"
+ },
+ "PE144": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "penna e cappuccio nello stesso riquadro"
+ },
+ "PE147": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE162": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE164-1": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "penna e cappuccio nello stesso riquadro"
+ },
+ "PE178": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "2 grande, 3 e 4 le due varianti colore"
+ },
+ "PE179": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "2 grande, 3 e 4 le due varianti colore"
+ },
+ "PE180": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + marker"
+ },
+ "PE185": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "unico riquadro: busta e penna insieme; 2 e' la quota"
+ },
+ "PE194": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' il pannello icone"
+ },
+ "PE195": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' il pannello icone"
+ },
+ "PE198": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE199": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE206A-S": {
+  "conf": false,
+  "n": [
+   4,
+   5
+  ],
+  "nota": "cappuccio + pennarello; 6 e' la quota"
+ },
+ "PE215A": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "set di 3 refill + refill singolo"
+ },
+ "PE216N": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "penna nuda + refill"
+ },
+ "PE221": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE224": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' la quota 14,5cm"
+ },
+ "PE228": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE234": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE236": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' la quota; 1 e' la confezione"
+ },
+ "PE240-01": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + penna; 4 e' la quota"
+ },
+ "PE242-01": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + penna; 4 e' la quota"
+ },
+ "PE243-01": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + penna; 4 e' la quota"
+ },
+ "PE244": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + stilografica"
+ },
+ "PE246": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "astuccio ricariche + cartucce sfuse"
+ },
+ "PE250-1": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' la quota 14cm"
+ },
+ "PE251": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE254": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' la quota 14,2cm"
+ },
+ "PE257-01": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE259": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + penna"
+ },
+ "PE259-50A": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + penna; 1 e' la scatola da 50"
+ },
+ "PE260": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "penna in 3 pezzi: tappo, corpo, cappuccio"
+ },
+ "PE261": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "2-3 e 6-8 sono in conf."
+ },
+ "PE262-18": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE263": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' la quota 13,7cm"
+ },
+ "PE295": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "tubetto + mine sfuse"
+ },
+ "PE296": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "tubetto + mine sfuse"
+ },
+ "PE299": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "2 e' in conf."
+ },
+ "PE300": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE301": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE305": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE307": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE311": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE312": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE313": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE315-2B": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE324": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "2 e 5 sono in conf."
+ },
+ "PE327": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE328": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e 4 sono la scritta METAL"
+ },
+ "PE330": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "nota": "cappuccio + pennarelli nudi"
+ },
+ "PE331-01": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + pennarello"
+ },
+ "PE332": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' il pannello di destra"
+ },
+ "PE333-2B": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE334": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "2 e' la scritta FLUOR"
+ },
+ "PE338": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE340": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' il pannello di destra"
+ },
+ "PE342-1": {
+  "conf": false,
+  "n": [
+   5,
+   6
+  ],
+  "nota": "cappuccio + matita eterna blu"
+ },
+ "PE345-005S": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + pennarello"
+ },
+ "PE346-01": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + pennarello"
+ },
+ "PE348-01": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' il pannello di destra"
+ },
+ "PE349": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' il pannello di destra"
+ },
+ "PE358-01": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "penna + ricarica; 2 e' il riquadro unito"
+ },
+ "PE362": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE411": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "cappuccio + pennarello"
+ },
+ "PE415": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "pennarello con cappuccio nello stesso box"
+ },
+ "PE419": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + pennarello"
+ },
+ "PE420": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' il pannello di destra"
+ },
+ "PE431": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE439": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE440": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' il pannello di destra"
+ },
+ "PE441": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE445": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + pennarello"
+ },
+ "PE453": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + pennarello"
+ },
+ "PE454": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' il pannello di destra"
+ },
+ "PE455": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE460-1": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "pennarello + cappuccio in alto"
+ },
+ "PE461": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "pennarello + cappuccio in alto"
+ },
+ "PE462": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "pennarello + cappuccio in alto"
+ },
+ "PE463": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "pennarello + cappuccio in alto"
+ },
+ "PE471": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE472": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE473": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PE474": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "pennarello + cappuccio; 4 e' la quota 14cm"
+ },
+ "PE486V-S": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "marcatore nudo con cappuccio"
+ },
+ "PE487V-S": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "marcatore nudo con cappuccio"
+ },
+ "PE493-3": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "marcatore nudo con cappuccio"
+ },
+ "PE494-9": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "4 e' la quota 13,5cm"
+ },
+ "PE503": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "2 e' la scritta FLUOR"
+ },
+ "PE504": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "2 e' la scritta PASTEL"
+ },
+ "PE505": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "3 = evidenziatore+cappuccio; 4 e' la quota"
+ },
+ "PE511R-S": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "marcatore nudo con cappuccio"
+ },
+ "PE513-02": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "marcatore nudo con cappuccio"
+ },
+ "PE516": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "2 e' la scritta FLUOR"
+ },
+ "PE517": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "cappuccio + evidenziatore"
+ },
+ "PE519": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "2 e' la scritta FLUOR"
+ },
+ "PE530": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 sono foto ambientate"
+ },
+ "PE531": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "evidenziatore + cappuccio"
+ },
+ "PE532": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "evidenziatore + cappuccio"
+ },
+ "PE533": {
+  "conf": false,
+  "n": [
+   5,
+   6
+  ],
+  "nota": "cappuccio + evidenziatore"
+ },
+ "PE534VL-S": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "cappuccio + evidenziatore"
+ },
+ "PE535": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "3 = cappuccio+evidenziatore; 4 e' la quota"
+ },
+ "PE537": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "cappuccio + evidenziatore; 5 e' la quota"
+ },
+ "PE539-03": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + marcatore; 4 foto ambientata"
+ },
+ "PE541R-S": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "penna + i due cappucci"
+ },
+ "PE543": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "cappuccio + stilografica; 5 e' la quota"
+ },
+ "PE544": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": "cartucce nude"
+ },
+ "PE545": {
+  "conf": false,
+  "n": [
+   4,
+   5
+  ],
+  "nota": "cappuccio + stilografica; 3 e' altro blister"
+ },
+ "PE546S": {
+  "conf": false,
+  "n": [
+   4,
+   5,
+   6
+  ],
+  "nota": "evidenziatore + 2 cappucci; 3 gamma colori"
+ },
+ "PE547": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "2 e' la variante nera; 1 e' l'espositore"
+ },
+ "PE548": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "2-3 varianti colore; 1 e' l'espositore"
+ },
+ "PE549-03": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + marcatore; 4 foto ambientata"
+ },
+ "PE551V": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "marcatore nudo"
+ },
+ "PE552V": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "marcatore nudo"
+ },
+ "PE557-1": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "penna nuda; 3 e' la quota 14,3cm"
+ },
+ "PE560": {
+  "conf": false,
+  "n": [
+   5,
+   10
+  ],
+  "nota": "matita + astuccio gomma; 2-4 varianti colore"
+ },
+ "PF041IT-12": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "copertina nuda; 3 e' applicata al quaderno"
+ },
+ "PF042IT-10": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "copertina PVC nuda; 1 ha overlay PROMO/A4"
+ },
+ "PF043": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "rotolo chiuso + rotolo srotolato"
+ },
+ "PF044": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "rotolo chiuso + rotolo srotolato"
+ },
+ "PG00X": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "elastico singolo; 2-3 sono badge",
+  "per_code": {
+   "PG010": [
+    1
+   ]
+  }
+ },
+ "PG018IT": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "elastico singolo"
+ },
+ "PG122": {
+  "conf": false,
+  "n": [
+   2,
+   4,
+   5,
+   6
+  ],
+  "nota": "gomma grande + 3 varianti colore"
+ },
+ "PG128": {
+  "conf": false,
+  "n": [
+   2,
+   6,
+   7
+  ],
+  "nota": "3 unita' complete; 3-5 sono dettagli"
+ },
+ "PG131": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "PG134": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "set di 3 gomme"
+ },
+ "PG136": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "gommini montati su matite"
+ },
+ "PG139-3": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "gommino singolo"
+ },
+ "PG143": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "set di 3 gomme"
+ },
+ "PG145": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PG150": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PG151": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "nota": "4 varianti colore"
+ },
+ "PG153": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "nota": "4 varianti colore"
+ },
+ "PG156": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "gruppo di 4 gomme"
+ },
+ "PG157": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "gruppo di 3 gomme"
+ },
+ "PG160": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "gruppo di 3 gomme"
+ },
+ "PG162": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PG163": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PG168": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "fila varianti + gomma singola"
+ },
+ "PG178-02": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "2-3 sono in conf."
+ },
+ "PG179R-01": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PG181": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": "2-4 sono in conf."
+ },
+ "PG186-02": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PG189-02": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "versione blu + versione rosa"
+ },
+ "PG191": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PG236-02": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "nota": "unita' complete + vista esplosa"
+ },
+ "PH001": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PH002": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PH003": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PH006": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "lama nuda; 2 e 3 quasi duplicati"
+ },
+ "PL003": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "riga flessibile nuda"
+ },
+ "PL008": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PL010": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 su supporto, 4 e' dettaglio scale"
+ },
+ "PL011": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PL012": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "PL013": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "PL014": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PL019-3": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due varianti colore; 4 e' icona"
+ },
+ "PL020-1": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "nota": "set 4 pezzi, due colorazioni; 10 icona"
+ },
+ "PL033": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PL041": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "3 e' il prodotto nel sacchetto"
+ },
+ "PL042": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PL051": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PL053IT": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PM001": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "occhi singoli nudi"
+ },
+ "PM021": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PM028-1": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PM091": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PM092": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PM094": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "2 e' ambientata con mano"
+ },
+ "PM095": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "2 e' ambientata con mano"
+ },
+ "PM096": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "2 e' ambientata con mano"
+ },
+ "PM097": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "2 e' ambientata con mano"
+ },
+ "PM144": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "PM145": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": ""
+ },
+ "PM154": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "2 e' schema quote mm"
+ },
+ "PM155": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "2 e' schema quote mm"
+ },
+ "PM156": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "2 e' schema quote mm"
+ },
+ "PM183": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PM186": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo la confezione"
+ },
+ "PM200": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PM264": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "nota": "timbro, inchiostro, pinzetta, lettere"
+ },
+ "PM539": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "mucchio + due lettere singole"
+ },
+ "PM540": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "mucchio + due lettere singole"
+ },
+ "PM701": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PM724": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "cono nudo; 2 e' la quota 5,5 cm"
+ },
+ "PM791": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "solo il prodotto nudo"
+ },
+ "PM802A": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "solo il prodotto nudo"
+ },
+ "PM803": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "solo il prodotto nudo"
+ },
+ "PM804": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "solo il prodotto nudo"
+ },
+ "PM805": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "solo il prodotto nudo"
+ },
+ "PM806": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "solo il prodotto nudo"
+ },
+ "PM807": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "solo il prodotto nudo"
+ },
+ "PM808": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "solo il prodotto nudo"
+ },
+ "PM933": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due viste del punzone nudo"
+ },
+ "PM936": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PN030N-1": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "cubo nudo senza fascetta"
+ },
+ "PN032-4": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "cubo nudo senza fascetta"
+ },
+ "PN108": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PN109": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PN110P": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PN125-87": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": "",
+  "per_code": {
+   "PN125-19": [
+    2,
+    5
+   ],
+   "PN125-20": [
+    4,
+    7
+   ]
+  }
+ },
+ "PN126-15": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "lavagna nuda; 4 e' la quota 29,7cm"
+ },
+ "PN138": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "foglio lettere nudo"
+ },
+ "PN150": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "nessuno scatto del prodotto nudo"
+ },
+ "PN151-39": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "foglio rondelle nudo"
+ },
+ "PN166-05": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "2 e' solo testo; nessun prodotto nudo"
+ },
+ "PN177": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PN178": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PN179": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' un ritaglio interno al 2"
+ },
+ "PN180": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PN181": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PN198": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "blocco incartato, nessuno scatto nudo"
+ },
+ "PN199": {
+  "conf": false,
+  "n": [
+   9
+  ],
+  "nota": "9 = pouch nuda; 8 e' la scatola"
+ },
+ "PN200": {
+  "conf": false,
+  "n": [
+   9
+  ],
+  "nota": "9 = pouch nuda; 8 e' la scatola"
+ },
+ "PN201": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "pouch nuda"
+ },
+ "PN202A": {
+  "conf": false,
+  "n": [
+   7
+  ],
+  "nota": "fogli carbone nudi"
+ },
+ "PN204": {
+  "conf": false,
+  "n": [
+   11
+  ],
+  "nota": "11 = fogli acetato nudi"
+ },
+ "PN206-07": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "tutte confezioni, nessun prodotto nudo"
+ },
+ "PN208-A4": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": ""
+ },
+ "PN209-A4": {
+  "conf": false,
+  "n": [
+   7
+  ],
+  "nota": ""
+ },
+ "PN210": {
+  "conf": false,
+  "n": [
+   7
+  ],
+  "nota": ""
+ },
+ "PN211N": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "PN216-A4": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": ""
+ },
+ "PN219-A4": {
+  "conf": false,
+  "n": [
+   7
+  ],
+  "nota": "7 e' il riquadro in alto a dx, etichetta tagliata"
+ },
+ "PN220": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": "2 e' un disegno schematico dei fogli"
+ },
+ "PN221-24": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo buste; 2 e' la gamma colori"
+ },
+ "PN222-24": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo buste; 2-20 sono la gamma colori"
+ },
+ "PN226-01": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PN228": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "PN240": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "PN253": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' il pannello incorniciato"
+ },
+ "PN254": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' il pannello incorniciato"
+ },
+ "PN255": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' il pannello incorniciato"
+ },
+ "PN256": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' il pannello incorniciato"
+ },
+ "PN257": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' il pannello incorniciato"
+ },
+ "PN261": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' il pannello incorniciato"
+ },
+ "PN262": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' il pannello incorniciato"
+ },
+ "PN263": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' il pannello incorniciato"
+ },
+ "PN264": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' il pannello incorniciato"
+ },
+ "PN308": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "3 e' foto ambientata, 4 icona"
+ },
+ "PN309": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "3 e' foto ambientata, 4 icona"
+ },
+ "PN314": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PN345-03": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' foto ambientata"
+ },
+ "PN350-03": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due scatti del foglietto nudo"
+ },
+ "PN353": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' dettaglio con lente, 4 ambientata"
+ },
+ "PN529IT": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' il pacco da 6, 3 le quote"
+ },
+ "PN563-5": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' il pannello incorniciato"
+ },
+ "PN595-18": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 pannello incorniciato, 3 quote, 4 badge"
+ },
+ "PN690-28": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e' il pannello incorniciato"
+ },
+ "PN747": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "PN802": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PN823": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PO016": {
+  "conf": false,
+  "n": [
+   1,
+   3
+  ],
+  "nota": "1 e 3 due scatti nudi; 4 pila da 6, 2-5 quote"
+ },
+ "PO212": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": "6 e' il prodotto in uso coi foglietti"
+ },
+ "PO301R": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PO305R": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "etichetta del 2 tagliata in alto"
+ },
+ "PORT PERS": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' la quota 243x317mm"
+ },
+ "PORT PPL": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' la gamma colori, 1 la quota"
+ },
+ "PP006-01": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3
+  ],
+  "nota": "1 stick + 2 cappuccio, 3 chiuso; 4 espositore"
+ },
+ "PP007": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3
+  ],
+  "nota": "1 stick + 2 cappuccio, 3 chiuso; 4 espositore"
+ },
+ "PP009": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3
+  ],
+  "nota": "1 stick + 2 cappuccio, 3 chiuso; 4 espositore"
+ },
+ "PP022-02": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' foto ambientata con le mani"
+ },
+ "PP025-02": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' foto ambientata con le mani"
+ },
+ "PP028-02": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "etichetta dell'1 tagliata; 2 ambientata"
+ },
+ "PP029-01": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "etichetta dell'1 tagliata; 2 ambientata"
+ },
+ "PP031": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 espositore, 3 pannello, 4-5 badge in conf."
+ },
+ "PP040": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due barre nude; 1 busta, 4 pistola, 5 testo"
+ },
+ "PP041": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due barre nude; 1 busta, 4 pistola"
+ },
+ "PP060": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "2 e' la copertina col cartoncino, 1 espositore"
+ },
+ "PP061-05": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "etichetta del 2 tagliata in alto"
+ },
+ "PP062-05": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "etichetta del 3 tagliata in alto"
+ },
+ "PP072": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "3 cappuccio, 4 tubetto"
+ },
+ "PP076": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "3 cappuccio, 4 tubetto"
+ },
+ "PP077": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "2 tubetto+cappuccio, etichetta tagliata"
+ },
+ "PP078": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5,
+   6
+  ],
+  "nota": "3+4 flacone brush, 5+6 tubetto gel"
+ },
+ "PP112": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "3 flacone, 4 tappo-pennello"
+ },
+ "PP156-24": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' la gamma colori"
+ },
+ "PP157-36": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "4 vassoio da 12, etichetta tagliata; 1-2 scatola"
+ },
+ "PP162-05": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e 3 sono confezione ed espositore"
+ },
+ "PP171": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "2 vassoio tubetti, 4 tubetto; 3 frammento"
+ },
+ "PP172": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "2 vassoio tubetti, 4 tubetto; 3 frammento"
+ },
+ "PP173": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "2 vassoio tubetti, 4 tubetto; 3 frammento"
+ },
+ "PP174": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "2 vassoio tubetti, 4 tubetto; 3 frammento"
+ },
+ "PP175": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "2 vassoio tubetti, 4 tubetto; 3 frammento"
+ },
+ "PP176": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "2 vassoio tubetti, 4 tubetto; 3 frammento"
+ },
+ "PP177": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "2 vassoio tubetti, 4 tubetto; 3 frammento"
+ },
+ "PP178": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5
+  ],
+  "nota": "3 vaschetta 6 tubetti; 4-5 tappo e tubetto"
+ },
+ "PP179": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "2 vaschetta 12 tubetti, 3 tubetto; 5 in conf."
+ },
+ "PP190": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "cappuccio, vaschetta 24 tubetti, tubetto"
+ },
+ "PP191": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "cappuccio, vaschetta 24 tubetti, tubetto"
+ },
+ "PP192": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "cappuccio, vaschetta 24 tubetti, tubetto"
+ },
+ "PP193": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "cappuccio, vaschetta 24 tubetti, tubetto"
+ },
+ "PP194": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "1 e' testo del titolo"
+ },
+ "PP195": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PP204-12": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "tappo + stick; 4 foto mano, 5 in conf."
+ },
+ "PP205": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3-5 loghi, 4 foto mano, 6 in conf."
+ },
+ "PP206-6": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "tappo + stick; 5 foto mano, 6 in conf."
+ },
+ "PP207-6": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "tappo + stick; 5 foto mano, 7 in conf."
+ },
+ "PP214": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "3 e' la tavolozza dentro la busta"
+ },
+ "PP215": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3
+  ],
+  "nota": "tre diametri; 4 e' un dettaglio"
+ },
+ "PP217": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 simbolo, 3 dettaglio"
+ },
+ "PP218": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   6,
+   7,
+   8
+  ],
+  "nota": "6 spatole; 5 e' la quota 14,5cm"
+ },
+ "PP219": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' lo scatto con i pennelli dentro"
+ },
+ "PP225": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "nota": "7 quota, 8 dettaglio, 9 in conf."
+ },
+ "PP226": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "nota": "8 quota, 9 dettaglio, 10 in conf."
+ },
+ "PP227": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "nota": "8 quota, 9 dettaglio"
+ },
+ "PP228": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "nota": "7 in conf., 8 quota, 9 dettaglio"
+ },
+ "PP230": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "5 dettaglio, 6 in conf."
+ },
+ "PP231": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "5 e' un dettaglio"
+ },
+ "PP234": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "5 dettaglio, 6 in conf."
+ },
+ "PP235": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "5 dettaglio, 6 in conf."
+ },
+ "PP249": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "tre pennelli nudi"
+ },
+ "PP250": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "tre pennelli nudi"
+ },
+ "PP251-C": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + pennello; 4 pannello istruzioni"
+ },
+ "PP252": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + pennello; 4 pannello istruzioni"
+ },
+ "PP253": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "cappuccio + pennello; 4 pannello istruzioni"
+ },
+ "PP254": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due sfumini nudi"
+ },
+ "PP255-05": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "nota": "5 verticali + 1 orizzontale; 7-8 pannelli"
+ },
+ "PP256-06": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "nota": "6 verticali + 1 orizzontale; 8-9 pannelli"
+ },
+ "PP260-24": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "3 scatola aperta, 4 pastello; 1 testo"
+ },
+ "PP261-03": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": "manichino nudo; 3-4-7 in conf."
+ },
+ "PP262D-01": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "mano nuda; 3 e' testo"
+ },
+ "PP264-36": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "palette aperta; 1 la scatola"
+ },
+ "PP278-03": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' foto ambientata"
+ },
+ "PP280": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "set di 3 pennelli nudi"
+ },
+ "PP281": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "set di 3 pennelli nudi"
+ },
+ "PP282": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "3 pennelli; 5 dettaglio fibra"
+ },
+ "PP283": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "3 pennelli; 5 dettaglio fibra"
+ },
+ "PP288-09": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "1 gamma misure, 2 pennello singolo"
+ },
+ "PP290-06": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "nota": "4 pennello grande, resto gamma misure"
+ },
+ "PP291-05": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "nota": "3 pennello grande, resto gamma misure"
+ },
+ "PP296-11": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "nota": "4 pennello grande, resto gamma misure"
+ },
+ "PP297-11": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "nota": "5 pennello grande, resto gamma misure"
+ },
+ "PP340-07": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "nota": "7 pennello grande, resto gamma misure"
+ },
+ "PP341-03": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "nota": "4 pennello grande, resto gamma misure"
+ },
+ "PP342-05": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "nota": "5 pennello grande, resto gamma misure"
+ },
+ "PP343-05": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "nota": "6 pennello grande, resto gamma misure"
+ },
+ "PP345-13": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13
+  ],
+  "nota": "9 pennello grande, resto gamma misure"
+ },
+ "PP347-14": {
+  "conf": false,
+  "n": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "nota": "15 pennello grande, resto gamma misure"
+ },
+ "PP386": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "nota": "6 pennelli nudi; 8 dettaglio fibra"
+ },
+ "PP388": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "nota": "5 inquadra due pennelli; 7 dettaglio"
+ },
+ "PP390": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "3 pennelli; 5 dettaglio fibra"
+ },
+ "PP391": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "3 pennelli; 5 dettaglio fibra"
+ },
+ "PP393": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "3 pennelli; 5 dettaglio fibra"
+ },
+ "PP394": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "3 pennelli; 5 dettaglio fibra"
+ },
+ "PP395": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "set di 3 pennelli nudi"
+ },
+ "PP396": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "3 pennelli; 5 dettaglio fibra"
+ },
+ "PP397": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "3 pennelli; 5 dettaglio fibra"
+ },
+ "PP398": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "3 pennelli; 5 dettaglio fibra"
+ },
+ "PP403": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "palette aperta; 1 la confezione"
+ },
+ "PP404": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "palette aperta; 2 in conf."
+ },
+ "PP405": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "palette nuda; 1 la scatola"
+ },
+ "PP409": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "1 senza etichetta; 2 con etichetta MP"
+ },
+ "PP410": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "1 senza etichetta; 2 con etichetta MP"
+ },
+ "PP412": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "2 e 3 sono in conf."
+ },
+ "PP414": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PP415": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "2 e' in conf."
+ },
+ "PP418": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "1 e 2 sono la confezione"
+ },
+ "PP421": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "due scatti della tavolozza nuda"
+ },
+ "PP429": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "2 disegno quotato, 3 ambientata"
+ },
+ "PP432": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PP433": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 scatola chiusa; 5-22 pezzi del set"
+ },
+ "PP494/98": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "due scatti; 3 dettaglio con frecce"
+ },
+ "PP610": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "nota": "i 6 barattoli nudi; 1 e 2 confezioni"
+ },
+ "PP611": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "PP615": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "nota": "i 6 barattoli nudi; 8 ambientata, 9 cifra"
+ },
+ "PP621": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e 3 icone e testo"
+ },
+ "PP622": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e 3 icone e testo"
+ },
+ "PP631": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "tubetto spezzato in 2 riquadri"
+ },
+ "PP632": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' la scritta FLUOR"
+ },
+ "PP634": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "tubetto + tappo; 3 e' in conf."
+ },
+ "PP639": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "tubetto spezzato in 2 riquadri"
+ },
+ "PP645": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "PP651": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1,3,4,5 lettere; 6 icone"
+ },
+ "PP652-": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1,3,4,5 lettere; 6 icone"
+ },
+ "PP661": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 icone e foto ambientata"
+ },
+ "PP663": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1,3,4,5 sono lettere"
+ },
+ "PP671": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2-6 sono lettere"
+ },
+ "PP672": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e 3 sono lettere"
+ },
+ "PP673": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e 3 sono lettere"
+ },
+ "PP674": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2-7 sono lettere"
+ },
+ "PP675": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' una lettera"
+ },
+ "PP676": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2-7 sono lettere"
+ },
+ "PP679": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": ""
+ },
+ "PP714": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "due scatti del cavalletto nudo"
+ },
+ "PP717": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "due scatti del cavalletto nudo"
+ },
+ "PP721": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "due scatti del cavalletto nudo"
+ },
+ "PP722": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "due scatti del cavalletto nudo"
+ },
+ "PP723": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "due viste del cavalletto nudo; 2 ha etichetta tagliata"
+ },
+ "PP826": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "matita nuda, etichetta tagliata dal bordo"
+ },
+ "PP827": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": "1-3-4 sono testi stampati"
+ },
+ "PP828": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": "1-3 sono testi stampati"
+ },
+ "PP841": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 sono i disegni, 4 la colonna icone"
+ },
+ "PP842": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 sono i disegni, 4 la colonna icone"
+ },
+ "PP856": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "pennarello + cappuccio"
+ },
+ "PP861": {
+  "conf": false,
+  "n": [
+   4,
+   5,
+   6
+  ],
+  "nota": "pennarello + due cappucci"
+ },
+ "PP862": {
+  "conf": false,
+  "n": [
+   6,
+   7,
+   8
+  ],
+  "nota": "pennarello + due cappucci"
+ },
+ "PP882": {
+  "conf": false,
+  "n": [
+   5,
+   6
+  ],
+  "nota": "pennarello + cappuccio"
+ },
+ "PP891": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "PP912": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": "5 e' la colonna icone"
+ },
+ "PP913": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": ""
+ },
+ "PP915": {
+  "conf": false,
+  "n": [
+   6,
+   7,
+   8
+  ],
+  "nota": "marker + due cappucci; 8 etichetta tagliata"
+ },
+ "PP917": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "penna + cappuccio; 5 e' il numero 6"
+ },
+ "PP920": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' la colonna icone"
+ },
+ "PP921": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' la colonna icone"
+ },
+ "PP922": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "marker + cappuccio"
+ },
+ "PP927": {
+  "conf": false,
+  "n": [
+   9,
+   13,
+   14
+  ],
+  "nota": "marker + due cappucci; il resto e' gamma colori"
+ },
+ "PP928": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "4 e' il cappuccio, gia' dentro il 3"
+ },
+ "PP93": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' la scatola"
+ },
+ "PP94": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "due viste della tela con cavalletto"
+ },
+ "PP942": {
+  "conf": false,
+  "n": [
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "nota": "i pastelli nudi; 7 ne contiene due"
+ },
+ "PP943": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": ""
+ },
+ "PP95": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "tela con quote 18/24cm"
+ },
+ "PP950": {
+  "conf": false,
+  "n": [
+   4,
+   5
+  ],
+  "nota": "due viste del salvadanaio nudo"
+ },
+ "PP96": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 e 3 sono le quote 20/30cm"
+ },
+ "PP97": {
+  "conf": false,
+  "n": [
+   1,
+   3,
+   4
+  ],
+  "nota": "tre viste della tela tonda"
+ },
+ "PP98": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' la colonna icone · v44.50 (Isaac 2026-08-17): su queste referenze l'abbinamento automatico ha preso un PITTOGRAMMA dell'artwork (marchio FSC / pannello '380 gr/m2 - 100% COTTON - 3,5cm') invece della tela. I riquadri icona sono IDENTICI pixel per pixel su tutte le referenze, quindi vincono il confronto per forma; la tela cambia misura a ogni referenza e perde. Qui si forza il pezzo giusto (lo stesso numero che scelgono le referenze sane della stessa famiglia).",
+  "per_code": {
+   "PP98-6090": [
+    2
+   ],
+   "PP98-50100": [
+    2
+   ]
+  }
+ },
+ "PP99": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' la colonna icone · v44.50 (Isaac 2026-08-17): su queste referenze l'abbinamento automatico ha preso un PITTOGRAMMA dell'artwork (marchio FSC / pannello '380 gr/m2 - 100% COTTON - 3,5cm') invece della tela. I riquadri icona sono IDENTICI pixel per pixel su tutte le referenze, quindi vincono il confronto per forma; la tela cambia misura a ogni referenza e perde. Qui si forza il pezzo giusto (lo stesso numero che scelgono le referenze sane della stessa famiglia).",
+  "per_code": {
+   "PP99-4080": [
+    1
+   ],
+   "PP99-100100": [
+    1
+   ],
+   "PP99-100120": [
+    1
+   ]
+  }
+ },
+ "PROTOCOLLO": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo la confezione incellofanata"
+ },
+ "PS001": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "busta nuda"
+ },
+ "PS002": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo l'etichetta; 2-3 sono lettere A5"
+ },
+ "PS006": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "buste nude, etichetta tagliata"
+ },
+ "PS035": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "buste nude; 1 confezione, 4 badge"
+ },
+ "PT100": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "forbice singola + trio colori"
+ },
+ "PT106": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PT108": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "2 e' in conf."
+ },
+ "PT109": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due viste della forbice nuda"
+ },
+ "PT110": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PT112": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due varianti colore"
+ },
+ "PT119": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PT120": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due varianti colore"
+ },
+ "PT121": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due varianti colore; 3 etichetta tagliata"
+ },
+ "PT122": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' pannello dettaglio a destra"
+ },
+ "PT134": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "4 grande; 2-3 varianti, etichette tagliate"
+ },
+ "PT135": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "nota": "2 grande; 3-4-5 varianti colore"
+ },
+ "PT137": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "aperta, chiusa e con lama estratta"
+ },
+ "PT140": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PT141": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PT142": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "PT143": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "3 e' il badge NON STICKY"
+ },
+ "PT200": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "1 la scatola, 3 colonna icone"
+ },
+ "PT201": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "2 unito ai formati A3-A6 e alle quote"
+ },
+ "PT302": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2 e' la quota 900x600mm"
+ },
+ "PT310": {
+  "conf": false,
+  "n": [
+   6
+  ],
+  "nota": "le due facce nude; 1-8-9 col cartoncino"
+ },
+ "PT311": {
+  "conf": false,
+  "n": [
+   6
+  ],
+  "nota": "le due facce nude; 1-8-9 col cartoncino"
+ },
+ "PT314": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "2-3 testi, 4 colonna dettagli"
+ },
+ "PT317": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "3 e' in conf., 4 colonna badge"
+ },
+ "PY001": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "il set di bastoncini nudi"
+ },
+ "PY002": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "nota": "i sei attrezzi nudi, etichette tagliate"
+ },
+ "PY003": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "nota": "i dieci attrezzi nudi; 6 etichetta tagliata"
+ },
+ "PY006": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "nota": "gli attrezzi nudi; 2 e' in conf."
+ },
+ "PY007": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "nota": "i sei attrezzi nudi; 2 e' in conf."
+ },
+ "PY008": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "due attrezzi nudi, etichette tagliate"
+ },
+ "PY03X": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "panetto nudo; 3 e' foto con mani"
+ },
+ "PY048": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   6,
+   7
+  ],
+  "nota": "plastilina piu le tre formine"
+ },
+ "PY049": {
+  "conf": false,
+  "n": [
+   2,
+   4,
+   5,
+   6,
+   7
+  ],
+  "nota": "plastilina, mattarello e tre formine"
+ },
+ "PY050": {
+  "conf": false,
+  "n": [
+   2,
+   4,
+   5,
+   6
+  ],
+  "nota": "2 mattarello, 4 plastilina, 5-6 stampini"
+ },
+ "PY051": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "4 e' l'unicorno modellato"
+ },
+ "PY052": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "5 e' la volpe modellata"
+ },
+ "PY053-58": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   8,
+   9,
+   10,
+   11
+  ],
+  "nota": "6 stampo singolo; gli altri sono lettere nude"
+ },
+ "QUADERNO A5 COLORE TOTALE": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "5 e' la gamma colori"
+ },
+ "RICAMBI RINFORZATI 80G": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo la confezione"
+ },
+ "S001": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "S002": {
+  "conf": false,
+  "n": [
+   4,
+   5,
+   6
+  ],
+  "nota": "tre colori del correttore nudo"
+ },
+ "S003": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": ""
+ },
+ "S004": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "S006": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "2 e' il cappuccio"
+ },
+ "S007": {
+  "conf": false,
+  "n": [
+   4,
+   5
+  ],
+  "nota": "5 e' lo scatto dall'alto, etichetta tagliata"
+ },
+ "S010": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "3 sono le mine sfuse"
+ },
+ "S011": {
+  "conf": false,
+  "n": [
+   4,
+   5
+  ],
+  "nota": "5 sono le mine sfuse"
+ },
+ "S012": {
+  "conf": false,
+  "n": [
+   4
+  ],
+  "nota": ""
+ },
+ "S013": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "2 cancellino, 4 marcatore"
+ },
+ "S017": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "S018": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "3 e' la scatolina di punti"
+ },
+ "S019": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": ""
+ },
+ "S020": {
+  "conf": false,
+  "n": [
+   3,
+   5
+  ],
+  "nota": "3 e' il cappuccio"
+ },
+ "S021": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   6
+  ],
+  "nota": "5 e' lo scatto aperto con inserto d'uso"
+ },
+ "S022": {
+  "conf": false,
+  "n": [
+   4,
+   7
+  ],
+  "nota": "5-6 sono trucioli e matita"
+ },
+ "S023": {
+  "conf": false,
+  "n": [
+   3,
+   4
+  ],
+  "nota": "3 etichetta tagliata; 4 scatola punti"
+ },
+ "S024": {
+  "conf": false,
+  "n": [
+   5,
+   6
+  ],
+  "nota": "6 e' la scatola punti"
+ },
+ "S025": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5,
+   6
+  ],
+  "nota": ""
+ },
+ "S026": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": ""
+ },
+ "S027": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "S028": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": ""
+ },
+ "S029": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "nota": "strisce nude spezzate in 10 riquadri"
+ },
+ "S030": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "etichetta 2 tagliata dal bordo"
+ },
+ "S031": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "2 e' la coppia, etichetta tagliata"
+ },
+ "S032": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "2 e' la coppia, etichetta tagliata"
+ },
+ "S033": {
+  "conf": false,
+  "n": [
+   1,
+   2
+  ],
+  "nota": "1 e' la gamma 4 colori"
+ },
+ "S034": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "nessuno scatto del prodotto nudo"
+ },
+ "S039-40": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "matita nuda con quota 17,5cm"
+ },
+ "S041-42": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "pastello nudo; 3-4 sono la scritta x12"
+ },
+ "S046": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "pennarello nudo con cappuccio"
+ },
+ "S049": {
+  "conf": false,
+  "n": [
+   2,
+   3,
+   4
+  ],
+  "nota": "tre varianti colore del correttore"
+ },
+ "S050": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "tubetto singolo; 2 e' la scatola da 6"
+ },
+ "S051": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "vaschetta 12 tubetti; 4 e' il dettaglio"
+ },
+ "S052": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "vaschetta 12 tubetti; 3 e' il dettaglio"
+ },
+ "S053": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "vaschetta 12 tubetti; 3-4 dettaglio"
+ },
+ "S054": {
+  "conf": true,
+  "n": [
+   1
+  ],
+  "nota": "solo scatola e risma, nessun prodotto nudo"
+ },
+ "S055": {
+  "conf": false,
+  "n": [
+   2,
+   3
+  ],
+  "nota": "marker nudo piu cappuccio staccato"
+ },
+ "S056": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5
+  ],
+  "nota": "marker dual tip e i due cappucci"
+ },
+ "S059": {
+  "conf": false,
+  "n": [
+   5
+  ],
+  "nota": "calcolatrice nuda; 1 e 3 blister"
+ },
+ "S060": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "calcolatrice nuda"
+ },
+ "S061": {
+  "conf": false,
+  "n": [
+   2,
+   4
+  ],
+  "nota": "calcolatrice piu coperchio staccato"
+ },
+ "S062": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "cubo nudo; 1 e' quello incartato"
+ },
+ "S065": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "penna nuda"
+ },
+ "S066": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "matita nuda"
+ },
+ "S071": {
+  "conf": false,
+  "n": [
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "nota": "i 5 pennelli nudi"
+ },
+ "SA034": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "astuccio isolato; 1 e' la gamma colori"
+ },
+ "SA035": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "astuccio isolato; 2 e' la gamma colori"
+ },
+ "SA045": {
+  "conf": false,
+  "n": [
+   3
+  ],
+  "nota": "astuccio isolato; 2 e' la gamma colori"
+ },
+ "SA047": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "astuccio isolato; 1 e' la gamma colori"
+ },
+ "SA317": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "trolley nudo"
+ },
+ "SA318": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "zaino nudo"
+ },
+ "SA319": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "zaino nudo"
+ },
+ "SA320": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "zaino nudo"
+ },
+ "SA321": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "trolley nudo"
+ },
+ "SA510": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "borsa nuda; 2 e' aperta col contenuto"
+ },
+ "SAMPACK ASTUCCIO PORTAMATITE CON 3ZIP 22X10X10CM": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "astuccio isolato; 2 e' la gamma colori"
+ },
+ "SAMPACK ASTUCCIO PORTAMATITE CON 4ZIP 22X10X10CM": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "astuccio isolato; 1 e' la gamma colori"
+ },
+ "SAMPACK ASTUCCIO RETTANGOLARE SIMILPELLE CO": {
+  "conf": false,
+  "n": [
+   1
+  ],
+  "nota": "astuccio isolato; 2-3 gamma colori"
+ },
+ "SAMPACK ASTUCCIO TRASPARENTE CON 2ZIP 23X6X9CM": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "astuccio isolato; 1 e' la gamma colori"
+ },
+ "TRASP": {
+  "conf": false,
+  "n": [
+   2
+  ],
+  "nota": "raccoglitore nudo"
+ }
+}

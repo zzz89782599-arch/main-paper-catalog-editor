@@ -1,0 +1,19 @@
+{
+  "section": "BLOCCHI",
+  "lite": true,
+  "texts": {
+    "perche_mp": "PERCHÉ SCEGLIERE MP",
+    "diff_pillars": [
+      "Materiali trasparenti antiriflesso e plastiche infrangibili",
+      "Materiali sicuri per l'uso scolastico su tutta la gamma",
+      "Oltre 25 anni di esperienza"
+    ]
+  },
+  "deco": [
+    ["links_small/links_stack.webp", 1800, 1351, []],
+    ["links_small/links_tabs.webp", 1800, 1351, []]
+  ],
+  "brand": {
+    "color": "#0B6076"
+  }
+}

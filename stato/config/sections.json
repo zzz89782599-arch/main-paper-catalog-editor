@@ -1,0 +1,177 @@
+{
+  "order": [
+    "SCRITTURA&CORREZIONE",
+    "UFFICIO",
+    "ARCHIVIAZIONE",
+    "SCUOLA",
+    "CREATIVITà KIDS",
+    "DIY",
+    "ARTIX",
+    "CERVANTES",
+    "BE BASIC",
+    "ZAINI E ASTUCCI",
+    "QUADERNI",
+    "SANRIO",
+    "COPRIMAXI",
+    "Bigdream",
+    "MODULISTICA",
+    "BLOCCHI",
+    "BLOCCHI DA DISEGNO",
+    "ACCESSORI",
+    "ESPOSITORE",
+    "COPRILIBRO",
+    "BELLE ARTI"
+  ],
+  "map": {
+    "SCRITTURA&CORREZIONE": {
+      "dir": "Carpeta 01_Escritura_2026_IT",
+      "chapter": "01",
+      "title_it": "Scrittura & Correzione",
+      "title_cn": "书写与修正",
+      "run_head": "scrittura&correzione"
+    },
+    "UFFICIO": {
+      "dir": "Carpeta 02_Sobremesa_2026_IT",
+      "chapter": "02",
+      "title_it": "Ufficio",
+      "title_cn": "办公",
+      "run_head": "ufficio"
+    },
+    "ARCHIVIAZIONE": {
+      "dir": "Carpeta 03_Archivo_2026_IT",
+      "chapter": "03",
+      "title_it": "Archiviazione",
+      "title_cn": "档案",
+      "run_head": "archiviazione"
+    },
+    "SCUOLA": {
+      "dir": "Carpeta 05_Escolar_2026_IT",
+      "chapter": "05",
+      "title_it": "Scuola",
+      "title_cn": "学校",
+      "run_head": "scuola"
+    },
+    "DIY": {
+      "dir": "Carpeta 07_Manualidades_2026_IT",
+      "chapter": "07",
+      "title_it": "DIY",
+      "title_cn": "手工",
+      "run_head": "diy"
+    },
+    "ARTIX": {
+      "dir": "Carpeta 08_Bellas Artes_2026_IT",
+      "chapter": "08",
+      "title_it": "Artix",
+      "title_cn": "美术",
+      "run_head": "artix"
+    },
+    "CREATIVITà KIDS": {
+      "dir": "Carpeta 05_Escolar_2026_IT",
+      "chapter": "06",
+      "title_it": "Creatività Kids",
+      "title_cn": "儿童创意",
+      "run_head": "creatività kids"
+    },
+    "CERVANTES": {
+      "dir": "Sezione 09_Cervantes",
+      "chapter": "09",
+      "title_it": "Cervantes",
+      "title_cn": "",
+      "run_head": "cervantes"
+    },
+    "BE BASIC": {
+      "dir": "Sezione 10_Be Basic",
+      "chapter": "10",
+      "title_it": "Be Basic",
+      "title_cn": "",
+      "run_head": "be basic"
+    },
+    "ZAINI E ASTUCCI": {
+      "dir": "Sezione 11_Zaini e Astucci",
+      "chapter": "11",
+      "title_it": "Zaini e Astucci",
+      "title_cn": "",
+      "run_head": "zaini e astucci"
+    },
+    "QUADERNI": {
+      "dir": "Sezione 12_Quaderni",
+      "chapter": "12",
+      "title_it": "Quaderni",
+      "title_cn": "",
+      "run_head": "quaderni"
+    },
+    "SANRIO": {
+      "dir": "Sezione 13_Sanrio",
+      "chapter": "13",
+      "title_it": "Sanrio",
+      "title_cn": "",
+      "run_head": "sanrio"
+    },
+    "COPRIMAXI": {
+      "dir": "Sezione 14_Coprimaxi",
+      "chapter": "14",
+      "title_it": "Coprimaxi",
+      "title_cn": "",
+      "run_head": "coprimaxi"
+    },
+    "Bigdream": {
+      "dir": "Sezione 15_Bigdream",
+      "chapter": "15",
+      "title_it": "Bigdream",
+      "title_cn": "",
+      "run_head": "bigdream"
+    },
+    "MODULISTICA": {
+      "dir": "Sezione 16_Modulistica",
+      "chapter": "16",
+      "title_it": "Modulistica",
+      "title_cn": "",
+      "run_head": "modulistica"
+    },
+    "BLOCCHI": {
+      "dir": "Sezione 17_Blocchi",
+      "chapter": "17",
+      "title_it": "Blocchi",
+      "title_cn": "",
+      "run_head": "blocchi"
+    },
+    "BLOCCHI DA DISEGNO": {
+      "dir": "Sezione 18_Blocchi da Disegno",
+      "chapter": "18",
+      "title_it": "Blocchi da Disegno",
+      "title_cn": "",
+      "run_head": "blocchi da disegno"
+    },
+    "ACCESSORI": {
+      "dir": "Sezione 19_Accessori",
+      "chapter": "19",
+      "title_it": "Accessori",
+      "title_cn": "",
+      "run_head": "accessori"
+    },
+    "ESPOSITORE": {
+      "dir": "Sezione 20_Espositori",
+      "chapter": "20",
+      "title_it": "Espositori",
+      "title_cn": "",
+      "run_head": "espositore"
+    },
+    "COPRILIBRO": {
+      "dir": "Sezione 21_Coprilibro",
+      "chapter": "21",
+      "title_it": "Coprilibro",
+      "title_cn": "",
+      "run_head": "coprilibro"
+    },
+    "BELLE ARTI": {
+      "dir": "Sezione 22_Belle Arti",
+      "chapter": "22",
+      "title_it": "Belle Arti",
+      "title_cn": "",
+      "run_head": "belle arti"
+    }
+  },
+  "slug_overrides": {
+    "SCRITTURA&CORREZIONE": "scrittura"
+  }
+}

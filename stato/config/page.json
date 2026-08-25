@@ -1,0 +1,10 @@
+{
+  "_comment": "Page setup (mm): page size + margins + content box. Edit for a different format. NB: the per-module heights in paginate.L (R_*, C_*, T12_*, IDX_*, …) are design-tuned for THIS content area and would need re-tuning for a very different size. The JS engine reads dist/port/L.json baked from paginate.L (via build/export_port_data.py) — after changing this, re-bake so JS stays in sync (builder/model parity enforces it).",
+  "PAGE_W": 210.0,
+  "PAGE_H": 297.0,
+  "M_IN": 13.0,
+  "M_OUT": 15.0,
+  "CONTENT_TOP_FIRST": 44.0,
+  "CONTENT_TOP_CONT": 27.0,
+  "CONTENT_BOTTOM": 282.0
+}

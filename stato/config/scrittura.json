@@ -1,0 +1,366 @@
+{
+  "section": "SCRITTURA&CORREZIONE",
+  "lang": "it",
+  "opener": {
+    "kicker": "CAPITOLO PRIMO",
+    "chapter_big": "01",
+    "title_lines": [
+      "Scrittura",
+      "& Correzione"
+    ],
+    "hero_img": "../../../catalog_v2/assets/hero/scrittura__A.webp",
+    "intro": "Oltre 500 referenze per scrittura e correzione: penne a sfera a inchiostro a base d'olio e gel (punte 0,5 / 0,7 / 1,0 mm), fineliner e roller a inchiostro liquido, marcatori indelebili e per lavagna bianca, evidenziatori fluo e pastello, matite in legno e portamine, gomme classiche e cancellabili, correttori a nastro (extra-lungo, mini, asciugatura immediata) e a pennello, temperini a uno e doppio foro. Impugnature ergonomiche, fusti trasparenti con visualizzatore d'inchiostro, formule non tossiche. Disponibili in blister singoli, multipack risparmio ed espositori da banco.",
+    "featured": [
+      "EX032",
+      "PA466-02",
+      "PE519"
+    ]
+  },
+  "editorial": {
+    "title_main": "BUSINESS SCHOOL HOME",
+    "title_sub": "cancelleria di qualità, dal 1998",
+    "side_tag": "MP Qualità",
+    "lead": "Dal 1998 Main Paper progetta e distribuisce cancelleria di qualità per ufficio, scuola e casa. Azienda CEPYME500 — riconosciuta tra le 500 imprese leader per crescita, innovazione e proiezione internazionale — e premiata dalla Comunità di Madrid per l'innovazione e la qualità nei prodotti di cancelleria. Il capitolo scrittura &amp; correzione è il pilastro storico del catalogo: oltre 500 referenze in 26 sottocategorie.",
+    "stats": [
+      {
+        "n": "526",
+        "l": "REFERENZE"
+      },
+      {
+        "n": "26",
+        "l": "SOTTOCAT."
+      }
+    ],
+    "pillars": [
+      {
+        "h": "SICUREZZA",
+        "b": "Inchiostri non tossici e formule ipoallergeniche, pensati per un uso sicuro."
+      },
+      {
+        "h": "ERGONOMIA",
+        "b": "Impugnature Silicone Grip antiscivolo, fusti triangolari e contrappesi bilanciati riducono l'affaticamento in scrittura prolungata."
+      },
+      {
+        "h": "SOSTENIBILITÀ",
+        "b": "Blister riciclati, formule a base acqua e ricariche disponibili per ridurre gli sprechi. Legno responsabile per le matite."
+      },
+      {
+        "h": "ASSORTIMENTO",
+        "b": "Palette Fluor a 6 colori e Pastel a 6 colori, punte da 0,5/0,7/1,0 mm, lunghezze correttori 6/8/12/20 m — copertura completa dei formati richiesti dal mercato B2B."
+      }
+    ],
+    "scenes": [
+      {
+        "img": "originals_small/IMG_6374.webp",
+        "cap": "Ambiente scolastico"
+      },
+      {
+        "img": "originals_small/IMG_8776.webp",
+        "cap": "Ambiente ufficio"
+      },
+      {
+        "img": "originals_small/scene_correzione.webp",
+        "cap": "Soluzioni di correzione"
+      }
+    ],
+    "certs": [],
+    "timeline": [
+      {
+        "y": "1998",
+        "l": "Fondazione MP"
+      },
+      {
+        "y": "2005",
+        "l": "GDO europea"
+      },
+      {
+        "y": "2012",
+        "l": "30+ paesi"
+      },
+      {
+        "y": "2018",
+        "l": "Linea eco"
+      },
+      {
+        "y": "2022",
+        "l": "Premio Madrid · CEPYME500"
+      }
+    ]
+  },
+  "promo_page": {
+    "title": "Promozioni & Pre-order",
+    "side_tag": "Novità 2026",
+    "intro": "Offerte e pre-ordini attivi del capitolo. I prodotti sono contrassegnati anche nelle pagine di catalogo."
+  },
+  "hero_rule": {
+    "max_fams": 8,
+    "require_desc": true
+  },
+  "big_family_min": 20,
+  "tips": {
+    "_generic": [
+      "Dal 1998 Main Paper distribuisce cancelleria con standard qualitativi elevati.",
+      "Tutti i prodotti MP sono testati secondo gli standard europei di sicurezza per l'uso scolastico e professionale.",
+      "Il programma RFQ Main Paper garantisce quotazioni entro 24 ore e un ordine minimo di un solo collo."
+    ],
+    "EVIDENZIATORI": "Un evidenziatore MP scrive fino a 600 metri: la punta a scalpello traccia linee da 2 e 5 mm con un solo gesto.",
+    "GOMME": "Le gomme termoplastiche MP non contengono PVC e cancellano senza residui: la grafite aderisce alla gomma, non alla carta.",
+    "MATITE GRAFITE": "La durezza HB è lo standard europeo per la scrittura: più grafite per un tratto scuro, più argilla per una punta resistente.",
+    "PENNE A SFERA": "L'inchiostro a base d'olio asciuga in meno di un secondo: ideale per la scrittura veloce e per i mancini.",
+    "PENNE GEL": "L'inchiostro gel unisce la fluidità del roller alla brillantezza dei pigmenti: colori intensi anche su carta riciclata.",
+    "MARCATORE INDELEBILE": "L'inchiostro permanente MP resiste ad acqua e luce: su plastica, metallo e vetro asciuga in 3-5 secondi.",
+    "TEMPERINI": "Il temperino a doppio foro copre matite standard e maxi: la lama in acciaio temperato dura oltre 2.000 temperature.",
+    "PORTAMINE": "Le mine da 0,5 e 0,7 mm in grafite polimerica si spezzano il 40% in meno rispetto alle mine tradizionali.",
+    "PENNE CANCELLABILI": "L'inchiostro termocromico scompare a 60 °C con la frizione e riappare sotto i -10 °C: la scrittura non si perde mai.",
+    "PENNARELLI PER LAVAGNA": "L'inchiostro dry-erase si rimuove a secco anche dopo giorni: pigmenti a bassa adesione per lavagne sempre pulite.",
+    "MARCATORE A VERNICE": "La vernice MP copre su qualsiasi superficie, anche scura: metallo, legno, vetro e pneumatici.",
+    "PENNE A INCHIOSTRO LIQUIDO": "Il serbatoio visibile delle penne roller MP mostra l'inchiostro residuo: mai più a corto d'inchiostro a metà riga.",
+    "KIT DI SCRITTURA": "I kit MP combinano penna, matita, gomma e righello: la soluzione completa per scuola e ufficio in un solo blister."
+  },
+  "related": {
+    "ACCESSORI": [
+      "PORTAMINE",
+      "MATITE GRAFITE",
+      "GOMME",
+      "TEMPERINI"
+    ],
+    "CORRETTORI A NASTRO": [
+      "CORRETTORI A PENNA",
+      "PENNE A SFERA",
+      "PENNE GEL"
+    ],
+    "CORRETTORI A PENNA": [
+      "CORRETTORI A NASTRO",
+      "PENNE A SFERA",
+      "CORRETTORI A PENNELLO"
+    ],
+    "CORRETTORI A PENNELLO": [
+      "CORRETTORI A NASTRO",
+      "CORRETTORI A PENNA",
+      "PENNE A SFERA"
+    ],
+    "EVIDENZIATORI": [
+      "PENNE A PUNTA FINE",
+      "PENNARELLI CALIBRATI",
+      "PENNE GEL",
+      "PENNE A SFERA"
+    ],
+    "GESSO LIQUIDO": [
+      "PENNARELLI PER LAVAGNA",
+      "MARCATORE A VERNICE",
+      "MARCATORE INDELEBILE",
+      "PENNARELLI SPECIALI"
+    ],
+    "GOMME": [
+      "MATITE GRAFITE",
+      "PORTAMINE",
+      "TEMPERINI",
+      "MATITE COLORATE"
+    ],
+    "KIT DI SCRITTURA": [
+      "PENNE A SFERA",
+      "MATITE GRAFITE",
+      "GOMME",
+      "TEMPERINI"
+    ],
+    "MARCATORE A VERNICE": [
+      "MARCATORE INDELEBILE",
+      "GESSO LIQUIDO",
+      "MARCATORE TESSILE",
+      "PENNARELLI SPECIALI"
+    ],
+    "MARCATORE INDELEBILE": [
+      "MARCATORE A VERNICE",
+      "MARCATORE TESSILE",
+      "PENNARELLI PER LAVAGNA",
+      "PENNARELLI SPECIALI"
+    ],
+    "MARCATORE TESSILE": [
+      "MARCATORE INDELEBILE",
+      "MARCATORE A VERNICE",
+      "PENNARELLI SPECIALI",
+      "PENNARELLI CALIBRATI"
+    ],
+    "MATITE COLORATE": [
+      "TEMPERINI",
+      "GOMME",
+      "MATITE GRAFITE",
+      "ACCESSORI"
+    ],
+    "MATITE ETERNE": [
+      "MATITE GRAFITE",
+      "PORTAMINE",
+      "GOMME",
+      "TEMPERINI"
+    ],
+    "MATITE GRAFITE": [
+      "GOMME",
+      "TEMPERINI",
+      "PORTAMINE",
+      "MATITE ETERNE"
+    ],
+    "PENNARELLI CALIBRATI": [
+      "PENNE A PUNTA FINE",
+      "EVIDENZIATORI",
+      "MATITE GRAFITE",
+      "GOMME"
+    ],
+    "PENNARELLI PER LAVAGNA": [
+      "GESSO LIQUIDO",
+      "MARCATORE INDELEBILE",
+      "MARCATORE A VERNICE",
+      "ACCESSORI"
+    ],
+    "PENNARELLI SPECIALI": [
+      "MARCATORE INDELEBILE",
+      "MARCATORE A VERNICE",
+      "PENNARELLI CALIBRATI",
+      "MARCATORE TESSILE"
+    ],
+    "PENNE A INCHIOSTRO LIQUIDO": [
+      "PENNE A PUNTA FINE",
+      "PENNE GEL",
+      "CORRETTORI A NASTRO"
+    ],
+    "PENNE A INCHIOSTRO OLIO": [
+      "PENNE A SFERA",
+      "CORRETTORI A NASTRO",
+      "PENNE GEL",
+      "KIT DI SCRITTURA"
+    ],
+    "PENNE A PUNTA FINE": [
+      "PENNARELLI CALIBRATI",
+      "EVIDENZIATORI",
+      "PENNE A INCHIOSTRO LIQUIDO",
+      "PENNE GEL"
+    ],
+    "PENNE A SFERA": [
+      "CORRETTORI A NASTRO",
+      "PENNE GEL",
+      "KIT DI SCRITTURA"
+    ],
+    "PENNE CANCELLABILI": [
+      "PENNE GEL",
+      "CORRETTORI A NASTRO",
+      "GOMME",
+      "PENNE A SFERA"
+    ],
+    "PENNE GEL": [
+      "PENNE A SFERA",
+      "CORRETTORI A NASTRO",
+      "PENNE CANCELLABILI"
+    ],
+    "PORTAMINE": [
+      "ACCESSORI",
+      "GOMME",
+      "MATITE GRAFITE",
+      "TEMPERINI"
+    ],
+    "TEMPERINI": [
+      "MATITE GRAFITE",
+      "MATITE COLORATE",
+      "GOMME",
+      "PORTAMINE"
+    ]
+  },
+  "texts": {
+    "perche_mp": "PERCHÉ SCEGLIERE MP",
+    "diff_pillars": [
+      "Formule non tossiche su tutta la gamma",
+      "Formule non tossiche e ipoallergeniche",
+      "26 anni di esperienza"
+    ]
+  },
+  "xsell": {
+    "prod_acc": {
+      "PORTAMINE": [
+        "PE131R"
+      ],
+      "TEMPERINI": [
+        "PA859"
+      ]
+    },
+    "xrel": {
+      "MATITE GRAFITE": [
+        {
+          "u": "X:PL021",
+          "c": "PL021",
+          "n": "MP RIGHELLO 15CM TRASPARENTE",
+          "ea": "7320912",
+          "sz": "15 cm",
+          "pk": "12",
+          "bx": "576",
+          "xi": "../../Catalogue材料/output_all/Carpeta 05_Escolar_2026_IT/../../../catalog_v2/assets/derived/PL021__solo.webp",
+          "sec": "Scuola",
+          "ty": "complemento"
+        }
+      ],
+      "PENNE A SFERA": [
+        {
+          "u": "X:PN817-02",
+          "c": "PN817-02",
+          "n": "MP FOGLIETTI ADESIVI RIMOVIBILI 7*7CM 200F COL. AS",
+          "ea": "8435464156437",
+          "sz": "7X7 cm",
+          "pk": "12",
+          "bx": "144",
+          "xi": "../../Catalogue材料/output_all/Carpeta 02_Sobremesa_2026_IT/../../../catalog_v2/assets/derived/PN817-02__solo.webp",
+          "sec": "Ufficio",
+          "ty": "complemento"
+        }
+      ]
+    }
+  },
+  "deco": [
+    [
+      "links_small/links_penne.webp",
+      1800,
+      1200,
+      [
+        "PENNE A SFERA",
+        "PENNE GEL",
+        "PENNE A PUNTA FINE",
+        "PENNE CANCELLABILI",
+        "PENNE A INCHIOSTRO LIQUIDO",
+        "PENNE A INCHIOSTRO OLIO"
+      ]
+    ],
+    [
+      "links_small/links_matite.webp",
+      1800,
+      1200,
+      [
+        "MATITE COLORATE",
+        "MATITE GRAFITE",
+        "MATITE ETERNE"
+      ]
+    ],
+    [
+      "links_small/links_correzione.webp",
+      1800,
+      1200,
+      [
+        "CORRETTORI A NASTRO",
+        "CORRETTORI A PENNA",
+        "CORRETTORI A PENNELLO"
+      ]
+    ],
+    [
+      "links_small/links_lettering.webp",
+      1024,
+      1024,
+      []
+    ],
+    [
+      "links_small/links_roller.webp",
+      1200,
+      1800,
+      [
+        "PENNE A INCHIOSTRO LIQUIDO"
+      ]
+    ]
+  ],
+  "brand": {
+    "color": "#0E6E5A"
+  }
+}

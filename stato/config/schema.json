@@ -1,0 +1,23 @@
+{
+  "_comment": "Input workbook schema. 'sheet' = worksheet name; 'columns' maps each internal field (KEY) to the actual header in your spreadsheet (VALUE). To use a differently-labelled xlsx, change the VALUES to your headers and keep the KEYS. Current = identity (MP 'REFERENCE CATALOGO').",
+  "normalize": true,
+  "sheet": "REFERENCE CATALOGO",
+  "columns": {
+    "CODICE": "CODICE",
+    "SEZIONE": "SEZIONE",
+    "SOTTOCATEGORIA": "SOTTOCATEGORIA",
+    "FAMIGLIA": "FAMIGLIA",
+    "NOME": "NOME",
+    "COLORI": "COLORI",
+    "UNITà": "UNITà",
+    "PACK": "PACK",
+    "EAN": "EAN",
+    "IMG": "IMG"
+  },
+  "paths": {
+    "_comment": "Input file + folder roots, relative to the project ROOT (the parent of catalog_v2). For the Python build only; the browser tools locate inputs by content via the scanner.",
+    "xlsm": "REFERENCE CATALOGO.xlsm",
+    "materials": "Catalogue材料/output_all",
+    "photos": "Foto Italia"
+  }
+}

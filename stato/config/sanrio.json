@@ -1,0 +1,31 @@
+{
+ "section": "SANRIO",
+ "brand": {
+  "color": "#145297",
+  "logo": "sanrio.svg"
+ },
+ "lite": true,
+ "texts": {
+  "perche_mp": "PERCHÉ SCEGLIERE MP",
+  "diff_pillars": [
+   "Materiali trasparenti antiriflesso e plastiche infrangibili",
+   "Materiali sicuri per l'uso scolastico su tutta la gamma",
+   "Oltre 25 anni di esperienza"
+  ]
+ },
+ "opener": {
+  "kicker": "CAPITOLO TREDICESIMO",
+  "chapter_big": "13",
+  "title_lines": [
+   "Hello Kitty",
+   "& Kuromi"
+  ],
+  "hero_img": "../../../catalog_v2/assets/hero/sanrio__A.webp",
+  "intro": "La licenza Sanrio in due linee complete, Hello Kitty e Kuromi: penne cancellabili a fantasia e a quattro colori, penne a sfera 0,7 mm da dieci colori ed espositori con penna luminosa, penne a inchiostro liquido cancellabile e a inchiostro invisibile con doppia punta, evidenziatori fluorescenti 3 in 1, set di washi tape, pennarelli acquerellabili da 12 e matite colorate. Completano la gamma i kit di cartoleria, gli astucci in silicone allungabili e lo zaino scolastico a 2 cerniere.",
+  "featured": [
+   "HK57009",
+   "KU40004",
+   "HK57013"
+  ]
+ }
+}

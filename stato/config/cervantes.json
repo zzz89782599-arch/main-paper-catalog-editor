@@ -1,0 +1,31 @@
+{
+ "section": "CERVANTES",
+ "brand": {
+  "color": "#e83836",
+  "logo": "cervantes.svg"
+ },
+ "lite": true,
+ "texts": {
+  "perche_mp": "PERCHÉ SCEGLIERE MP",
+  "diff_pillars": [
+   "Materiali trasparenti antiriflesso e plastiche infrangibili",
+   "Materiali sicuri per l'uso scolastico su tutta la gamma",
+   "Oltre 25 anni di esperienza"
+  ]
+ },
+ "opener": {
+  "kicker": "CAPITOLO NONO",
+  "chapter_big": "09",
+  "title_lines": [
+   "Cervantes",
+   "Quaderni"
+  ],
+  "hero_img": "../../../catalog_v2/assets/hero/cervantes__A.webp",
+  "intro": "Il marchio Cervantes per il quaderno scolastico e i ricambi: maxiquaderni da 42 fogli in 80 g/m² a colore totale e in PPL, quaderni A5 in tinta unita, versioni cartonate da 64 fogli in formato maxi e A5, spiralati A5 da 70 fogli e maxi da 81 fogli, anche con divisori. Completano la gamma i ricambi rinforzati da 40 fogli in 80 e 100 g/m², i fogli protocollo da 20 fogli, le rubriche A4 da 60 fogli e il quaderno di musica A4 a otto pentagrammi. Copertine e rigature assortite, in confezioni multiple per il canale scolastico.",
+  "featured": [
+   "CE1061IT-0A",
+   "PB1050IT-1R",
+   "PB370IT-1R"
+  ]
+ }
+}

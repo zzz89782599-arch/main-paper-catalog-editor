@@ -1,0 +1,34 @@
+{
+ "section": "QUADERNI",
+ "lite": true,
+ "texts": {
+  "perche_mp": "PERCHÉ SCEGLIERE MP",
+  "diff_pillars": [
+   "Materiali trasparenti antiriflesso e plastiche infrangibili",
+   "Materiali sicuri per l'uso scolastico su tutta la gamma",
+   "Oltre 25 anni di esperienza"
+  ]
+ },
+ "deco": [
+  ["links_small/links_flatlay_rosso.webp", 1800, 1415, []],
+  ["links_small/links_spirali.webp", 1800, 1351, []]
+ ],
+ "brand": {
+  "color": "#7C2A86"
+ },
+ "opener": {
+  "kicker": "CAPITOLO DODICESIMO",
+  "chapter_big": "12",
+  "title_lines": [
+   "Quaderni",
+   "& Album"
+  ],
+  "hero_img": "../../../catalog_v2/assets/hero/quaderni__A.webp",
+  "intro": "I quaderni a marchio MP: il maxiquaderno Essential da 42 fogli in 80 g/m², in dieci varianti di copertina fantasia, e gli album di musica nei due formati A4 da 32 fogli e 17×24 cm da 16 fogli. Un capitolo breve e diretto — dodici referenze pronte per il corredo scolastico, in confezioni assortite per lo scaffale.",
+  "featured": [
+   "PB205IT-0A",
+   "PB364IT",
+   "PB365IT"
+  ]
+ }
+}

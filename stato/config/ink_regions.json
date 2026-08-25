@@ -1,0 +1,8 @@
+{
+  "_nota": "v44.47 — famiglie GAMMA COLORE il cui artwork stampa una macchia d'inchiostro. Il colore del pallino di riga viene MISURATO li' (pixel del cliente), non dedotto dal nome. Regione in frazioni [x0,y0,x1,y1] del <codice>__solo.webp. 'campione' = finestra interna alla macchia da cui si prende la mediana. Una famiglia senza voce qui non riceve pallini misurati: si comporta come prima.",
+  "PP915": {
+    "macchia": [0.812, 0.015, 0.995, 0.305],
+    "campione": [0.34, 0.46, 0.66, 0.78],
+    "nota": "CHROMAX: riquadro goccia in alto a destra. Verificato a occhio su tutti i 120 (dist/_pp915_verify.webp)."
+  }
+}

@@ -1,0 +1,31 @@
+{
+ "section": "BE BASIC",
+ "brand": {
+  "color": "#2660ad",
+  "logo": "bebasic.svg"
+ },
+ "lite": true,
+ "texts": {
+  "perche_mp": "PERCHÉ SCEGLIERE MP",
+  "diff_pillars": [
+   "Materiali trasparenti antiriflesso e plastiche infrangibili",
+   "Materiali sicuri per l'uso scolastico su tutta la gamma",
+   "Oltre 25 anni di esperienza"
+  ]
+ },
+ "opener": {
+  "kicker": "CAPITOLO DECIMO",
+  "chapter_big": "10",
+  "title_lines": [
+   "Be Basic",
+   "& Multipack"
+  ],
+  "hero_img": "../../../catalog_v2/assets/hero/be-basic__A.webp",
+  "intro": "La linea Be Basic raccoglie l'essenziale della cartoleria in confezioni multiple: penne a sfera punta 1,0 mm da 10 e 12 pezzi, penne a inchiostro liquido 0,5 mm, penne cancellabili, matite HB con gomma, portamine 0,5 e 0,7 mm con ricariche, gomme, temperamatite semplici, doppi e metallici, correttori a nastro da 5 mm nelle lunghezze 6, 8 e 12 m, evidenziatori e marcatori permanenti. Accanto, la scrivania — pinzatrici 24/6, perforatore a due fori, forbici da 21 cm, notes adesivi 75×75 mm, calcolatrici tascabili, solari e scientifiche — e una gamma creativa con matite colorate, pastelli a cera, pennelli, acquerelli, tempere e acrilico da 75 ml.",
+  "featured": [
+   "S001",
+   "S050-01",
+   "S059"
+  ]
+ }
+}

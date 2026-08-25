@@ -1,0 +1,4 @@
+{
+ "_superato": "Non e' piu' una sorgente. La mappa HERO di sottocategoria vive in config/overrides.json sotto `hero_img` (chiave SEZIONE::SOTTOCATEGORIA), perche' gli overrides viaggiano gia' dentro EMB/PORT verso builder, editor e live: un file a parte avrebbe richiesto di toccare tre impacchettatori. La verifica di stampa misura i file VERI su disco, cosi' nessun numero registrato puo' invecchiare.",
+ "sottocategorie": {}
+}

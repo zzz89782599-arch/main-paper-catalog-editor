@@ -1,0 +1,35 @@
+{
+ "section": "ZAINI E ASTUCCI",
+ "lite": true,
+ "texts": {
+  "perche_mp": "PERCHÉ SCEGLIERE MP",
+  "diff_pillars": [
+   "Materiali trasparenti antiriflesso e plastiche infrangibili",
+   "Materiali sicuri per l'uso scolastico su tutta la gamma",
+   "Oltre 25 anni di esperienza"
+  ]
+ },
+ "deco": [
+  ["links_small/links_astuccio.webp", 1800, 1423, ["ASTUCCIO"]],
+  ["links_small/links_zaino.webp", 1719, 1641, ["ZAINO"]],
+  ["links_small/links_merenda.webp", 1800, 1200, ["BORSA PORTA MERENDA"]]
+ ],
+ "brand": {
+  "color": "#9A3410"
+ },
+ "opener": {
+  "kicker": "CAPITOLO UNDICESIMO",
+  "chapter_big": "11",
+  "title_lines": [
+   "Zaini",
+   "& Astucci"
+  ],
+  "hero_img": "../../../catalog_v2/assets/hero/zaini-e-astucci__A.webp",
+  "intro": "Zaini, astucci e borse porta merenda a marchio MP e Sampack: zaini scolastici a 2, 3 e 4 cerniere, formato 43×35×24 cm, in tela o similpelle, con le versioni a trolley e con carrello e ruote. Gli astucci coprono il rettangolare a una cerniera, i tondi da 19×5 e 25×6,5 cm, i portamatite a 3 e 4 cerniere da 22 cm, i trasparenti a 2 cerniere e la linea in silicone a una e a quattro cerniere. Chiudono la gamma le borse porta merenda a una e due cerniere. Colori e fantasie assortiti.",
+  "featured": [
+   "MO001",
+   "MO248IT-01",
+   "MO509-2"
+  ]
+ }
+}

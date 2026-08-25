@@ -1,0 +1,422 @@
+{
+  "section": "ARTIX",
+  "brand": {
+    "color": "#b9292f",
+    "logo": "artix.svg"
+  },
+  "lang": "it",
+  "opener": {
+    "kicker": "CAPITOLO OTTAVO",
+    "chapter_big": "08",
+    "title_lines": [
+      "Belle Arti",
+      "& Artix"
+    ],
+    "hero_img": "../../../catalog_v2/assets/hero/artix__A.webp",
+    "intro": "La linea professionale Artix per le belle arti: pennelli in setola e sintetico, colori acrilici, a olio, guache e acquerelli, pitture per tessuti, ceramica e gesso, i marker Chromax a doppia punta e i pennarelli acrilici. E poi tele in cotone preparato, blocchi da disegno, matite, pastelli e pastelli a olio, cavalletti in faggio, tavolozze e spatole, argilla e paste modellanti, manichini, stencil e i medium per la finitura — primer, fissante, vernice, trementina e olio di lino. Oltre 770 referenze per l'uso artistico. Disponibili in tubi, set assortiti ed espositori da banco.",
+    "featured": [
+      "PP915-1",
+      "PP639-01",
+      "PP298-01"
+    ]
+  },
+  "editorial": {
+    "title_main": "BUSINESS SCHOOL HOME",
+    "title_sub": "cancelleria di qualità, dal 1998",
+    "side_tag": "MP Qualità",
+    "lead": "Dal 1998 Main Paper progetta e distribuisce cancelleria di qualità per ufficio, scuola e casa. Azienda CEPYME500 — riconosciuta tra le 500 imprese leader per crescita, innovazione e proiezione internazionale — e premiata dalla Comunità di Madrid per l'innovazione e la qualità nei prodotti di cancelleria. Artix è la linea professionale di belle arti del gruppo: 776 referenze in 43 sottocategorie, dai colori ai supporti agli strumenti.",
+    "stats": [
+      {
+        "n": "776",
+        "l": "REFERENZE"
+      },
+      {
+        "n": "43",
+        "l": "SOTTOCAT."
+      }
+    ],
+    "pillars": [
+      {
+        "h": "QUALITÀ ARTISTICA",
+        "b": "Pigmenti ad alta concentrazione, tele in cotone preparato e pennelli professionali: resa e resistenza alla luce per il lavoro d'atelier."
+      },
+      {
+        "h": "GAMMA COMPLETA",
+        "b": "Acrilico, olio, acquerello, guache, tessuti e ceramica, più marker e pastelli: una tavolozza completa per ogni tecnica."
+      },
+      {
+        "h": "PER OGNI TECNICA",
+        "b": "Dallo schizzo alla pittura, dal lettering alla scultura: supporti, medium e strumenti coordinati per il principiante e il professionista."
+      },
+      {
+        "h": "SICUREZZA",
+        "b": "Formule atossiche e a base acqua dove possibile: materiali sicuri anche per la scuola."
+      }
+    ],
+    "scenes": [
+      {
+        "img": "links_small/links_pennelli.webp",
+        "cap": "Colori a olio & acrilici"
+      },
+      {
+        "img": "clean_small/PP494.webp",
+        "cap": "Cavalletti & tele"
+      },
+      {
+        "img": "clean_small/PP261-03.webp",
+        "cap": "Strumenti dell'artista"
+      }
+    ],
+    "certs": [],
+    "timeline": [
+      {
+        "y": "1998",
+        "l": "Fondazione MP"
+      },
+      {
+        "y": "2005",
+        "l": "GDO europea"
+      },
+      {
+        "y": "2012",
+        "l": "30+ paesi"
+      },
+      {
+        "y": "2018",
+        "l": "Linea eco"
+      },
+      {
+        "y": "2022",
+        "l": "Premio Madrid · CEPYME500"
+      }
+    ]
+  },
+  "promo_page": {
+    "title": "Promozioni & Pre-order",
+    "side_tag": "Novità 2026",
+    "intro": "Offerte e pre-ordini attivi del capitolo. I prodotti sono contrassegnati anche nelle pagine di catalogo."
+  },
+  "hero_rule": {
+    "max_fams": 8,
+    "require_desc": true
+  },
+  "big_family_min": 20,
+  "tips": {
+    "_generic": [
+      "Dal 1998 Main Paper distribuisce cancelleria e materiale per belle arti.",
+      "Il programma RFQ Main Paper garantisce quotazioni entro 24 ore e un ordine minimo di un solo collo.",
+      "La linea Artix è la gamma professionale di belle arti di Main Paper: colori, supporti e strumenti coordinati."
+    ],
+    "PENNELLI": "I pennelli professionali Artix in setola e sintetico coprono acquerello, acrilico e olio: manico laccato e ghiera in alluminio senza saldatura.",
+    "CHROMAX": "I marker Chromax Artix a base alcolica hanno doppia punta fine e a scalpello: oltre 100 colori miscelabili per illustrazione e manga.",
+    "PITTURA ACRILICA": "La pittura acrilica Artix è coprente e a rapida essiccazione: colori brillanti e resistenti alla luce, diluibili con acqua.",
+    "PITTURA OLIO": "I colori a olio Artix hanno alta concentrazione di pigmento: stesura cremosa e tempi lunghi per sfumare, in tubi da 12 e 50 ml.",
+    "TELE": "Le tele Artix in cotone 100% sono preparate con triplo strato di gesso acrilico: telaio in legno stagionato pronto per olio e acrilico.",
+    "ACQUERELLI": "Gli acquerelli Artix in godet offrono colori trasparenti e luminosi: si riattivano con l'acqua, ideali per schizzi e velature.",
+    "PENNARELLI ACRILICI": "I pennarelli acrilici Artix scrivono su qualsiasi superficie: punta da 0,5 a 6 mm, inchiostro coprente anche su fondo scuro.",
+    "CAVALLETTI": "I cavalletti Artix in legno di faggio regolano altezza e inclinazione: da tavolo e da terra, per tele fino a 120 cm.",
+    "TAVOLOZZA": "Le tavolozze Artix in plastica o legno hanno vaschette per diluire e mescolare: superficie liscia, si pulisce in un gesto.",
+    "MATITE": "Le matite da disegno Artix in grafite coprono la scala da 2H a 8B: mina resistente per schizzo, chiaroscuro e tecnica.",
+    "ARGILLA": "L'argilla Artix si modella a mano e indurisce all'aria: atossica, ideale per sculture, rilievi e laboratori.",
+    "PITTURA TESSUTI": "I colori per tessuti Artix si fissano a ferro caldo: resistono ai lavaggi, per magliette, borse e decorazione di stoffe.",
+    "STENCIL": "Gli stencil Artix in plastica flessibile e lavabile decorano tessuti, pareti e cartoncino: motivi riutilizzabili per pattern precisi."
+  },
+  "related": {
+    "ACQUERELLI": [
+      "PENNELLI",
+      "GUACHE",
+      "TAVOLOZZE",
+      "PITTURA ACRILICA"
+    ],
+    "ARGILLA": [
+      "PASTA MODELLANTE",
+      "STRUMENTI PER MODELLARE",
+      "SPATOLE",
+      "MANICHINI"
+    ],
+    "BLOCCO DISEGNO": [
+      "MATITE",
+      "PASTELLI",
+      "PENNARELLI CALIBRATI"
+    ],
+    "CAVALLETTI": [
+      "TELE",
+      "TAVOLOZZE",
+      "PENNELLI",
+      "PITTURA ACRILICA"
+    ],
+    "CHROMAX": [
+      "MARCATORE A DOPPIA PUNTA",
+      "PENNARELLI ACRILICI",
+      "LETTERING",
+      "PENNARELLI CALIBRATI"
+    ],
+    "COLLA VINILICA": [
+      "PASTA MODELLANTE",
+      "PRIMER",
+      "FISSANTE",
+      "TELE"
+    ],
+    "FISSANTE": [
+      "VERNICE LUCIDA",
+      "PRIMER",
+      "PASTELLI",
+      "MATITE"
+    ],
+    "GOMME": [
+      "MATITE",
+      "BLOCCO DISEGNO",
+      "PASTELLI",
+      "SFUMINI"
+    ],
+    "GREMBIULI": [
+      "SECCHI",
+      "TAVOLOZZE",
+      "PENNELLI",
+      "CAVALLETTI"
+    ],
+    "GUACHE": [
+      "ACQUERELLI",
+      "PENNELLI",
+      "TAVOLOZZE",
+      "PITTURA ACRILICA"
+    ],
+    "LETTERING": [
+      "PENNARELLI CALIBRATI",
+      "CHROMAX",
+      "MARCATORE A DOPPIA PUNTA",
+      "MATITE"
+    ],
+    "MANICHINI": [
+      "MATITE",
+      "BLOCCO DISEGNO",
+      "ARGILLA",
+      "PASTELLI"
+    ],
+    "MARCATORE A DOPPIA PUNTA": [
+      "CHROMAX",
+      "PENNARELLI ACRILICI",
+      "LETTERING",
+      "PENNARELLI CALIBRATI"
+    ],
+    "MATITE": [
+      "GOMME",
+      "BLOCCO DISEGNO",
+      "SFUMINI",
+      "PASTELLI"
+    ],
+    "OLIO DI LINO": [
+      "PITTURA AD OLIO",
+      "TREMENTINA",
+      "FISSANTE"
+    ],
+    "PASTA MODELLANTE": [
+      "ARGILLA",
+      "STRUMENTI PER MODELLARE",
+      "SPATOLE",
+      "MANICHINI"
+    ],
+    "PASTELLI": [
+      "PASTELLI AD OLIO",
+      "MATITE",
+      "GOMME",
+      "BLOCCO DISEGNO"
+    ],
+    "PASTELLI AD OLIO": [
+      "PASTELLI",
+      "MATITE",
+      "ACQUERELLI",
+      "BLOCCO DISEGNO"
+    ],
+    "PENNARELLI ACRILICI": [
+      "CHROMAX",
+      "MARCATORE A DOPPIA PUNTA",
+      "PENNARELLI CALIBRATI",
+      "PITTURA ACRILICA"
+    ],
+    "PENNARELLI CALIBRATI": [
+      "LETTERING",
+      "CHROMAX",
+      "MARCATORE A DOPPIA PUNTA",
+      "BLOCCO DISEGNO"
+    ],
+    "PENNELLI": [
+      "PITTURA ACRILICA",
+      "PITTURA AD OLIO",
+      "ACQUERELLI",
+      "TAVOLOZZE"
+    ],
+    "PITTURA ACRILICA": [
+      "PENNELLI",
+      "TELE",
+      "TAVOLOZZE",
+      "PENNARELLI ACRILICI"
+    ],
+    "PITTURA AD OLIO": [
+      "OLIO DI LINO",
+      "TREMENTINA",
+      "PENNELLI"
+    ],
+    "PITTURA CERAMICA": [
+      "PITTURA GESSO",
+      "PENNELLI",
+      "PITTURA ACRILICA",
+      "VERNICE LUCIDA"
+    ],
+    "PITTURA GESSO": [
+      "PITTURA CERAMICA",
+      "PENNELLI",
+      "PITTURA ACRILICA",
+      "PRIMER"
+    ],
+    "PITTURA PER TESSUTI": [
+      "PENNELLI",
+      "STENCIL",
+      "PITTURA ACRILICA"
+    ],
+    "PRIMER": [
+      "FISSANTE",
+      "TELE",
+      "VERNICE LUCIDA",
+      "PITTURA ACRILICA"
+    ],
+    "SECCHI": [
+      "GREMBIULI",
+      "PENNELLI",
+      "TAVOLOZZE",
+      "PITTURA ACRILICA"
+    ],
+    "SFUMINI": [
+      "MATITE",
+      "PASTELLI",
+      "GOMME",
+      "BLOCCO DISEGNO"
+    ],
+    "SPATOLE": [
+      "PITTURA ACRILICA",
+      "TAVOLOZZE",
+      "PASTA MODELLANTE",
+      "PENNELLI"
+    ],
+    "STENCIL": [
+      "PITTURA ACRILICA",
+      "PITTURA PER TESSUTI",
+      "PENNARELLI ACRILICI",
+      "PENNELLI"
+    ],
+    "STRUMENTI PER MODELLARE": [
+      "ARGILLA",
+      "PASTA MODELLANTE",
+      "SPATOLE",
+      "MANICHINI"
+    ],
+    "TAVOLOZZE": [
+      "SPATOLE",
+      "PENNELLI",
+      "PITTURA ACRILICA"
+    ],
+    "TELE": [
+      "CAVALLETTI",
+      "PITTURA ACRILICA",
+      "PITTURA AD OLIO",
+      "PENNELLI"
+    ],
+    "TREMENTINA": [
+      "PITTURA AD OLIO",
+      "OLIO DI LINO",
+      "FISSANTE"
+    ],
+    "TUBI": [
+      "PITTURA ACRILICA",
+      "PITTURA AD OLIO",
+      "PENNELLI"
+    ],
+    "VERNICE LUCIDA": [
+      "FISSANTE",
+      "PRIMER",
+      "TREMENTINA",
+      "PITTURA CERAMICA"
+    ]
+  },
+  "texts": {
+    "perche_mp": "PERCHÉ SCEGLIERE ARTIX",
+    "diff_pillars": [
+      "Pigmenti ad alta concentrazione e supporti professionali",
+      "Pigmenti professionali per il materiale artistico",
+      "Oltre 25 anni di esperienza"
+    ]
+  },
+  "xsell": {
+    "prod_acc": {},
+    "xrel": {
+      "PENNELLI": [
+        {
+          "u": "X:PP221",
+          "c": "PP221",
+          "n": "MP SET 3 PENNELLI PER SCUOLA",
+          "ea": "8435464168768",
+          "sz": "—",
+          "pk": "12",
+          "bx": "144",
+          "xi": "../../Catalogue材料/output_all/Carpeta 05_Escolar_2026_IT/../../../catalog_v2/assets/derived/PP221__solo.webp",
+          "sec": "Creatività Kids",
+          "ty": "coordinato"
+        }
+      ],
+      "TELE": [
+        {
+          "u": "X:PN730",
+          "c": "PN730",
+          "n": "MP CARTONE ESPANSO A4 SP 5MM 2PZ BIANCO",
+          "ea": "8435464125754",
+          "sz": "5 mm",
+          "pk": "12",
+          "bx": "120",
+          "xi": "../../Catalogue材料/output_all/Carpeta 07_Manualidades_2026_IT/../../../catalog_v2/assets/derived/PN730__solo.webp",
+          "sec": "DIY",
+          "ty": "complemento"
+        }
+      ]
+    }
+  },
+  "deco": [
+    [
+      "links_small/links_acquerello.webp",
+      1800,
+      1200,
+      [
+        "ACQUERELLI"
+      ]
+    ],
+    [
+      "links_small/links_tavolozza.webp",
+      1800,
+      1200,
+      [
+        "TAVOLOZZE"
+      ]
+    ],
+    [
+      "links_small/links_carboncino.webp",
+      1800,
+      1200,
+      []
+    ],
+    [
+      "links_small/links_calligrafia.webp",
+      1800,
+      1351,
+      [
+        "LETTERING"
+      ]
+    ],
+    [
+      "links_small/links_pennelli.webp",
+      1595,
+      1800,
+      [
+        "PENNELLI"
+      ]
+    ]
+  ]
+}

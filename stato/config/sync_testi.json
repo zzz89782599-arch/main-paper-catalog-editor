@@ -1,0 +1,20 @@
+{
+ "version": 1,
+ "nota": "SOLO editor — «una frase, più campi»: modificando un segmento («a · b · c») in un campo del gruppo, l'editor riscrive lo stesso segmento negli altri. La pipeline NON legge questo file (stesso patto di _defaults.json).",
+ "gruppi": [
+  [
+   [
+    "testo",
+    "order_cue"
+   ],
+   [
+    "libro",
+    "company.note"
+   ],
+   [
+    "libro",
+    "back.edition"
+   ]
+  ]
+ ]
+}

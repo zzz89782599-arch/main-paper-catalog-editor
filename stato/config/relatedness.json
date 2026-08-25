@@ -1,0 +1,8089 @@
+{
+ "version": 1,
+ "subcat_relations": [
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "CARTELLE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "RACCOGLITORI",
+   "type": "complemento",
+   "score": 0.7,
+   "source": "ai",
+   "why": "conservare fascicoli"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "CARTELLE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "PORTALISTINI",
+   "type": "complemento",
+   "score": 0.66,
+   "source": "ai",
+   "why": "mostrare documenti"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "CARTELLE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "SEPARATORI",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "suddividere"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "CARTELLE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "BUSTE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "protezione fogli"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "RACCOGLITORI",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "SEPARATORI",
+   "type": "complemento",
+   "score": 0.88,
+   "source": "ai",
+   "why": "i separatori vanno nei raccoglitori"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "RACCOGLITORI",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "REGISTRATORI",
+   "type": "coordinato",
+   "score": 0.82,
+   "source": "ai",
+   "why": "stessa famiglia ad anelli/leva"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "RACCOGLITORI",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "PORTALISTINI",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "archiviazione a vista"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "RACCOGLITORI",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "CARTELLE",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "archivio"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "REGISTRATORI",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "RACCOGLITORI",
+   "type": "coordinato",
+   "score": 0.82,
+   "source": "ai",
+   "why": "stessa famiglia di archivio"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "REGISTRATORI",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "SEPARATORI",
+   "type": "complemento",
+   "score": 0.8,
+   "source": "ai",
+   "why": "suddividere il registratore"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "REGISTRATORI",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "PORTALISTINI",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "a vista"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "REGISTRATORI",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "CARTELLE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "archivio"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "SEPARATORI",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "RACCOGLITORI",
+   "type": "complemento",
+   "score": 0.88,
+   "source": "ai",
+   "why": "si inseriscono nei raccoglitori"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "SEPARATORI",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "REGISTRATORI",
+   "type": "complemento",
+   "score": 0.8,
+   "source": "ai",
+   "why": "si inseriscono nei registratori"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "SEPARATORI",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "PORTALISTINI",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "organizzare"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "SEPARATORI",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "CARTELLE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "suddividere"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "PORTALISTINI",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "RACCOGLITORI",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "archiviazione a vista"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "PORTALISTINI",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "CARTELLE",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "conservare"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "PORTALISTINI",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "SEPARATORI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "organizzare"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "PORTALISTINI",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "BUSTE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "protezione"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "BUSTE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "CARTELLINE",
+   "type": "complemento",
+   "score": 0.7,
+   "source": "ai",
+   "why": "protezione e classificazione fogli"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "BUSTE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "PORTALISTINI",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "a vista"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "BUSTE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "POUCHE",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "protezione documenti"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "BUSTE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "CARTELLE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "archivio"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "CARTELLINE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "BUSTE",
+   "type": "complemento",
+   "score": 0.7,
+   "source": "ai",
+   "why": "protezione fogli"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "CARTELLINE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "PORTALISTINI",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "a vista"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "CARTELLINE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "CARTELLE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "archivio"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "CARTELLINE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "POUCHE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "protezione"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "PORTABLOCCO",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "CARTELLINE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "tenere fogli in ordine"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "PORTABLOCCO",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "BUSTE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "protezione appunti"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "PORTABLOCCO",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "VALIGETTE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "trasporto"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "PORTABLOCCO",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "CARTELLE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "archivio"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "POUCHE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "BUSTE",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "protezione documenti"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "POUCHE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "CARTELLINE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "protezione"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "POUCHE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "PORTALISTINI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "a vista"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "POUCHE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "CARTELLE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "archivio"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "VALIGETTE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "PORTABLOCCO",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "trasporto documenti"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "VALIGETTE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "CARTELLE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "conservare"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "VALIGETTE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "RACCOGLITORI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "archivio da trasportare"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "VALIGETTE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "PORTALISTINI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "a vista"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "ACQUERELLI",
+   "to_section": "ARTIX",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.8,
+   "source": "ai",
+   "why": "si usano col pennello"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "ACQUERELLI",
+   "to_section": "ARTIX",
+   "to": "GUACHE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "pittura ad acqua"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "ACQUERELLI",
+   "to_section": "ARTIX",
+   "to": "TAVOLOZZE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "mescolare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "ACQUERELLI",
+   "to_section": "ARTIX",
+   "to": "PITTURA ACRILICA",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA ACRILICA",
+   "to_section": "ARTIX",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.65,
+   "source": "ai",
+   "why": "applicare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA ACRILICA",
+   "to_section": "ARTIX",
+   "to": "TELE",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "supporto"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA ACRILICA",
+   "to_section": "ARTIX",
+   "to": "PENNARELLI ACRILICI",
+   "type": "coordinato",
+   "score": 0.45,
+   "source": "ai",
+   "why": "acrilico"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "ARGILLA",
+   "to_section": "ARTIX",
+   "to": "PASTA MODELLANTE",
+   "type": "coordinato",
+   "score": 0.75,
+   "source": "ai",
+   "why": "modellazione"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "ARGILLA",
+   "to_section": "ARTIX",
+   "to": "STRUMENTI PER MODELLARE",
+   "type": "ricambio",
+   "score": 0.7,
+   "source": "ai",
+   "why": "attrezzi per modellare l'argilla"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "ARGILLA",
+   "to_section": "ARTIX",
+   "to": "SPATOLE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "modellare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "ARGILLA",
+   "to_section": "ARTIX",
+   "to": "MANICHINI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "scultura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "BLOCCO DISEGNO",
+   "to_section": "ARTIX",
+   "to": "MATITE",
+   "type": "complemento",
+   "score": 0.65,
+   "source": "ai",
+   "why": "disegnare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "BLOCCO DISEGNO",
+   "to_section": "ARTIX",
+   "to": "PASTELLI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "disegnare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "BLOCCO DISEGNO",
+   "to_section": "ARTIX",
+   "to": "PENNARELLI CALIBRATI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "disegno tecnico"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "CAVALLETTI",
+   "to_section": "ARTIX",
+   "to": "TELE",
+   "type": "complemento",
+   "score": 0.8,
+   "source": "ai",
+   "why": "sostenere la tela"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "CAVALLETTI",
+   "to_section": "ARTIX",
+   "to": "TAVOLOZZE",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "CAVALLETTI",
+   "to_section": "ARTIX",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "CAVALLETTI",
+   "to_section": "ARTIX",
+   "to": "PITTURA ACRILICA",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "CHROMAX",
+   "to_section": "ARTIX",
+   "to": "MARCATORE A DOPPIA PUNTA",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "marker"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "CHROMAX",
+   "to_section": "ARTIX",
+   "to": "PENNARELLI ACRILICI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "illustrazione"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "CHROMAX",
+   "to_section": "ARTIX",
+   "to": "PENNARELLI CALIBRATI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "illustrazione"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "CHROMAX",
+   "to_section": "ARTIX",
+   "to": "LETTERING",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "lettering"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "COLLA VINILICA",
+   "to_section": "ARTIX",
+   "to": "PASTA MODELLANTE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "lavori"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "COLLA VINILICA",
+   "to_section": "ARTIX",
+   "to": "PRIMER",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "preparazione"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "COLLA VINILICA",
+   "to_section": "ARTIX",
+   "to": "FISSANTE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "finitura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "COLLA VINILICA",
+   "to_section": "ARTIX",
+   "to": "TELE",
+   "type": "complemento",
+   "score": 0.25,
+   "source": "ai",
+   "why": "supporti"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "TAVOLOZZE",
+   "to_section": "ARTIX",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "TAVOLOZZE",
+   "to_section": "ARTIX",
+   "to": "PITTURA ACRILICA",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "FISSANTE",
+   "to_section": "ARTIX",
+   "to": "VERNICE LUCIDA",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "finiture"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "FISSANTE",
+   "to_section": "ARTIX",
+   "to": "PRIMER",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "preparazione/finitura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "FISSANTE",
+   "to_section": "ARTIX",
+   "to": "PASTELLI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "fissare i pastelli"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "FISSANTE",
+   "to_section": "ARTIX",
+   "to": "MATITE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "fissare i disegni"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "GOMME",
+   "to_section": "ARTIX",
+   "to": "MATITE",
+   "type": "complemento",
+   "score": 0.75,
+   "source": "ai",
+   "why": "cancellare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "GOMME",
+   "to_section": "ARTIX",
+   "to": "BLOCCO DISEGNO",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "disegno"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "GOMME",
+   "to_section": "ARTIX",
+   "to": "PASTELLI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "disegno"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "GOMME",
+   "to_section": "ARTIX",
+   "to": "SFUMINI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "disegno"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "GREMBIULI",
+   "to_section": "ARTIX",
+   "to": "SECCHI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "atelier/pulizia"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "GREMBIULI",
+   "to_section": "ARTIX",
+   "to": "TAVOLOZZE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "GREMBIULI",
+   "to_section": "ARTIX",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "GREMBIULI",
+   "to_section": "ARTIX",
+   "to": "CAVALLETTI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "atelier"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "GUACHE",
+   "to_section": "ARTIX",
+   "to": "ACQUERELLI",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "pittura ad acqua"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "GUACHE",
+   "to_section": "ARTIX",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "applicare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "GUACHE",
+   "to_section": "ARTIX",
+   "to": "TAVOLOZZE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "mescolare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "GUACHE",
+   "to_section": "ARTIX",
+   "to": "PITTURA ACRILICA",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "LETTERING",
+   "to_section": "ARTIX",
+   "to": "PENNARELLI CALIBRATI",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "lettering"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "LETTERING",
+   "to_section": "ARTIX",
+   "to": "CHROMAX",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "marker"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "LETTERING",
+   "to_section": "ARTIX",
+   "to": "MARCATORE A DOPPIA PUNTA",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "marker"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "LETTERING",
+   "to_section": "ARTIX",
+   "to": "MATITE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "schizzo"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "MANICHINI",
+   "to_section": "ARTIX",
+   "to": "MATITE",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "disegno dal vero"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "MANICHINI",
+   "to_section": "ARTIX",
+   "to": "BLOCCO DISEGNO",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "disegno"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "MANICHINI",
+   "to_section": "ARTIX",
+   "to": "ARGILLA",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "scultura/figura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "MANICHINI",
+   "to_section": "ARTIX",
+   "to": "PASTELLI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "disegno"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "MARCATORE A DOPPIA PUNTA",
+   "to_section": "ARTIX",
+   "to": "CHROMAX",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "marker doppia punta"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "MARCATORE A DOPPIA PUNTA",
+   "to_section": "ARTIX",
+   "to": "PENNARELLI ACRILICI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "marker"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "MARCATORE A DOPPIA PUNTA",
+   "to_section": "ARTIX",
+   "to": "PENNARELLI CALIBRATI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "illustrazione"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "MARCATORE A DOPPIA PUNTA",
+   "to_section": "ARTIX",
+   "to": "LETTERING",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "lettering"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "MATITE",
+   "to_section": "ARTIX",
+   "to": "GOMME",
+   "type": "complemento",
+   "score": 0.75,
+   "source": "ai",
+   "why": "cancellare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "MATITE",
+   "to_section": "ARTIX",
+   "to": "BLOCCO DISEGNO",
+   "type": "complemento",
+   "score": 0.65,
+   "source": "ai",
+   "why": "disegnare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "MATITE",
+   "to_section": "ARTIX",
+   "to": "SFUMINI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "chiaroscuro"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "MATITE",
+   "to_section": "ARTIX",
+   "to": "PASTELLI",
+   "type": "coordinato",
+   "score": 0.45,
+   "source": "ai",
+   "why": "disegno"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "OLIO DI LINO",
+   "to_section": "ARTIX",
+   "to": "PITTURA AD OLIO",
+   "type": "ricambio",
+   "score": 0.8,
+   "source": "ai",
+   "why": "medium per i colori a olio"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "OLIO DI LINO",
+   "to_section": "ARTIX",
+   "to": "TREMENTINA",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "medium/solvente per olio"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "OLIO DI LINO",
+   "to_section": "ARTIX",
+   "to": "FISSANTE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "finitura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PASTA MODELLANTE",
+   "to_section": "ARTIX",
+   "to": "ARGILLA",
+   "type": "coordinato",
+   "score": 0.75,
+   "source": "ai",
+   "why": "modellazione"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PASTA MODELLANTE",
+   "to_section": "ARTIX",
+   "to": "STRUMENTI PER MODELLARE",
+   "type": "ricambio",
+   "score": 0.7,
+   "source": "ai",
+   "why": "attrezzi per modellare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PASTA MODELLANTE",
+   "to_section": "ARTIX",
+   "to": "SPATOLE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "modellare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PASTA MODELLANTE",
+   "to_section": "ARTIX",
+   "to": "MANICHINI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "scultura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PASTELLI",
+   "to_section": "ARTIX",
+   "to": "PASTELLI AD OLIO",
+   "type": "coordinato",
+   "score": 0.75,
+   "source": "ai",
+   "why": "pastelli"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PASTELLI",
+   "to_section": "ARTIX",
+   "to": "MATITE",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "disegno"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PASTELLI",
+   "to_section": "ARTIX",
+   "to": "GOMME",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "correggere"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PASTELLI",
+   "to_section": "ARTIX",
+   "to": "BLOCCO DISEGNO",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "supporto"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PASTELLI AD OLIO",
+   "to_section": "ARTIX",
+   "to": "PASTELLI",
+   "type": "coordinato",
+   "score": 0.75,
+   "source": "ai",
+   "why": "pastelli"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PASTELLI AD OLIO",
+   "to_section": "ARTIX",
+   "to": "MATITE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "disegno"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PASTELLI AD OLIO",
+   "to_section": "ARTIX",
+   "to": "ACQUERELLI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "tecniche miste"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PASTELLI AD OLIO",
+   "to_section": "ARTIX",
+   "to": "BLOCCO DISEGNO",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "supporto"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PENNARELLI ACRILICI",
+   "to_section": "ARTIX",
+   "to": "CHROMAX",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "marker"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PENNARELLI ACRILICI",
+   "to_section": "ARTIX",
+   "to": "PENNARELLI CALIBRATI",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "pennarelli"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PENNARELLI ACRILICI",
+   "to_section": "ARTIX",
+   "to": "MARCATORE A DOPPIA PUNTA",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "marker"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PENNARELLI ACRILICI",
+   "to_section": "ARTIX",
+   "to": "PITTURA ACRILICA",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "acrilico"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PENNARELLI CALIBRATI",
+   "to_section": "ARTIX",
+   "to": "LETTERING",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "lettering/tecnico"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PENNARELLI CALIBRATI",
+   "to_section": "ARTIX",
+   "to": "CHROMAX",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "marker"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PENNARELLI CALIBRATI",
+   "to_section": "ARTIX",
+   "to": "MARCATORE A DOPPIA PUNTA",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "marker"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PENNARELLI CALIBRATI",
+   "to_section": "ARTIX",
+   "to": "BLOCCO DISEGNO",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "disegno"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PENNELLI",
+   "to_section": "ARTIX",
+   "to": "PITTURA ACRILICA",
+   "type": "complemento",
+   "score": 0.8,
+   "source": "ai",
+   "why": "stendere l'acrilico"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PENNELLI",
+   "to_section": "ARTIX",
+   "to": "PITTURA AD OLIO",
+   "type": "complemento",
+   "score": 0.75,
+   "source": "ai",
+   "why": "stendere l'olio"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PENNELLI",
+   "to_section": "ARTIX",
+   "to": "ACQUERELLI",
+   "type": "complemento",
+   "score": 0.7,
+   "source": "ai",
+   "why": "acquerello"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PENNELLI",
+   "to_section": "ARTIX",
+   "to": "TAVOLOZZE",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "mescolare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA ACRILICA",
+   "to_section": "ARTIX",
+   "to": "TAVOLOZZE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "mescolare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA AD OLIO",
+   "to_section": "ARTIX",
+   "to": "OLIO DI LINO",
+   "type": "ricambio",
+   "score": 0.7,
+   "source": "ai",
+   "why": "medium a olio"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA AD OLIO",
+   "to_section": "ARTIX",
+   "to": "TREMENTINA",
+   "type": "ricambio",
+   "score": 0.65,
+   "source": "ai",
+   "why": "solvente"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA AD OLIO",
+   "to_section": "ARTIX",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "applicare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA CERAMICA",
+   "to_section": "ARTIX",
+   "to": "PITTURA GESSO",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "pittura su superfici"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA CERAMICA",
+   "to_section": "ARTIX",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "applicare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA CERAMICA",
+   "to_section": "ARTIX",
+   "to": "PITTURA ACRILICA",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA CERAMICA",
+   "to_section": "ARTIX",
+   "to": "VERNICE LUCIDA",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "finitura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA GESSO",
+   "to_section": "ARTIX",
+   "to": "PITTURA CERAMICA",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "pittura decorativa"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA GESSO",
+   "to_section": "ARTIX",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "applicare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA GESSO",
+   "to_section": "ARTIX",
+   "to": "PITTURA ACRILICA",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA GESSO",
+   "to_section": "ARTIX",
+   "to": "PRIMER",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "preparazione"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA PER TESSUTI",
+   "to_section": "ARTIX",
+   "to": "STENCIL",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "decorare tessuti"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA PER TESSUTI",
+   "to_section": "ARTIX",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "applicare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PITTURA PER TESSUTI",
+   "to_section": "ARTIX",
+   "to": "PITTURA ACRILICA",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PRIMER",
+   "to_section": "ARTIX",
+   "to": "FISSANTE",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "preparazione/finitura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PRIMER",
+   "to_section": "ARTIX",
+   "to": "VERNICE LUCIDA",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "finitura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PRIMER",
+   "to_section": "ARTIX",
+   "to": "TELE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "preparare la tela"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PRIMER",
+   "to_section": "ARTIX",
+   "to": "PITTURA ACRILICA",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "SECCHI",
+   "to_section": "ARTIX",
+   "to": "GREMBIULI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "atelier/pulizia"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "SECCHI",
+   "to_section": "ARTIX",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "lavare i pennelli"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "SECCHI",
+   "to_section": "ARTIX",
+   "to": "TAVOLOZZE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "SECCHI",
+   "to_section": "ARTIX",
+   "to": "PITTURA ACRILICA",
+   "type": "complemento",
+   "score": 0.25,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "SFUMINI",
+   "to_section": "ARTIX",
+   "to": "MATITE",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "sfumare il disegno"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "SFUMINI",
+   "to_section": "ARTIX",
+   "to": "PASTELLI",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "sfumare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "SFUMINI",
+   "to_section": "ARTIX",
+   "to": "GOMME",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "disegno"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "SFUMINI",
+   "to_section": "ARTIX",
+   "to": "BLOCCO DISEGNO",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "disegno"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "SPATOLE",
+   "to_section": "ARTIX",
+   "to": "PITTURA ACRILICA",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "stendere a spatola"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "SPATOLE",
+   "to_section": "ARTIX",
+   "to": "TAVOLOZZE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "mescolare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "SPATOLE",
+   "to_section": "ARTIX",
+   "to": "PASTA MODELLANTE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "modellare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "SPATOLE",
+   "to_section": "ARTIX",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "STENCIL",
+   "to_section": "ARTIX",
+   "to": "PITTURA PER TESSUTI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "STENCIL",
+   "to_section": "ARTIX",
+   "to": "PITTURA ACRILICA",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "applicare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "STENCIL",
+   "to_section": "ARTIX",
+   "to": "PENNARELLI ACRILICI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "STENCIL",
+   "to_section": "ARTIX",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "applicare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "STRUMENTI PER MODELLARE",
+   "to_section": "ARTIX",
+   "to": "ARGILLA",
+   "type": "ricambio",
+   "score": 0.75,
+   "source": "ai",
+   "why": "attrezzi per l'argilla"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "STRUMENTI PER MODELLARE",
+   "to_section": "ARTIX",
+   "to": "PASTA MODELLANTE",
+   "type": "ricambio",
+   "score": 0.7,
+   "source": "ai",
+   "why": "attrezzi per modellare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "STRUMENTI PER MODELLARE",
+   "to_section": "ARTIX",
+   "to": "SPATOLE",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "modellazione"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "STRUMENTI PER MODELLARE",
+   "to_section": "ARTIX",
+   "to": "MANICHINI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "scultura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "TAVOLOZZE",
+   "to_section": "ARTIX",
+   "to": "SPATOLE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "mescolare"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "TELE",
+   "to_section": "ARTIX",
+   "to": "CAVALLETTI",
+   "type": "complemento",
+   "score": 0.8,
+   "source": "ai",
+   "why": "sostenere la tela"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "TELE",
+   "to_section": "ARTIX",
+   "to": "PITTURA ACRILICA",
+   "type": "complemento",
+   "score": 0.7,
+   "source": "ai",
+   "why": "dipingere"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "TELE",
+   "to_section": "ARTIX",
+   "to": "PITTURA AD OLIO",
+   "type": "complemento",
+   "score": 0.65,
+   "source": "ai",
+   "why": "dipingere"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "TELE",
+   "to_section": "ARTIX",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "dipingere"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "TREMENTINA",
+   "to_section": "ARTIX",
+   "to": "PITTURA AD OLIO",
+   "type": "ricambio",
+   "score": 0.7,
+   "source": "ai",
+   "why": "solvente per olio"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "TREMENTINA",
+   "to_section": "ARTIX",
+   "to": "OLIO DI LINO",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "medium/solvente"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "TREMENTINA",
+   "to_section": "ARTIX",
+   "to": "FISSANTE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "finitura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "TUBI",
+   "to_section": "ARTIX",
+   "to": "PITTURA ACRILICA",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "colori in tubo"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "TUBI",
+   "to_section": "ARTIX",
+   "to": "PITTURA AD OLIO",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "colori in tubo"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "TUBI",
+   "to_section": "ARTIX",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "VERNICE LUCIDA",
+   "to_section": "ARTIX",
+   "to": "FISSANTE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "finiture"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "VERNICE LUCIDA",
+   "to_section": "ARTIX",
+   "to": "PRIMER",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "preparazione/finitura"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "VERNICE LUCIDA",
+   "to_section": "ARTIX",
+   "to": "TREMENTINA",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "medium"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "VERNICE LUCIDA",
+   "to_section": "ARTIX",
+   "to": "PITTURA CERAMICA",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "finitura"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "TEMPERE",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.85,
+   "source": "ai",
+   "why": "si stendono col pennello"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "TEMPERE",
+   "to_section": "CREATIVITà KIDS",
+   "to": "GREMBIULI",
+   "type": "complemento",
+   "score": 0.7,
+   "source": "ai",
+   "why": "proteggono i vestiti"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "TEMPERE",
+   "to_section": "CREATIVITà KIDS",
+   "to": "ACQUERELLI",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "pittura per bambini"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "TEMPERE",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PENNARELLI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "colorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PENNELLI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "TEMPERE",
+   "type": "complemento",
+   "score": 0.85,
+   "source": "ai",
+   "why": "applicare la tempera"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PENNELLI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "ACQUERELLI",
+   "type": "complemento",
+   "score": 0.82,
+   "source": "ai",
+   "why": "applicare gli acquerelli"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PENNELLI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "GREMBIULI",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "protezione"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PENNELLI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PENNARELLI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "colorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "ACQUERELLI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.85,
+   "source": "ai",
+   "why": "si usano col pennello"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "ACQUERELLI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "TEMPERE",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "ACQUERELLI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "GREMBIULI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "protezione"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "ACQUERELLI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "MATITE COLORATE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "disegno"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "GREMBIULI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "TEMPERE",
+   "type": "complemento",
+   "score": 0.8,
+   "source": "ai",
+   "why": "proteggono durante la pittura"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "GREMBIULI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "GREMBIULI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PLASTILINA",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "manipolazione"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "GREMBIULI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "ACQUERELLI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "pittura"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PENNARELLI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "MATITE COLORATE",
+   "type": "coordinato",
+   "score": 0.8,
+   "source": "ai",
+   "why": "colorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PENNARELLI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PASTELLI A CERA",
+   "type": "coordinato",
+   "score": 0.75,
+   "source": "ai",
+   "why": "colorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PENNARELLI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "STICKERS",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PENNARELLI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "TEMPERE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "colore"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "MATITE COLORATE",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PENNARELLI",
+   "type": "coordinato",
+   "score": 0.8,
+   "source": "ai",
+   "why": "colorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "MATITE COLORATE",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PASTELLI A CERA",
+   "type": "coordinato",
+   "score": 0.78,
+   "source": "ai",
+   "why": "colorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "MATITE COLORATE",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PASTELLI MORBIDI",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "colorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "MATITE COLORATE",
+   "to_section": "CREATIVITà KIDS",
+   "to": "ACQUERELLI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "disegno"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PASTELLI A CERA",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PASTELLI MORBIDI",
+   "type": "coordinato",
+   "score": 0.85,
+   "source": "ai",
+   "why": "stessa famiglia di pastelli"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PASTELLI A CERA",
+   "to_section": "CREATIVITà KIDS",
+   "to": "MATITE COLORATE",
+   "type": "coordinato",
+   "score": 0.8,
+   "source": "ai",
+   "why": "colorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PASTELLI A CERA",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PENNARELLI",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "colorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PASTELLI A CERA",
+   "to_section": "CREATIVITà KIDS",
+   "to": "TEMPERE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "colore"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PASTELLI MORBIDI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PASTELLI A CERA",
+   "type": "coordinato",
+   "score": 0.85,
+   "source": "ai",
+   "why": "stessa famiglia"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PASTELLI MORBIDI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "MATITE COLORATE",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "colorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PASTELLI MORBIDI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PENNARELLI",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "colorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PASTELLI MORBIDI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "TEMPERE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "colore"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PLASTILINA",
+   "to_section": "CREATIVITà KIDS",
+   "to": "STAMPINI",
+   "type": "complemento",
+   "score": 0.9,
+   "source": "ai",
+   "why": "gli stampini modellano la plastilina"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PLASTILINA",
+   "to_section": "CREATIVITà KIDS",
+   "to": "FORBICI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "tagliare/creare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PLASTILINA",
+   "to_section": "CREATIVITà KIDS",
+   "to": "GREMBIULI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "protezione"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PLASTILINA",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PASTELLI MORBIDI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "attività creativa"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "STAMPINI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PLASTILINA",
+   "type": "complemento",
+   "score": 0.9,
+   "source": "ai",
+   "why": "si usano sulla plastilina"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "STAMPINI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "FORBICI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "STAMPINI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "TEMPERE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "stampare colore"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "STAMPINI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "FORBICI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "STICKERS",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "ritaglio e decoro"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "FORBICI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PLASTILINA",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "FORBICI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "STAMPINI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "FORBICI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PENNARELLI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "STICKERS",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PENNARELLI",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "STICKERS",
+   "to_section": "CREATIVITà KIDS",
+   "to": "MATITE COLORATE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "STICKERS",
+   "to_section": "CREATIVITà KIDS",
+   "to": "FORBICI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "ritaglio"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "STICKERS",
+   "to_section": "CREATIVITà KIDS",
+   "to": "LETTERING",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "decoro"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "LETTERING",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PENNARELLI",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "scrivere/decorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "LETTERING",
+   "to_section": "CREATIVITà KIDS",
+   "to": "STICKERS",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "decoro"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "LETTERING",
+   "to_section": "CREATIVITà KIDS",
+   "to": "MATITE COLORATE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "colore"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "LETTERING",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PASTELLI A CERA",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "colore"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "SALVADANAI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "TEMPERE",
+   "type": "complemento",
+   "score": 0.7,
+   "source": "ai",
+   "why": "da decorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "SALVADANAI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PENNELLI",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "SALVADANAI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PENNARELLI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "SALVADANAI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "STICKERS",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTONCINI COLORATI",
+   "to_section": "DIY",
+   "to": "CARTA VELINA",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "carte decorative"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTONCINI COLORATI",
+   "to_section": "DIY",
+   "to": "CARTA CRESPA",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "carte decorative"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTONCINI COLORATI",
+   "to_section": "DIY",
+   "to": "GOMMA EVA",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "materiali per lavoretti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTONCINI COLORATI",
+   "to_section": "DIY",
+   "to": "FELTRO",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "materiali colorati"
+  },
+  {
+   "from_section": "DIY",
+   "from": "GOMMA EVA",
+   "to_section": "DIY",
+   "to": "GOMMA EVA - ADESIVI",
+   "type": "coordinato",
+   "score": 0.8,
+   "source": "ai",
+   "why": "gomma EVA"
+  },
+  {
+   "from_section": "DIY",
+   "from": "GOMMA EVA",
+   "to_section": "DIY",
+   "to": "FELTRO",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "materiali morbidi"
+  },
+  {
+   "from_section": "DIY",
+   "from": "GOMMA EVA",
+   "to_section": "DIY",
+   "to": "CARTONCINI COLORATI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "GOMMA EVA",
+   "to_section": "DIY",
+   "to": "OCCHI MOBILI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTA CRESPA",
+   "to_section": "DIY",
+   "to": "CARTA VELINA",
+   "type": "coordinato",
+   "score": 0.75,
+   "source": "ai",
+   "why": "carte veline/crespa"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTA CRESPA",
+   "to_section": "DIY",
+   "to": "CARTONCINI COLORATI",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "carte"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTA CRESPA",
+   "to_section": "DIY",
+   "to": "CELLOPHANE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "impacchettare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTA CRESPA",
+   "to_section": "DIY",
+   "to": "CARTA KRAFT",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "carte"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTA VELINA",
+   "to_section": "DIY",
+   "to": "CARTA CRESPA",
+   "type": "coordinato",
+   "score": 0.75,
+   "source": "ai",
+   "why": "carte decorative"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTA VELINA",
+   "to_section": "DIY",
+   "to": "CARTONCINI COLORATI",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "carte"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTA VELINA",
+   "to_section": "DIY",
+   "to": "CELLOPHANE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "impacchettare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTA VELINA",
+   "to_section": "DIY",
+   "to": "CARTA KRAFT",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "carte"
+  },
+  {
+   "from_section": "DIY",
+   "from": "FELTRO",
+   "to_section": "DIY",
+   "to": "GOMMA EVA",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "materiali morbidi"
+  },
+  {
+   "from_section": "DIY",
+   "from": "FELTRO",
+   "to_section": "DIY",
+   "to": "POMPOM",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "decorazioni"
+  },
+  {
+   "from_section": "DIY",
+   "from": "FELTRO",
+   "to_section": "DIY",
+   "to": "OCCHI MOBILI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "FELTRO",
+   "to_section": "DIY",
+   "to": "CARTONCINI COLORATI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "BASTONCINI",
+   "to_section": "DIY",
+   "to": "LEGNO",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "legno per modellismo"
+  },
+  {
+   "from_section": "DIY",
+   "from": "BASTONCINI",
+   "to_section": "DIY",
+   "to": "POLISTIROLO",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "strutture"
+  },
+  {
+   "from_section": "DIY",
+   "from": "BASTONCINI",
+   "to_section": "DIY",
+   "to": "POMPOM",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "BASTONCINI",
+   "to_section": "DIY",
+   "to": "SUGHERO",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "materiali naturali"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTONE ESPANSO",
+   "to_section": "DIY",
+   "to": "POLISTIROLO",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "supporti rigidi leggeri"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTONE ESPANSO",
+   "to_section": "DIY",
+   "to": "CARTONE",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "cartone"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTONE ESPANSO",
+   "to_section": "DIY",
+   "to": "SUGHERO",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "pannelli"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTONE ESPANSO",
+   "to_section": "DIY",
+   "to": "LEGNO",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "strutture"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA STICK",
+   "to_section": "DIY",
+   "to": "COLLA VINILICA",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA STICK",
+   "to_section": "DIY",
+   "to": "COLLA UNIVERSALE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA STICK",
+   "to_section": "DIY",
+   "to": "CARTONCINI COLORATI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "incollare carta"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA STICK",
+   "to_section": "DIY",
+   "to": "FOGLI ADESIVI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "POLISTIROLO",
+   "to_section": "DIY",
+   "to": "CARTONE ESPANSO",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "supporti leggeri"
+  },
+  {
+   "from_section": "DIY",
+   "from": "POLISTIROLO",
+   "to_section": "DIY",
+   "to": "BASTONCINI",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "strutture"
+  },
+  {
+   "from_section": "DIY",
+   "from": "POLISTIROLO",
+   "to_section": "DIY",
+   "to": "POMPOM",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "POLISTIROLO",
+   "to_section": "DIY",
+   "to": "LEGNO",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "modellismo"
+  },
+  {
+   "from_section": "DIY",
+   "from": "OCCHI MOBILI",
+   "to_section": "DIY",
+   "to": "POMPOM",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "decorazioni per lavoretti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "OCCHI MOBILI",
+   "to_section": "DIY",
+   "to": "GOMMA EVA",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "OCCHI MOBILI",
+   "to_section": "DIY",
+   "to": "FELTRO",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "OCCHI MOBILI",
+   "to_section": "DIY",
+   "to": "BASTONCINI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "GOMMA EVA - ADESIVI",
+   "to_section": "DIY",
+   "to": "GOMMA EVA",
+   "type": "coordinato",
+   "score": 0.8,
+   "source": "ai",
+   "why": "gomma EVA"
+  },
+  {
+   "from_section": "DIY",
+   "from": "GOMMA EVA - ADESIVI",
+   "to_section": "DIY",
+   "to": "FOGLI ADESIVI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "adesivi"
+  },
+  {
+   "from_section": "DIY",
+   "from": "GOMMA EVA - ADESIVI",
+   "to_section": "DIY",
+   "to": "OCCHI MOBILI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "GOMMA EVA - ADESIVI",
+   "to_section": "DIY",
+   "to": "FELTRO",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "materiali morbidi"
+  },
+  {
+   "from_section": "DIY",
+   "from": "RIGHELLI",
+   "to_section": "DIY",
+   "to": "FORBICI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "misurare e tagliare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "RIGHELLI",
+   "to_section": "DIY",
+   "to": "LAME",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "taglio"
+  },
+  {
+   "from_section": "DIY",
+   "from": "RIGHELLI",
+   "to_section": "DIY",
+   "to": "PUNZONI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "tracciare/forare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "RIGHELLI",
+   "to_section": "DIY",
+   "to": "CARTONCINI COLORATI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CELLOPHANE",
+   "to_section": "DIY",
+   "to": "CARTA VELINA",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "impacchettare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CELLOPHANE",
+   "to_section": "DIY",
+   "to": "CARTA CRESPA",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CELLOPHANE",
+   "to_section": "DIY",
+   "to": "CARTONCINI COLORATI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CELLOPHANE",
+   "to_section": "DIY",
+   "to": "CARTA KRAFT",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "confezionare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA ISTANTANEA",
+   "to_section": "DIY",
+   "to": "COLLA UNIVERSALE",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "colle forti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA ISTANTANEA",
+   "to_section": "DIY",
+   "to": "COLLA EXTRA FORTE",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "colle forti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA ISTANTANEA",
+   "to_section": "DIY",
+   "to": "COLLA VINILICA",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA ISTANTANEA",
+   "to_section": "DIY",
+   "to": "COLLA SILICONICA",
+   "type": "coordinato",
+   "score": 0.45,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA VINILICA",
+   "to_section": "DIY",
+   "to": "COLLA STICK",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA VINILICA",
+   "to_section": "DIY",
+   "to": "COLLA UNIVERSALE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA VINILICA",
+   "to_section": "DIY",
+   "to": "COLLA A CALDO",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA VINILICA",
+   "to_section": "DIY",
+   "to": "CARTONCINI COLORATI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "incollare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "SUGHERO",
+   "to_section": "DIY",
+   "to": "LEGNO",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "materiali naturali"
+  },
+  {
+   "from_section": "DIY",
+   "from": "SUGHERO",
+   "to_section": "DIY",
+   "to": "CARTONE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "pannelli"
+  },
+  {
+   "from_section": "DIY",
+   "from": "SUGHERO",
+   "to_section": "DIY",
+   "to": "TAVOLETTE IN LEGNO",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "pannelli"
+  },
+  {
+   "from_section": "DIY",
+   "from": "SUGHERO",
+   "to_section": "DIY",
+   "to": "BASTONCINI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "modellismo"
+  },
+  {
+   "from_section": "DIY",
+   "from": "FOGLI ADESIVI",
+   "to_section": "DIY",
+   "to": "GOMMA EVA - ADESIVI",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "adesivi"
+  },
+  {
+   "from_section": "DIY",
+   "from": "FOGLI ADESIVI",
+   "to_section": "DIY",
+   "to": "ADESIVI",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "adesivi"
+  },
+  {
+   "from_section": "DIY",
+   "from": "FOGLI ADESIVI",
+   "to_section": "DIY",
+   "to": "FOGLI MAGNETICI",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "fogli speciali"
+  },
+  {
+   "from_section": "DIY",
+   "from": "FOGLI ADESIVI",
+   "to_section": "DIY",
+   "to": "CARTONCINI COLORATI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "BLOCCHI",
+   "to_section": "DIY",
+   "to": "SCRAPBOOKING",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "album/blocchi"
+  },
+  {
+   "from_section": "DIY",
+   "from": "BLOCCHI",
+   "to_section": "DIY",
+   "to": "CARTONCINI COLORATI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "carta"
+  },
+  {
+   "from_section": "DIY",
+   "from": "BLOCCHI",
+   "to_section": "DIY",
+   "to": "CARTA VELINA",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "carta"
+  },
+  {
+   "from_section": "DIY",
+   "from": "BLOCCHI",
+   "to_section": "DIY",
+   "to": "CARTONE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "supporti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTONE",
+   "to_section": "DIY",
+   "to": "CARTONE ESPANSO",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "cartone"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTONE",
+   "to_section": "DIY",
+   "to": "CARTONCINI COLORATI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "carta/cartone"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTONE",
+   "to_section": "DIY",
+   "to": "SUGHERO",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "pannelli"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTONE",
+   "to_section": "DIY",
+   "to": "LEGNO",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "strutture"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA A CALDO",
+   "to_section": "DIY",
+   "to": "PISTOLA ARIA CALDA",
+   "type": "ricambio",
+   "score": 0.85,
+   "source": "ai",
+   "why": "stick per la pistola a caldo"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA A CALDO",
+   "to_section": "DIY",
+   "to": "COLLA SILICONICA",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "colle a caldo/siliconiche"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA A CALDO",
+   "to_section": "DIY",
+   "to": "COLLA VINILICA",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA A CALDO",
+   "to_section": "DIY",
+   "to": "COLLA UNIVERSALE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA SILICONICA",
+   "to_section": "DIY",
+   "to": "COLLA A CALDO",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "colle a caldo"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA SILICONICA",
+   "to_section": "DIY",
+   "to": "PISTOLA ARIA CALDA",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "applicazione a caldo"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA SILICONICA",
+   "to_section": "DIY",
+   "to": "COLLA UNIVERSALE",
+   "type": "coordinato",
+   "score": 0.45,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA SILICONICA",
+   "to_section": "DIY",
+   "to": "COLLA VINILICA",
+   "type": "coordinato",
+   "score": 0.4,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA UNIVERSALE",
+   "to_section": "DIY",
+   "to": "COLLA VINILICA",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA UNIVERSALE",
+   "to_section": "DIY",
+   "to": "COLLA STICK",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA UNIVERSALE",
+   "to_section": "DIY",
+   "to": "COLLA ISTANTANEA",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA UNIVERSALE",
+   "to_section": "DIY",
+   "to": "COLLA EXTRA FORTE",
+   "type": "coordinato",
+   "score": 0.45,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA EXTRA FORTE",
+   "to_section": "DIY",
+   "to": "COLLA ISTANTANEA",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "colle forti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA EXTRA FORTE",
+   "to_section": "DIY",
+   "to": "COLLA UNIVERSALE",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA EXTRA FORTE",
+   "to_section": "DIY",
+   "to": "COLLA SILICONICA",
+   "type": "coordinato",
+   "score": 0.45,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "COLLA EXTRA FORTE",
+   "to_section": "DIY",
+   "to": "COLLA A CALDO",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "colle"
+  },
+  {
+   "from_section": "DIY",
+   "from": "SCRAPBOOKING",
+   "to_section": "DIY",
+   "to": "BLOCCHI",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "album"
+  },
+  {
+   "from_section": "DIY",
+   "from": "SCRAPBOOKING",
+   "to_section": "DIY",
+   "to": "CARTONCINI COLORATI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "carta decorativa"
+  },
+  {
+   "from_section": "DIY",
+   "from": "SCRAPBOOKING",
+   "to_section": "DIY",
+   "to": "FOGLI ADESIVI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "SCRAPBOOKING",
+   "to_section": "DIY",
+   "to": "CARTA KRAFT",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "carta"
+  },
+  {
+   "from_section": "DIY",
+   "from": "POMPOM",
+   "to_section": "DIY",
+   "to": "OCCHI MOBILI",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "decorazioni"
+  },
+  {
+   "from_section": "DIY",
+   "from": "POMPOM",
+   "to_section": "DIY",
+   "to": "FELTRO",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "decorazioni"
+  },
+  {
+   "from_section": "DIY",
+   "from": "POMPOM",
+   "to_section": "DIY",
+   "to": "GOMMA EVA",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "POMPOM",
+   "to_section": "DIY",
+   "to": "BASTONCINI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "TAVOLETTE IN LEGNO",
+   "to_section": "DIY",
+   "to": "LEGNO",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "legno"
+  },
+  {
+   "from_section": "DIY",
+   "from": "TAVOLETTE IN LEGNO",
+   "to_section": "DIY",
+   "to": "SUGHERO",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "pannelli"
+  },
+  {
+   "from_section": "DIY",
+   "from": "TAVOLETTE IN LEGNO",
+   "to_section": "DIY",
+   "to": "CARTONE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "supporti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTA KRAFT",
+   "to_section": "DIY",
+   "to": "CARTA VELINA",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "carte"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTA KRAFT",
+   "to_section": "DIY",
+   "to": "CARTA CRESPA",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "carte"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTA KRAFT",
+   "to_section": "DIY",
+   "to": "CARTONCINI COLORATI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "carta"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTA KRAFT",
+   "to_section": "DIY",
+   "to": "CELLOPHANE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "confezionare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTONCINI SPECIALI",
+   "to_section": "DIY",
+   "to": "CARTONCINI COLORATI",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "cartoncini"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTONCINI SPECIALI",
+   "to_section": "DIY",
+   "to": "SCRAPBOOKING",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTONCINI SPECIALI",
+   "to_section": "DIY",
+   "to": "CARTA VELINA",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "carte"
+  },
+  {
+   "from_section": "DIY",
+   "from": "CARTONCINI SPECIALI",
+   "to_section": "DIY",
+   "to": "FOGLI ADESIVI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "FOGLI MAGNETICI",
+   "to_section": "DIY",
+   "to": "NASTRO MAGNETICO",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "magnetici"
+  },
+  {
+   "from_section": "DIY",
+   "from": "FOGLI MAGNETICI",
+   "to_section": "DIY",
+   "to": "FOGLI ADESIVI",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "fogli speciali"
+  },
+  {
+   "from_section": "DIY",
+   "from": "FOGLI MAGNETICI",
+   "to_section": "DIY",
+   "to": "ADESIVI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "FOGLI MAGNETICI",
+   "to_section": "DIY",
+   "to": "GOMMA EVA - ADESIVI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "adesivi"
+  },
+  {
+   "from_section": "DIY",
+   "from": "FORBICI",
+   "to_section": "DIY",
+   "to": "LAME",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "taglio"
+  },
+  {
+   "from_section": "DIY",
+   "from": "FORBICI",
+   "to_section": "DIY",
+   "to": "RIGHELLI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "misurare e tagliare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "FORBICI",
+   "to_section": "DIY",
+   "to": "PUNZONI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "taglio/forare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "FORBICI",
+   "to_section": "DIY",
+   "to": "CARTONCINI COLORATI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "ritaglio"
+  },
+  {
+   "from_section": "DIY",
+   "from": "KIT",
+   "to_section": "DIY",
+   "to": "SCRAPBOOKING",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "set creativi"
+  },
+  {
+   "from_section": "DIY",
+   "from": "KIT",
+   "to_section": "DIY",
+   "to": "POMPOM",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "KIT",
+   "to_section": "DIY",
+   "to": "OCCHI MOBILI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "KIT",
+   "to_section": "DIY",
+   "to": "GOMMA EVA",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "LAME",
+   "to_section": "DIY",
+   "to": "FORBICI",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "taglio"
+  },
+  {
+   "from_section": "DIY",
+   "from": "LAME",
+   "to_section": "DIY",
+   "to": "RIGHELLI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "tagliare con guida"
+  },
+  {
+   "from_section": "DIY",
+   "from": "LAME",
+   "to_section": "DIY",
+   "to": "PUNZONI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "incidere"
+  },
+  {
+   "from_section": "DIY",
+   "from": "LAME",
+   "to_section": "DIY",
+   "to": "LEGNO",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "modellismo"
+  },
+  {
+   "from_section": "DIY",
+   "from": "LEGNO",
+   "to_section": "DIY",
+   "to": "BASTONCINI",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "legno"
+  },
+  {
+   "from_section": "DIY",
+   "from": "LEGNO",
+   "to_section": "DIY",
+   "to": "TAVOLETTE IN LEGNO",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "legno"
+  },
+  {
+   "from_section": "DIY",
+   "from": "LEGNO",
+   "to_section": "DIY",
+   "to": "SUGHERO",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "materiali naturali"
+  },
+  {
+   "from_section": "DIY",
+   "from": "ADESIVI",
+   "to_section": "DIY",
+   "to": "FOGLI ADESIVI",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "adesivi"
+  },
+  {
+   "from_section": "DIY",
+   "from": "ADESIVI",
+   "to_section": "DIY",
+   "to": "GOMMA EVA - ADESIVI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "adesivi"
+  },
+  {
+   "from_section": "DIY",
+   "from": "ADESIVI",
+   "to_section": "DIY",
+   "to": "OCCHI MOBILI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "ADESIVI",
+   "to_section": "DIY",
+   "to": "NASTRO MAGNETICO",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "NASTRO MAGNETICO",
+   "to_section": "DIY",
+   "to": "ADESIVI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "NASTRO MAGNETICO",
+   "to_section": "DIY",
+   "to": "FOGLI ADESIVI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "adesivi"
+  },
+  {
+   "from_section": "DIY",
+   "from": "NASTRO MAGNETICO",
+   "to_section": "DIY",
+   "to": "COLLA STICK",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "NASTRO MAGNETICO",
+   "to_section": "DIY",
+   "to": "FOGLI MAGNETICI",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "magnetici"
+  },
+  {
+   "from_section": "DIY",
+   "from": "PISTOLA ARIA CALDA",
+   "to_section": "DIY",
+   "to": "COLLA A CALDO",
+   "type": "ricambio",
+   "score": 0.85,
+   "source": "ai",
+   "why": "stick di colla per la pistola"
+  },
+  {
+   "from_section": "DIY",
+   "from": "PISTOLA ARIA CALDA",
+   "to_section": "DIY",
+   "to": "COLLA SILICONICA",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "applicazione a caldo"
+  },
+  {
+   "from_section": "DIY",
+   "from": "PISTOLA ARIA CALDA",
+   "to_section": "DIY",
+   "to": "LAME",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "PISTOLA ARIA CALDA",
+   "to_section": "DIY",
+   "to": "FORBICI",
+   "type": "complemento",
+   "score": 0.25,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "PORTADOCUMENTI",
+   "to_section": "DIY",
+   "to": "CARTONCINI COLORATI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "materiali"
+  },
+  {
+   "from_section": "DIY",
+   "from": "PORTADOCUMENTI",
+   "to_section": "DIY",
+   "to": "SCRAPBOOKING",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "album"
+  },
+  {
+   "from_section": "DIY",
+   "from": "PORTADOCUMENTI",
+   "to_section": "DIY",
+   "to": "BLOCCHI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "supporti"
+  },
+  {
+   "from_section": "DIY",
+   "from": "PORTADOCUMENTI",
+   "to_section": "DIY",
+   "to": "FOGLI ADESIVI",
+   "type": "complemento",
+   "score": 0.25,
+   "source": "ai",
+   "why": "decorare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "PUNZONI",
+   "to_section": "DIY",
+   "to": "FORBICI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "taglio/traforo"
+  },
+  {
+   "from_section": "DIY",
+   "from": "PUNZONI",
+   "to_section": "DIY",
+   "to": "LAME",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "incidere"
+  },
+  {
+   "from_section": "DIY",
+   "from": "PUNZONI",
+   "to_section": "DIY",
+   "to": "RIGHELLI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "tracciare"
+  },
+  {
+   "from_section": "DIY",
+   "from": "PUNZONI",
+   "to_section": "DIY",
+   "to": "CARTONCINI COLORATI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "lavoretti"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MATITE GRAFITE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "GOMME",
+   "type": "complemento",
+   "score": 0.9,
+   "source": "ai",
+   "why": "cancellare la grafite"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MATITE GRAFITE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "TEMPERINI",
+   "type": "ricambio",
+   "score": 0.88,
+   "source": "ai",
+   "why": "temperare la matita"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MATITE GRAFITE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PORTAMINE",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "alternativa/coordinato per scrivere a matita"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MATITE GRAFITE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MATITE ETERNE",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "scrivere senza inchiostro"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "TEMPERINI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MATITE GRAFITE",
+   "type": "complemento",
+   "score": 0.9,
+   "source": "ai",
+   "why": "temperare le matite"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "TEMPERINI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MATITE COLORATE",
+   "type": "complemento",
+   "score": 0.8,
+   "source": "ai",
+   "why": "temperare"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "TEMPERINI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PORTAMINE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "corredo"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "TEMPERINI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "GOMME",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "corredo matita"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "GOMME",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MATITE GRAFITE",
+   "type": "complemento",
+   "score": 0.9,
+   "source": "ai",
+   "why": "cancellano la grafite"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "GOMME",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PORTAMINE",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "corredo matita"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "GOMME",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "TEMPERINI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "corredo"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "GOMME",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MATITE COLORATE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "corredo"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PORTAMINE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "ACCESSORI",
+   "type": "ricambio",
+   "score": 0.9,
+   "source": "ai",
+   "why": "mine e gomme di ricambio"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PORTAMINE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "GOMME",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "cancellare"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PORTAMINE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MATITE GRAFITE",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "scrittura a matita"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PORTAMINE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "TEMPERINI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "corredo"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "ACCESSORI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PORTAMINE",
+   "type": "ricambio",
+   "score": 0.9,
+   "source": "ai",
+   "why": "ricariche per portamine"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "ACCESSORI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MATITE GRAFITE",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "corredo"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "ACCESSORI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "GOMME",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "corredo"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "ACCESSORI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "TEMPERINI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "corredo"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MATITE COLORATE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "TEMPERINI",
+   "type": "ricambio",
+   "score": 0.85,
+   "source": "ai",
+   "why": "temperare"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MATITE COLORATE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "GOMME",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "cancellare"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MATITE COLORATE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MATITE GRAFITE",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "disegno"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MATITE COLORATE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "ACCESSORI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "corredo"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MATITE ETERNE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MATITE GRAFITE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "scrivere a matita"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MATITE ETERNE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PORTAMINE",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "scrittura senza inchiostro"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MATITE ETERNE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "GOMME",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "cancellare"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MATITE ETERNE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "TEMPERINI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "corredo"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE A SFERA",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORI A NASTRO",
+   "type": "complemento",
+   "score": 0.72,
+   "source": "ai",
+   "why": "scrivere e correggere"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE A SFERA",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE GEL",
+   "type": "coordinato",
+   "score": 0.68,
+   "source": "ai",
+   "why": "stessa famiglia penne"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE A SFERA",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORE LIQUIDO",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "correggere"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE A SFERA",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "KIT DI SCRITTURA",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "set di scrittura"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE GEL",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE A SFERA",
+   "type": "coordinato",
+   "score": 0.75,
+   "source": "ai",
+   "why": "penne"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE GEL",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORI A NASTRO",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "correggere"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE GEL",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE CANCELLABILI",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "penne"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE GEL",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORE LIQUIDO",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "correggere"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE CANCELLABILI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE GEL",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "penne cancellabili gel"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE CANCELLABILI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "GOMME",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "cancellare"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE CANCELLABILI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORI A NASTRO",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "correggere"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE CANCELLABILI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE A SFERA",
+   "type": "coordinato",
+   "score": 0.4,
+   "source": "ai",
+   "why": "penne"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "CORRETTORE LIQUIDO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORI A NASTRO",
+   "type": "coordinato",
+   "score": 0.82,
+   "source": "ai",
+   "why": "correttori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "CORRETTORE LIQUIDO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORI A PENNA",
+   "type": "coordinato",
+   "score": 0.78,
+   "source": "ai",
+   "why": "correttori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "CORRETTORE LIQUIDO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE A SFERA",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "scrivere"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "CORRETTORE LIQUIDO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORI A PENNELLO",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "correttori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "CORRETTORI A NASTRO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORE LIQUIDO",
+   "type": "coordinato",
+   "score": 0.82,
+   "source": "ai",
+   "why": "correttori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "CORRETTORI A NASTRO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORI A PENNA",
+   "type": "coordinato",
+   "score": 0.78,
+   "source": "ai",
+   "why": "correttori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "CORRETTORI A NASTRO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE A SFERA",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "scrivere"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "CORRETTORI A NASTRO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE GEL",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "scrivere"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "CORRETTORI A PENNA",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORI A NASTRO",
+   "type": "coordinato",
+   "score": 0.8,
+   "source": "ai",
+   "why": "correttori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "CORRETTORI A PENNA",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORE LIQUIDO",
+   "type": "coordinato",
+   "score": 0.78,
+   "source": "ai",
+   "why": "correttori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "CORRETTORI A PENNA",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE A SFERA",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "scrivere"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "CORRETTORI A PENNA",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORI A PENNELLO",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "correttori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "CORRETTORI A PENNELLO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORE LIQUIDO",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "correttori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "CORRETTORI A PENNELLO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORI A NASTRO",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "correttori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "CORRETTORI A PENNELLO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORI A PENNA",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "correttori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "CORRETTORI A PENNELLO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE A SFERA",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "scrivere"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "EVIDENZIATORI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE A PUNTA FINE",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "sottolineare e annotare"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "EVIDENZIATORI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNARELLI CALIBRATI",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "punte fini colore"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "EVIDENZIATORI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE GEL",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "annotare"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "EVIDENZIATORI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE A SFERA",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "annotare"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE A PUNTA FINE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNARELLI CALIBRATI",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "punte fini"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE A PUNTA FINE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "EVIDENZIATORI",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "annotare"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE A PUNTA FINE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE A INCHIOSTRO LIQUIDO",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "scrittura fine"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE A PUNTA FINE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE GEL",
+   "type": "coordinato",
+   "score": 0.45,
+   "source": "ai",
+   "why": "scrittura"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE A INCHIOSTRO LIQUIDO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE A PUNTA FINE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "scrittura fine"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE A INCHIOSTRO LIQUIDO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE GEL",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "scrittura"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE A INCHIOSTRO LIQUIDO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORI A NASTRO",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "correggere"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE A INCHIOSTRO LIQUIDO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORE LIQUIDO",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "correggere"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE A INCHIOSTRO OLIO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE A SFERA",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "inchiostro a olio"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE A INCHIOSTRO OLIO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "CORRETTORI A NASTRO",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "correggere"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE A INCHIOSTRO OLIO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE GEL",
+   "type": "coordinato",
+   "score": 0.45,
+   "source": "ai",
+   "why": "penne"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE A INCHIOSTRO OLIO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "KIT DI SCRITTURA",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "set"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "KIT DI SCRITTURA",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE A SFERA",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "contenuto del kit"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "KIT DI SCRITTURA",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MATITE GRAFITE",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "contenuto del kit"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "KIT DI SCRITTURA",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "GOMME",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "contenuto del kit"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "KIT DI SCRITTURA",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "TEMPERINI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "contenuto del kit"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MARCATORE INDELEBILE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MARCATORE A VERNICE",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "marcatori permanenti"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MARCATORE INDELEBILE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MARCATORE TESSILE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "marcatori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MARCATORE INDELEBILE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNARELLI PER LAVAGNA",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "marcatura"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MARCATORE INDELEBILE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNARELLI SPECIALI",
+   "type": "coordinato",
+   "score": 0.4,
+   "source": "ai",
+   "why": "marcatori speciali"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MARCATORE A VERNICE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MARCATORE INDELEBILE",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "marcatori permanenti"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MARCATORE A VERNICE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "GESSO LIQUIDO",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "marcatura su superfici"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MARCATORE A VERNICE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MARCATORE TESSILE",
+   "type": "coordinato",
+   "score": 0.45,
+   "source": "ai",
+   "why": "marcatori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MARCATORE A VERNICE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNARELLI SPECIALI",
+   "type": "coordinato",
+   "score": 0.4,
+   "source": "ai",
+   "why": "marcatori speciali"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MARCATORE TESSILE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MARCATORE INDELEBILE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "marcatori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MARCATORE TESSILE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MARCATORE A VERNICE",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "marcatori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MARCATORE TESSILE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNARELLI SPECIALI",
+   "type": "coordinato",
+   "score": 0.45,
+   "source": "ai",
+   "why": "marcatori speciali"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MARCATORE TESSILE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNARELLI CALIBRATI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "colore"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "GESSO LIQUIDO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNARELLI PER LAVAGNA",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "scrivere su lavagna"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "GESSO LIQUIDO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MARCATORE A VERNICE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "marcatura"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "GESSO LIQUIDO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MARCATORE INDELEBILE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "marcatura"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "GESSO LIQUIDO",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNARELLI SPECIALI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "speciali"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNARELLI PER LAVAGNA",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "GESSO LIQUIDO",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "lavagna"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNARELLI PER LAVAGNA",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MARCATORE INDELEBILE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "marcatura"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNARELLI PER LAVAGNA",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MARCATORE A VERNICE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "marcatura"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNARELLI PER LAVAGNA",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "ACCESSORI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "cancellini/accessori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNARELLI SPECIALI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MARCATORE INDELEBILE",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "marcatori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNARELLI SPECIALI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MARCATORE A VERNICE",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "marcatori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNARELLI SPECIALI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNARELLI CALIBRATI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "colore"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNARELLI SPECIALI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MARCATORE TESSILE",
+   "type": "coordinato",
+   "score": 0.4,
+   "source": "ai",
+   "why": "marcatori"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNARELLI CALIBRATI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "PENNE A PUNTA FINE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "punte fini"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNARELLI CALIBRATI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "EVIDENZIATORI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "colore"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNARELLI CALIBRATI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MATITE GRAFITE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "disegno"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNARELLI CALIBRATI",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "GOMME",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "correggere"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "RIGHELLI",
+   "to_section": "SCUOLA",
+   "to": "SQUADRE",
+   "type": "coordinato",
+   "score": 0.92,
+   "source": "ai",
+   "why": "set da disegno geometrico"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "RIGHELLI",
+   "to_section": "SCUOLA",
+   "to": "GONIOMETRI",
+   "type": "coordinato",
+   "score": 0.86,
+   "source": "ai",
+   "why": "misurare e tracciare angoli"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "RIGHELLI",
+   "to_section": "SCUOLA",
+   "to": "COMPASSI",
+   "type": "complemento",
+   "score": 0.7,
+   "source": "ai",
+   "why": "disegno tecnico"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "RIGHELLI",
+   "to_section": "SCUOLA",
+   "to": "PUNTERUOLI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "corredo geometrico"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "SQUADRE",
+   "to_section": "SCUOLA",
+   "to": "RIGHELLI",
+   "type": "coordinato",
+   "score": 0.92,
+   "source": "ai",
+   "why": "set geometrico"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "SQUADRE",
+   "to_section": "SCUOLA",
+   "to": "GONIOMETRI",
+   "type": "coordinato",
+   "score": 0.82,
+   "source": "ai",
+   "why": "squadratura e angoli"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "SQUADRE",
+   "to_section": "SCUOLA",
+   "to": "COMPASSI",
+   "type": "complemento",
+   "score": 0.72,
+   "source": "ai",
+   "why": "disegno tecnico"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "SQUADRE",
+   "to_section": "SCUOLA",
+   "to": "PUNTERUOLI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "corredo"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "GONIOMETRI",
+   "to_section": "SCUOLA",
+   "to": "RIGHELLI",
+   "type": "coordinato",
+   "score": 0.86,
+   "source": "ai",
+   "why": "set geometrico"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "GONIOMETRI",
+   "to_section": "SCUOLA",
+   "to": "SQUADRE",
+   "type": "coordinato",
+   "score": 0.84,
+   "source": "ai",
+   "why": "angoli e squadratura"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "GONIOMETRI",
+   "to_section": "SCUOLA",
+   "to": "COMPASSI",
+   "type": "complemento",
+   "score": 0.7,
+   "source": "ai",
+   "why": "disegno tecnico"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "GONIOMETRI",
+   "to_section": "SCUOLA",
+   "to": "PUNTERUOLI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "corredo"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "COMPASSI",
+   "to_section": "SCUOLA",
+   "to": "RIGHELLI",
+   "type": "complemento",
+   "score": 0.78,
+   "source": "ai",
+   "why": "disegno tecnico"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "COMPASSI",
+   "to_section": "SCUOLA",
+   "to": "SQUADRE",
+   "type": "complemento",
+   "score": 0.74,
+   "source": "ai",
+   "why": "disegno tecnico"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "COMPASSI",
+   "to_section": "SCUOLA",
+   "to": "GONIOMETRI",
+   "type": "complemento",
+   "score": 0.7,
+   "source": "ai",
+   "why": "disegno tecnico"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "COMPASSI",
+   "to_section": "SCUOLA",
+   "to": "PUNTERUOLI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "puntare/forare"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "PUNTERUOLI",
+   "to_section": "SCUOLA",
+   "to": "COMPASSI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "a supporto del compasso"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "PUNTERUOLI",
+   "to_section": "SCUOLA",
+   "to": "KIT ELETTRICI",
+   "type": "complemento",
+   "score": 0.42,
+   "source": "ai",
+   "why": "montaggio/traforo"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "PUNTERUOLI",
+   "to_section": "SCUOLA",
+   "to": "RIGHELLI",
+   "type": "complemento",
+   "score": 0.38,
+   "source": "ai",
+   "why": "corredo"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "PUNTERUOLI",
+   "to_section": "SCUOLA",
+   "to": "SQUADRE",
+   "type": "complemento",
+   "score": 0.34,
+   "source": "ai",
+   "why": "corredo"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "CALCOLATRICI",
+   "to_section": "SCUOLA",
+   "to": "KIT ELETTRICI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "materiale scientifico"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "CALCOLATRICI",
+   "to_section": "SCUOLA",
+   "to": "RIGHELLI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "corredo scolastico"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "CALCOLATRICI",
+   "to_section": "SCUOLA",
+   "to": "COMPASSI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "corredo di matematica"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "CALCOLATRICI",
+   "to_section": "SCUOLA",
+   "to": "BUSTE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "trasporto"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "KIT ELETTRICI",
+   "to_section": "SCUOLA",
+   "to": "CALCOLATRICI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "attività di scienze"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "KIT ELETTRICI",
+   "to_section": "SCUOLA",
+   "to": "PUNTERUOLI",
+   "type": "complemento",
+   "score": 0.42,
+   "source": "ai",
+   "why": "montaggio circuito"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "KIT ELETTRICI",
+   "to_section": "SCUOLA",
+   "to": "COMPASSI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "materiale tecnico"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "KIT ELETTRICI",
+   "to_section": "SCUOLA",
+   "to": "RIGHELLI",
+   "type": "complemento",
+   "score": 0.34,
+   "source": "ai",
+   "why": "materiale tecnico"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "FLAUTI",
+   "to_section": "SCUOLA",
+   "to": "BUSTE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "custodia/trasporto"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "FLAUTI",
+   "to_section": "SCUOLA",
+   "to": "KIT ELETTRICI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "attività didattiche"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "FLAUTI",
+   "to_section": "SCUOLA",
+   "to": "CALCOLATRICI",
+   "type": "complemento",
+   "score": 0.25,
+   "source": "ai",
+   "why": "corredo"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "FLAUTI",
+   "to_section": "SCUOLA",
+   "to": "RIGHELLI",
+   "type": "complemento",
+   "score": 0.2,
+   "source": "ai",
+   "why": "corredo"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "BUSTE",
+   "to_section": "SCUOLA",
+   "to": "RIGHELLI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "protezione corredo"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "BUSTE",
+   "to_section": "SCUOLA",
+   "to": "CALCOLATRICI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "trasporto"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "BUSTE",
+   "to_section": "SCUOLA",
+   "to": "FLAUTI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "custodia strumento"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "BUSTE",
+   "to_section": "SCUOLA",
+   "to": "KIT ELETTRICI",
+   "type": "complemento",
+   "score": 0.28,
+   "source": "ai",
+   "why": "trasporto"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PINZATRICI",
+   "to_section": "UFFICIO",
+   "to": "LEVAPUNTI",
+   "type": "complemento",
+   "score": 0.85,
+   "source": "ai",
+   "why": "togliere i punti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PINZATRICI",
+   "to_section": "UFFICIO",
+   "to": "PERFORATORI",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "forare e cucire"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PINZATRICI",
+   "to_section": "UFFICIO",
+   "to": "CLIP",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "fissare fogli"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PINZATRICI",
+   "to_section": "UFFICIO",
+   "to": "FERMAGLI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "LEVAPUNTI",
+   "to_section": "UFFICIO",
+   "to": "PINZATRICI",
+   "type": "complemento",
+   "score": 0.85,
+   "source": "ai",
+   "why": "rimuovere i punti della cucitrice"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "LEVAPUNTI",
+   "to_section": "UFFICIO",
+   "to": "SPARAMOLLE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "fissaggio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "LEVAPUNTI",
+   "to_section": "UFFICIO",
+   "to": "PERFORATORI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "ufficio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "LEVAPUNTI",
+   "to_section": "UFFICIO",
+   "to": "CLIP",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PERFORATORI",
+   "to_section": "UFFICIO",
+   "to": "RILEGATORI",
+   "type": "complemento",
+   "score": 0.7,
+   "source": "ai",
+   "why": "forare poi rilegare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PERFORATORI",
+   "to_section": "UFFICIO",
+   "to": "PERFORATRICI",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "foratura"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PERFORATORI",
+   "to_section": "UFFICIO",
+   "to": "PINZATRICI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "ufficio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PERFORATORI",
+   "to_section": "UFFICIO",
+   "to": "LEVAPUNTI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "ufficio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PERFORATRICI",
+   "to_section": "UFFICIO",
+   "to": "PERFORATORI",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "foratura"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PERFORATRICI",
+   "to_section": "UFFICIO",
+   "to": "RILEGATORI",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "forare e rilegare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PERFORATRICI",
+   "to_section": "UFFICIO",
+   "to": "PLASTIFICATRICE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "finitura documenti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PERFORATRICI",
+   "to_section": "UFFICIO",
+   "to": "PINZATRICI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "ufficio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "RILEGATORI",
+   "to_section": "UFFICIO",
+   "to": "PERFORATORI",
+   "type": "complemento",
+   "score": 0.7,
+   "source": "ai",
+   "why": "forare prima di rilegare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "RILEGATORI",
+   "to_section": "UFFICIO",
+   "to": "PERFORATRICI",
+   "type": "complemento",
+   "score": 0.65,
+   "source": "ai",
+   "why": "forare e rilegare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "RILEGATORI",
+   "to_section": "UFFICIO",
+   "to": "PLASTIFICATRICE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "finitura"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "RILEGATORI",
+   "to_section": "UFFICIO",
+   "to": "CUSTODIE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "copertine"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PLASTIFICATRICE",
+   "to_section": "UFFICIO",
+   "to": "RILEGATORI",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "finitura documenti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PLASTIFICATRICE",
+   "to_section": "UFFICIO",
+   "to": "PERFORATRICI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "finitura"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PLASTIFICATRICE",
+   "to_section": "UFFICIO",
+   "to": "CUSTODIE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "protezione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PLASTIFICATRICE",
+   "to_section": "UFFICIO",
+   "to": "NASTRI TERMOADESIVI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "termoadesivo"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CLIP",
+   "to_section": "UFFICIO",
+   "to": "FERMAGLI",
+   "type": "coordinato",
+   "score": 0.75,
+   "source": "ai",
+   "why": "fissare fogli"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CLIP",
+   "to_section": "UFFICIO",
+   "to": "MOLLE",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CLIP",
+   "to_section": "UFFICIO",
+   "to": "FERMACAMPIONI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CLIP",
+   "to_section": "UFFICIO",
+   "to": "FERMACARTE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "tenere fogli"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FERMAGLI",
+   "to_section": "UFFICIO",
+   "to": "CLIP",
+   "type": "coordinato",
+   "score": 0.75,
+   "source": "ai",
+   "why": "fissare fogli"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FERMAGLI",
+   "to_section": "UFFICIO",
+   "to": "MOLLE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FERMAGLI",
+   "to_section": "UFFICIO",
+   "to": "FERMACAMPIONI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FERMAGLI",
+   "to_section": "UFFICIO",
+   "to": "ELASTICI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "legare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "MOLLE",
+   "to_section": "UFFICIO",
+   "to": "MOLLETTE",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "molle fermacarte"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "MOLLE",
+   "to_section": "UFFICIO",
+   "to": "CLIP",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "MOLLE",
+   "to_section": "UFFICIO",
+   "to": "FERMAGLI",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "MOLLE",
+   "to_section": "UFFICIO",
+   "to": "SPARAMOLLE",
+   "type": "ricambio",
+   "score": 0.6,
+   "source": "ai",
+   "why": "applicatore per molle"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "MOLLETTE",
+   "to_section": "UFFICIO",
+   "to": "MOLLE",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "fermacarte a molla"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "MOLLETTE",
+   "to_section": "UFFICIO",
+   "to": "CLIP",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "MOLLETTE",
+   "to_section": "UFFICIO",
+   "to": "FERMAGLI",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "MOLLETTE",
+   "to_section": "UFFICIO",
+   "to": "ELASTICI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "tenere insieme"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "SPARAMOLLE",
+   "to_section": "UFFICIO",
+   "to": "MOLLE",
+   "type": "ricambio",
+   "score": 0.85,
+   "source": "ai",
+   "why": "applica le molle fermacarte"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "SPARAMOLLE",
+   "to_section": "UFFICIO",
+   "to": "MOLLETTE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "fissaggio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "SPARAMOLLE",
+   "to_section": "UFFICIO",
+   "to": "PINZATRICI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "fissaggio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "SPARAMOLLE",
+   "to_section": "UFFICIO",
+   "to": "CLIP",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FERMACAMPIONI",
+   "to_section": "UFFICIO",
+   "to": "CLIP",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FERMACAMPIONI",
+   "to_section": "UFFICIO",
+   "to": "FERMAGLI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FERMACAMPIONI",
+   "to_section": "UFFICIO",
+   "to": "MOLLE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FERMACAMPIONI",
+   "to_section": "UFFICIO",
+   "to": "SPILLI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "appuntare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FERMACARTE",
+   "to_section": "UFFICIO",
+   "to": "CLIP",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "tenere fogli"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FERMACARTE",
+   "to_section": "UFFICIO",
+   "to": "FERMAGLI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "tenere fogli"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FERMACARTE",
+   "to_section": "UFFICIO",
+   "to": "MOLLE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "fermare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "ELASTICI",
+   "to_section": "UFFICIO",
+   "to": "CLIP",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "legare/fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "ELASTICI",
+   "to_section": "UFFICIO",
+   "to": "FERMAGLI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "ELASTICI",
+   "to_section": "UFFICIO",
+   "to": "MOLLETTE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "tenere insieme"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "ELASTICI",
+   "to_section": "UFFICIO",
+   "to": "GOMMINI ADESIVI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "fissaggio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "SPILLI",
+   "to_section": "UFFICIO",
+   "to": "PUNTI METALLICI",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "appuntare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "SPILLI",
+   "to_section": "UFFICIO",
+   "to": "FERMACAMPIONI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "SPILLI",
+   "to_section": "UFFICIO",
+   "to": "MOLLETTE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "SPILLI",
+   "to_section": "UFFICIO",
+   "to": "CLIP",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PUNTI METALLICI",
+   "to_section": "UFFICIO",
+   "to": "BACHECA SUGHERO",
+   "type": "complemento",
+   "score": 0.85,
+   "source": "ai",
+   "why": "puntine per la bacheca in sughero"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PUNTI METALLICI",
+   "to_section": "UFFICIO",
+   "to": "SPILLI",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "appuntare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PUNTI METALLICI",
+   "to_section": "UFFICIO",
+   "to": "MAGNETI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "affiggere"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PUNTI METALLICI",
+   "to_section": "UFFICIO",
+   "to": "FERMACAMPIONI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "GOMMINI ADESIVI",
+   "to_section": "UFFICIO",
+   "to": "NASTRI ADESIVI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "fissaggio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "GOMMINI ADESIVI",
+   "to_section": "UFFICIO",
+   "to": "COLLE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "incollare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "GOMMINI ADESIVI",
+   "to_section": "UFFICIO",
+   "to": "PUNTI METALLICI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "affiggere senza forare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "GOMMINI ADESIVI",
+   "to_section": "UFFICIO",
+   "to": "MAGNETI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "affiggere"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "NASTRI ADESIVI",
+   "to_section": "UFFICIO",
+   "to": "PORTA NASTRI ADESIVI",
+   "type": "ricambio",
+   "score": 0.85,
+   "source": "ai",
+   "why": "il nastro va nel dispenser"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "NASTRI ADESIVI",
+   "to_section": "UFFICIO",
+   "to": "COLLE",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "fissare/incollare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "NASTRI ADESIVI",
+   "to_section": "UFFICIO",
+   "to": "GOMMINI ADESIVI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "fissaggio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "NASTRI ADESIVI",
+   "to_section": "UFFICIO",
+   "to": "NASTRI TERMOADESIVI",
+   "type": "coordinato",
+   "score": 0.35,
+   "source": "ai",
+   "why": "nastri"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTA NASTRI ADESIVI",
+   "to_section": "UFFICIO",
+   "to": "NASTRI ADESIVI",
+   "type": "ricambio",
+   "score": 0.9,
+   "source": "ai",
+   "why": "ricariche di nastro per il dispenser"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTA NASTRI ADESIVI",
+   "to_section": "UFFICIO",
+   "to": "COLLE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "fissare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTA NASTRI ADESIVI",
+   "to_section": "UFFICIO",
+   "to": "FORBICI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "tagliare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTA NASTRI ADESIVI",
+   "to_section": "UFFICIO",
+   "to": "GOMMINI ADESIVI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "fissaggio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "NASTRI TERMOADESIVI",
+   "to_section": "UFFICIO",
+   "to": "NASTRI ADESIVI",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "nastri"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "NASTRI TERMOADESIVI",
+   "to_section": "UFFICIO",
+   "to": "PLASTIFICATRICE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "termoadesivo"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "NASTRI TERMOADESIVI",
+   "to_section": "UFFICIO",
+   "to": "COLLE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "incollare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "NASTRI TERMOADESIVI",
+   "to_section": "UFFICIO",
+   "to": "FORBICI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "tagliare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "COLLE",
+   "to_section": "UFFICIO",
+   "to": "NASTRI ADESIVI",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "fissare/incollare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "COLLE",
+   "to_section": "UFFICIO",
+   "to": "GOMMINI ADESIVI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "fissaggio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "COLLE",
+   "to_section": "UFFICIO",
+   "to": "FORBICI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "ritaglio e incollo"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "COLLE",
+   "to_section": "UFFICIO",
+   "to": "PORTA NASTRI ADESIVI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "fissaggio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FORBICI",
+   "to_section": "UFFICIO",
+   "to": "TAGLIERINI",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "taglio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FORBICI",
+   "to_section": "UFFICIO",
+   "to": "TAGLIACARTE",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "taglio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FORBICI",
+   "to_section": "UFFICIO",
+   "to": "BASE DA TAGLIO",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "superficie di taglio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FORBICI",
+   "to_section": "UFFICIO",
+   "to": "COLLE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "ritaglio e incollo"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TAGLIERINI",
+   "to_section": "UFFICIO",
+   "to": "BASE DA TAGLIO",
+   "type": "complemento",
+   "score": 0.8,
+   "source": "ai",
+   "why": "tagliare sul tappetino"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TAGLIERINI",
+   "to_section": "UFFICIO",
+   "to": "TAPPETINI",
+   "type": "complemento",
+   "score": 0.7,
+   "source": "ai",
+   "why": "superficie di taglio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TAGLIERINI",
+   "to_section": "UFFICIO",
+   "to": "FORBICI",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "taglio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TAGLIERINI",
+   "to_section": "UFFICIO",
+   "to": "TAGLIACARTE",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "taglio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TAGLIACARTE",
+   "to_section": "UFFICIO",
+   "to": "TAGLIERINI",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "taglio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TAGLIACARTE",
+   "to_section": "UFFICIO",
+   "to": "FORBICI",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "taglio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TAGLIACARTE",
+   "to_section": "UFFICIO",
+   "to": "BASE DA TAGLIO",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "superficie"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TAGLIACARTE",
+   "to_section": "UFFICIO",
+   "to": "LENTI",
+   "type": "complemento",
+   "score": 0.25,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "BASE DA TAGLIO",
+   "to_section": "UFFICIO",
+   "to": "TAGLIERINI",
+   "type": "complemento",
+   "score": 0.8,
+   "source": "ai",
+   "why": "tagliare sulla base"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "BASE DA TAGLIO",
+   "to_section": "UFFICIO",
+   "to": "TAPPETINI",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "superficie"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "BASE DA TAGLIO",
+   "to_section": "UFFICIO",
+   "to": "FORBICI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "taglio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "BASE DA TAGLIO",
+   "to_section": "UFFICIO",
+   "to": "TAGLIACARTE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "taglio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TAPPETINI",
+   "to_section": "UFFICIO",
+   "to": "BASE DA TAGLIO",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "superficie da scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TAPPETINI",
+   "to_section": "UFFICIO",
+   "to": "TAGLIERINI",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "taglio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TAPPETINI",
+   "to_section": "UFFICIO",
+   "to": "ORGANIZER",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TAPPETINI",
+   "to_section": "UFFICIO",
+   "to": "PULIZIA",
+   "type": "complemento",
+   "score": 0.25,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "ORGANIZER",
+   "to_section": "UFFICIO",
+   "to": "PORTAPENNE",
+   "type": "coordinato",
+   "score": 0.75,
+   "source": "ai",
+   "why": "ordine sulla scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "ORGANIZER",
+   "to_section": "UFFICIO",
+   "to": "PORTACORRISPONDENZA",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "ORGANIZER",
+   "to_section": "UFFICIO",
+   "to": "PORTARIVISTE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "ORGANIZER",
+   "to_section": "UFFICIO",
+   "to": "CESTINI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTAPENNE",
+   "to_section": "UFFICIO",
+   "to": "ORGANIZER",
+   "type": "coordinato",
+   "score": 0.75,
+   "source": "ai",
+   "why": "ordine scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTAPENNE",
+   "to_section": "UFFICIO",
+   "to": "PORTACORRISPONDENZA",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTAPENNE",
+   "to_section": "UFFICIO",
+   "to": "PORTARIVISTE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTAPENNE",
+   "to_section": "UFFICIO",
+   "to": "CESTINI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTACORRISPONDENZA",
+   "to_section": "UFFICIO",
+   "to": "PORTARIVISTE",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "vaschette/archivio scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTACORRISPONDENZA",
+   "to_section": "UFFICIO",
+   "to": "CASSETTE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "cassettiere"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTACORRISPONDENZA",
+   "to_section": "UFFICIO",
+   "to": "ORGANIZER",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTACORRISPONDENZA",
+   "to_section": "UFFICIO",
+   "to": "PORTADOCUMENTI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "documenti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTARIVISTE",
+   "to_section": "UFFICIO",
+   "to": "PORTACORRISPONDENZA",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "archivio da scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTARIVISTE",
+   "to_section": "UFFICIO",
+   "to": "ORGANIZER",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTARIVISTE",
+   "to_section": "UFFICIO",
+   "to": "REGGILIBRI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "tenere in piedi"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTARIVISTE",
+   "to_section": "UFFICIO",
+   "to": "CASSETTE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "archivio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CASSETTE",
+   "to_section": "UFFICIO",
+   "to": "PORTACORRISPONDENZA",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "cassettiere/vaschette"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CASSETTE",
+   "to_section": "UFFICIO",
+   "to": "ORGANIZER",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CASSETTE",
+   "to_section": "UFFICIO",
+   "to": "PORTADOCUMENTI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "documenti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CASSETTE",
+   "to_section": "UFFICIO",
+   "to": "PORTARIVISTE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "archivio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTADOCUMENTI",
+   "to_section": "UFFICIO",
+   "to": "PORTACARTE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "documenti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTADOCUMENTI",
+   "to_section": "UFFICIO",
+   "to": "PORTACORRISPONDENZA",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTADOCUMENTI",
+   "to_section": "UFFICIO",
+   "to": "CUSTODIE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "protezione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTADOCUMENTI",
+   "to_section": "UFFICIO",
+   "to": "CASSETTE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "archivio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTACARTE",
+   "to_section": "UFFICIO",
+   "to": "PORTADOCUMENTI",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "documenti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTACARTE",
+   "to_section": "UFFICIO",
+   "to": "PORTACORRISPONDENZA",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTACARTE",
+   "to_section": "UFFICIO",
+   "to": "CUSTODIE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "protezione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTACARTE",
+   "to_section": "UFFICIO",
+   "to": "BADGE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "identificazione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "REGGILIBRI",
+   "to_section": "UFFICIO",
+   "to": "PORTARIVISTE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "tenere in piedi"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "REGGILIBRI",
+   "to_section": "UFFICIO",
+   "to": "ORGANIZER",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "REGGILIBRI",
+   "to_section": "UFFICIO",
+   "to": "PORTADOCUMENTI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "REGGILIBRI",
+   "to_section": "UFFICIO",
+   "to": "CASSETTE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "archivio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "LEGGII",
+   "to_section": "UFFICIO",
+   "to": "PORTANOMI E PORTADEPLIANT",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "esposizione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "LEGGII",
+   "to_section": "UFFICIO",
+   "to": "CORNICI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "esposizione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "LEGGII",
+   "to_section": "UFFICIO",
+   "to": "PORTADOCUMENTI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "documenti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "LEGGII",
+   "to_section": "UFFICIO",
+   "to": "ORGANIZER",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTA OMBRELLI",
+   "to_section": "UFFICIO",
+   "to": "CESTINI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "contenitori da terra"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTA OMBRELLI",
+   "to_section": "UFFICIO",
+   "to": "PORTARIVISTE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "arredo ufficio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTA OMBRELLI",
+   "to_section": "UFFICIO",
+   "to": "ORGANIZER",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "ufficio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTA OMBRELLI",
+   "to_section": "UFFICIO",
+   "to": "PULIZIA",
+   "type": "complemento",
+   "score": 0.25,
+   "source": "ai",
+   "why": "ingresso"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CESTINI",
+   "to_section": "UFFICIO",
+   "to": "PULIZIA",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "raccolta rifiuti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CESTINI",
+   "to_section": "UFFICIO",
+   "to": "DISTRUGGIDOCUMENTI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "smaltire documenti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CESTINI",
+   "to_section": "UFFICIO",
+   "to": "ORGANIZER",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CESTINI",
+   "to_section": "UFFICIO",
+   "to": "PORTA OMBRELLI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "contenitori"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "DISTRUGGIDOCUMENTI",
+   "to_section": "UFFICIO",
+   "to": "CESTINI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "smaltire i frammenti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "DISTRUGGIDOCUMENTI",
+   "to_section": "UFFICIO",
+   "to": "PULIZIA",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "ufficio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "DISTRUGGIDOCUMENTI",
+   "to_section": "UFFICIO",
+   "to": "ORGANIZER",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "DISTRUGGIDOCUMENTI",
+   "to_section": "UFFICIO",
+   "to": "PLASTIFICATRICE",
+   "type": "complemento",
+   "score": 0.25,
+   "source": "ai",
+   "why": "macchine ufficio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PULIZIA",
+   "to_section": "UFFICIO",
+   "to": "CESTINI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "rifiuti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PULIZIA",
+   "to_section": "UFFICIO",
+   "to": "LENTI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PULIZIA",
+   "to_section": "UFFICIO",
+   "to": "LAVAGNE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "pulire la lavagna"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PULIZIA",
+   "to_section": "UFFICIO",
+   "to": "PORTA OMBRELLI",
+   "type": "complemento",
+   "score": 0.25,
+   "source": "ai",
+   "why": "ingresso"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "LAVAGNE",
+   "to_section": "UFFICIO",
+   "to": "CANCELLINI",
+   "type": "complemento",
+   "score": 0.85,
+   "source": "ai",
+   "why": "cancellare la lavagna"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "LAVAGNE",
+   "to_section": "UFFICIO",
+   "to": "MAGNETI",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "affiggere su lavagna"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "LAVAGNE",
+   "to_section": "UFFICIO",
+   "to": "PLANNER",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "pianificazione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CANCELLINI",
+   "to_section": "UFFICIO",
+   "to": "LAVAGNE",
+   "type": "complemento",
+   "score": 0.8,
+   "source": "ai",
+   "why": "cancellare la lavagna"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CANCELLINI",
+   "to_section": "UFFICIO",
+   "to": "GESSETTI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "lavagna"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CANCELLINI",
+   "to_section": "UFFICIO",
+   "to": "MAGNETI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "lavagna"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "GESSETTI",
+   "to_section": "UFFICIO",
+   "to": "LAVAGNE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "scrivere su lavagna"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "GESSETTI",
+   "to_section": "UFFICIO",
+   "to": "CANCELLINI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "cancellare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "GESSETTI",
+   "to_section": "UFFICIO",
+   "to": "BACHECA SUGHERO",
+   "type": "complemento",
+   "score": 0.25,
+   "source": "ai",
+   "why": "affissione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "MAGNETI",
+   "to_section": "UFFICIO",
+   "to": "LAVAGNE",
+   "type": "complemento",
+   "score": 0.7,
+   "source": "ai",
+   "why": "affiggere su lavagna magnetica"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "MAGNETI",
+   "to_section": "UFFICIO",
+   "to": "BACHECA SUGHERO",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "affissione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "MAGNETI",
+   "to_section": "UFFICIO",
+   "to": "PLANNER",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "pianificazione magnetica"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "MAGNETI",
+   "to_section": "UFFICIO",
+   "to": "PUNTI METALLICI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "affiggere"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PLANNER",
+   "to_section": "UFFICIO",
+   "to": "LAVAGNE",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "pianificazione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PLANNER",
+   "to_section": "UFFICIO",
+   "to": "MAGNETI",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "planner magnetici"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PLANNER",
+   "to_section": "UFFICIO",
+   "to": "NOTE ADESIVE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "promemoria"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PLANNER",
+   "to_section": "UFFICIO",
+   "to": "BACHECA SUGHERO",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "affissione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "APPENDICARTELLO",
+   "to_section": "UFFICIO",
+   "to": "BACHECA SUGHERO",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "affissione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "APPENDICARTELLO",
+   "to_section": "UFFICIO",
+   "to": "LAVAGNE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "pareti informative"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "APPENDICARTELLO",
+   "to_section": "UFFICIO",
+   "to": "MAGNETI",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "affiggere"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "APPENDICARTELLO",
+   "to_section": "UFFICIO",
+   "to": "CORNICI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "esposizione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CORNICI",
+   "to_section": "UFFICIO",
+   "to": "PORTANOMI E PORTADEPLIANT",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "esposizione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CORNICI",
+   "to_section": "UFFICIO",
+   "to": "LEGGII",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "esposizione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CORNICI",
+   "to_section": "UFFICIO",
+   "to": "BACHECA SUGHERO",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "affissione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CORNICI",
+   "to_section": "UFFICIO",
+   "to": "PORTADOCUMENTI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "documenti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTANOMI E PORTADEPLIANT",
+   "to_section": "UFFICIO",
+   "to": "BADGE",
+   "type": "complemento",
+   "score": 0.6,
+   "source": "ai",
+   "why": "identificazione/esposizione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTANOMI E PORTADEPLIANT",
+   "to_section": "UFFICIO",
+   "to": "LEGGII",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "esposizione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTANOMI E PORTADEPLIANT",
+   "to_section": "UFFICIO",
+   "to": "CORNICI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "esposizione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTANOMI E PORTADEPLIANT",
+   "to_section": "UFFICIO",
+   "to": "PORTADOCUMENTI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "documenti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "BADGE",
+   "to_section": "UFFICIO",
+   "to": "PORTANOMI E PORTADEPLIANT",
+   "type": "coordinato",
+   "score": 0.65,
+   "source": "ai",
+   "why": "identificazione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "BADGE",
+   "to_section": "UFFICIO",
+   "to": "PORTACHIAVI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "accessori personali"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTACHIAVI",
+   "to_section": "UFFICIO",
+   "to": "BADGE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "accessori personali"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PORTACHIAVI",
+   "to_section": "UFFICIO",
+   "to": "CAMPANELLI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "accessori"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CAMPANELLI",
+   "to_section": "UFFICIO",
+   "to": "PORTACHIAVI",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "reception/accessori"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CAMPANELLI",
+   "to_section": "UFFICIO",
+   "to": "BADGE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "reception"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CAMPANELLI",
+   "to_section": "UFFICIO",
+   "to": "TIMBRI E INCHIOSTRI",
+   "type": "complemento",
+   "score": 0.25,
+   "source": "ai",
+   "why": "reception"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TIMBRI E INCHIOSTRI",
+   "to_section": "UFFICIO",
+   "to": "TIMBRI TESSILI",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "timbratura"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TIMBRI E INCHIOSTRI",
+   "to_section": "UFFICIO",
+   "to": "SCONTRINI ED ETICHETTE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "marcatura"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TIMBRI E INCHIOSTRI",
+   "to_section": "UFFICIO",
+   "to": "ETICHETTE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "etichettatura"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TIMBRI E INCHIOSTRI",
+   "to_section": "UFFICIO",
+   "to": "PULIZIA",
+   "type": "complemento",
+   "score": 0.2,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TIMBRI TESSILI",
+   "to_section": "UFFICIO",
+   "to": "TIMBRI E INCHIOSTRI",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "timbratura"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TIMBRI TESSILI",
+   "to_section": "UFFICIO",
+   "to": "ETICHETTE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "marcatura"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TIMBRI TESSILI",
+   "to_section": "UFFICIO",
+   "to": "SCONTRINI ED ETICHETTE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "marcatura"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "TIMBRI TESSILI",
+   "to_section": "UFFICIO",
+   "to": "PULIZIA",
+   "type": "complemento",
+   "score": 0.2,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "ETICHETTE",
+   "to_section": "UFFICIO",
+   "to": "SCONTRINI ED ETICHETTE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "etichettatura"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "ETICHETTE",
+   "to_section": "UFFICIO",
+   "to": "CARTA DA STAMPANTE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "stampa"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "ETICHETTE",
+   "to_section": "UFFICIO",
+   "to": "CARTONCINI PER SCHEDARIO",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "schedatura"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "ETICHETTE",
+   "to_section": "UFFICIO",
+   "to": "BUSTE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "spedizione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "SCONTRINI ED ETICHETTE",
+   "to_section": "UFFICIO",
+   "to": "ETICHETTE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "etichette"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "SCONTRINI ED ETICHETTE",
+   "to_section": "UFFICIO",
+   "to": "CARTA DA STAMPANTE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "stampa"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "SCONTRINI ED ETICHETTE",
+   "to_section": "UFFICIO",
+   "to": "TIMBRI E INCHIOSTRI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "marcatura"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "SCONTRINI ED ETICHETTE",
+   "to_section": "UFFICIO",
+   "to": "BUSTE",
+   "type": "complemento",
+   "score": 0.25,
+   "source": "ai",
+   "why": "spedizione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CARTA DA STAMPANTE",
+   "to_section": "UFFICIO",
+   "to": "CARTA FOTOGRAFICA",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "carta per stampa"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CARTA DA STAMPANTE",
+   "to_section": "UFFICIO",
+   "to": "ETICHETTE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "stampa etichette"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CARTA DA STAMPANTE",
+   "to_section": "UFFICIO",
+   "to": "CARTONCINI PER SCHEDARIO",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "cartoncini"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CARTA DA STAMPANTE",
+   "to_section": "UFFICIO",
+   "to": "CARTA CARBONE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "copia"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CARTA FOTOGRAFICA",
+   "to_section": "UFFICIO",
+   "to": "CARTA DA STAMPANTE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "carta per stampa"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CARTA FOTOGRAFICA",
+   "to_section": "UFFICIO",
+   "to": "CARTONCINI PER SCHEDARIO",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "supporti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CARTA FOTOGRAFICA",
+   "to_section": "UFFICIO",
+   "to": "ETICHETTE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "stampa"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CARTA FOTOGRAFICA",
+   "to_section": "UFFICIO",
+   "to": "PLASTIFICATRICE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "finitura foto"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CARTA CARBONE",
+   "to_section": "UFFICIO",
+   "to": "CARTA DA STAMPANTE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "copie"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CARTA CARBONE",
+   "to_section": "UFFICIO",
+   "to": "SCONTRINI ED ETICHETTE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "moduli"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CARTA CARBONE",
+   "to_section": "UFFICIO",
+   "to": "ETICHETTE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "ufficio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CARTA CARBONE",
+   "to_section": "UFFICIO",
+   "to": "CARTONCINI PER SCHEDARIO",
+   "type": "complemento",
+   "score": 0.25,
+   "source": "ai",
+   "why": "ufficio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CARTONCINI PER SCHEDARIO",
+   "to_section": "UFFICIO",
+   "to": "BUSTE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "archivio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CARTONCINI PER SCHEDARIO",
+   "to_section": "UFFICIO",
+   "to": "CUSTODIE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "protezione schede"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CARTONCINI PER SCHEDARIO",
+   "to_section": "UFFICIO",
+   "to": "ETICHETTE",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "etichettare schede"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CARTONCINI PER SCHEDARIO",
+   "to_section": "UFFICIO",
+   "to": "CARTA DA STAMPANTE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "stampa"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "BUSTE",
+   "to_section": "UFFICIO",
+   "to": "CUSTODIE",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "protezione documenti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "BUSTE",
+   "to_section": "UFFICIO",
+   "to": "ETICHETTE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "indirizzare/etichettare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "BUSTE",
+   "to_section": "UFFICIO",
+   "to": "CARTONCINI PER SCHEDARIO",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "archivio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "BUSTE",
+   "to_section": "UFFICIO",
+   "to": "FOGLI IN ACETATO TRASPARENTE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "protezione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CUSTODIE",
+   "to_section": "UFFICIO",
+   "to": "BUSTE",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "protezione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CUSTODIE",
+   "to_section": "UFFICIO",
+   "to": "FOGLI IN ACETATO TRASPARENTE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "protezione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CUSTODIE",
+   "to_section": "UFFICIO",
+   "to": "CARTONCINI PER SCHEDARIO",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "archivio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CUSTODIE",
+   "to_section": "UFFICIO",
+   "to": "PLASTIFICATRICE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "protezione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FOGLI IN ACETATO TRASPARENTE",
+   "to_section": "UFFICIO",
+   "to": "CUSTODIE",
+   "type": "complemento",
+   "score": 0.55,
+   "source": "ai",
+   "why": "protezione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FOGLI IN ACETATO TRASPARENTE",
+   "to_section": "UFFICIO",
+   "to": "BUSTE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "protezione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FOGLI IN ACETATO TRASPARENTE",
+   "to_section": "UFFICIO",
+   "to": "CARTONCINI PER SCHEDARIO",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "copertine"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FOGLI IN ACETATO TRASPARENTE",
+   "to_section": "UFFICIO",
+   "to": "PLASTIFICATRICE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "finitura"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "NOTE",
+   "to_section": "UFFICIO",
+   "to": "NOTE ADESIVE",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "appunti/promemoria"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "NOTE",
+   "to_section": "UFFICIO",
+   "to": "SEGNAPAGINE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "segnalibri"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "NOTE",
+   "to_section": "UFFICIO",
+   "to": "PLANNER",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "organizzazione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "NOTE",
+   "to_section": "UFFICIO",
+   "to": "CARTA DA STAMPANTE",
+   "type": "complemento",
+   "score": 0.25,
+   "source": "ai",
+   "why": "carta"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "NOTE ADESIVE",
+   "to_section": "UFFICIO",
+   "to": "NOTE",
+   "type": "coordinato",
+   "score": 0.7,
+   "source": "ai",
+   "why": "appunti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "NOTE ADESIVE",
+   "to_section": "UFFICIO",
+   "to": "SEGNAPAGINE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "segnalare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "NOTE ADESIVE",
+   "to_section": "UFFICIO",
+   "to": "PLANNER",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "promemoria"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "NOTE ADESIVE",
+   "to_section": "UFFICIO",
+   "to": "PUNTI METALLICI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "affiggere"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "SEGNAPAGINE",
+   "to_section": "UFFICIO",
+   "to": "NOTE ADESIVE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "segnalare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "SEGNAPAGINE",
+   "to_section": "UFFICIO",
+   "to": "NOTE",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "appunti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "SEGNAPAGINE",
+   "to_section": "UFFICIO",
+   "to": "PLANNER",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "organizzazione"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "SEGNAPAGINE",
+   "to_section": "UFFICIO",
+   "to": "ETICHETTE",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "segnalare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CALCOLATRICI",
+   "to_section": "UFFICIO",
+   "to": "ORGANIZER",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CALCOLATRICI",
+   "to_section": "UFFICIO",
+   "to": "PORTAPENNE",
+   "type": "complemento",
+   "score": 0.35,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CALCOLATRICI",
+   "to_section": "UFFICIO",
+   "to": "PINZATRICI",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "ufficio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CALCOLATRICI",
+   "to_section": "UFFICIO",
+   "to": "PERFORATORI",
+   "type": "complemento",
+   "score": 0.25,
+   "source": "ai",
+   "why": "ufficio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "LENTI",
+   "to_section": "UFFICIO",
+   "to": "LEGGII",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "lettura"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "LENTI",
+   "to_section": "UFFICIO",
+   "to": "PULIZIA",
+   "type": "complemento",
+   "score": 0.3,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "LENTI",
+   "to_section": "UFFICIO",
+   "to": "TAGLIACARTE",
+   "type": "complemento",
+   "score": 0.25,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "LENTI",
+   "to_section": "UFFICIO",
+   "to": "ORGANIZER",
+   "type": "complemento",
+   "score": 0.2,
+   "source": "ai",
+   "why": "scrivania"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "CALCOLATRICI",
+   "to_section": "UFFICIO",
+   "to": "CALCOLATRICI",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "stessa categoria in ufficio"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CALCOLATRICI",
+   "to_section": "SCUOLA",
+   "to": "CALCOLATRICI",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "calcolatrici scientifiche per la scuola"
+  },
+  {
+   "from_section": "SCUOLA",
+   "from": "BUSTE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "BUSTE",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "buste porta-documenti"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "BUSTE",
+   "to_section": "UFFICIO",
+   "to": "BUSTE",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "buste da ufficio"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "PENNELLI",
+   "to_section": "ARTIX",
+   "to": "PENNELLI",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "dai pennelli per bimbi a quelli professionali"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "PENNELLI",
+   "to_section": "CREATIVITà KIDS",
+   "to": "PENNELLI",
+   "type": "coordinato",
+   "score": 0.45,
+   "source": "ai",
+   "why": "pennelli per i più piccoli"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "TEMPERE",
+   "to_section": "ARTIX",
+   "to": "PITTURA ACRILICA",
+   "type": "complemento",
+   "score": 0.5,
+   "source": "ai",
+   "why": "dalla tempera all'acrilico professionale"
+  },
+  {
+   "from_section": "CREATIVITà KIDS",
+   "from": "MATITE COLORATE",
+   "to_section": "SCRITTURA&CORREZIONE",
+   "to": "MATITE COLORATE",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "matite colorate, gamma scrittura"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "MATITE GRAFITE",
+   "to_section": "SCUOLA",
+   "to": "RIGHELLI",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "corredo geometrico scolastico"
+  },
+  {
+   "from_section": "SCRITTURA&CORREZIONE",
+   "from": "PENNE A SFERA",
+   "to_section": "UFFICIO",
+   "to": "NOTE ADESIVE",
+   "type": "complemento",
+   "score": 0.45,
+   "source": "ai",
+   "why": "scrivere sulle note adesive"
+  },
+  {
+   "from_section": "DIY",
+   "from": "FORBICI",
+   "to_section": "UFFICIO",
+   "to": "FORBICI",
+   "type": "coordinato",
+   "score": 0.45,
+   "source": "ai",
+   "why": "forbici da ufficio"
+  },
+  {
+   "from_section": "ARTIX",
+   "from": "TELE",
+   "to_section": "DIY",
+   "to": "CARTONE ESPANSO",
+   "type": "complemento",
+   "score": 0.4,
+   "source": "ai",
+   "why": "supporti per dipingere/creare"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "BACHECA SUGHERO",
+   "to_section": "UFFICIO",
+   "to": "SPILLI",
+   "type": "complemento",
+   "score": 0.9,
+   "source": "ai",
+   "why": "spilli cartografici per fissare fogli al sughero"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FERMACARTE",
+   "to_section": "UFFICIO",
+   "to": "CAMPANELLI",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "banco reception/ristorante: spillone conti + campanello"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CAMPANELLI",
+   "to_section": "UFFICIO",
+   "to": "FERMACARTE",
+   "type": "coordinato",
+   "score": 0.6,
+   "source": "ai",
+   "why": "banco reception/ristorante: campanello + spillone conti"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "FERMACARTE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "PORTABLOCCO",
+   "type": "coordinato",
+   "score": 0.55,
+   "source": "ai",
+   "why": "presa comande al ristorante su portablocco"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "CAMPANELLI",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "PORTABLOCCO",
+   "type": "coordinato",
+   "score": 0.5,
+   "source": "ai",
+   "why": "servizio al banco: campanello + portablocco comande"
+  },
+  {
+   "from_section": "UFFICIO",
+   "from": "PLASTIFICATRICE",
+   "to_section": "ARCHIVIAZIONE",
+   "to": "POUCHE",
+   "type": "ricambio",
+   "score": 0.95,
+   "source": "manual",
+   "why": "le pouches PN199/PN200/PN201 sono IL consumabile della plastificatrice PT201 (Isaac 2026-08-17)"
+  },
+  {
+   "from_section": "ARCHIVIAZIONE",
+   "from": "POUCHE",
+   "to_section": "UFFICIO",
+   "to": "PLASTIFICATRICE",
+   "type": "complemento",
+   "score": 0.9,
+   "source": "manual",
+   "why": "la macchina che usa queste pouches (PT201)"
+  }
+ ],
+ "product_relations": [
+  {
+   "section": "UFFICIO",
+   "from": "PINZATRICI",
+   "to": "PA140",
+   "type": "ricambio",
+   "score": 0.9,
+   "source": "ai",
+   "why": "punti metallici 24/6 per la cucitrice"
+  },
+  {
+   "section": "UFFICIO",
+   "from": "SPARAMOLLE",
+   "to": "PA110",
+   "type": "ricambio",
+   "score": 0.9,
+   "source": "ai",
+   "why": "clip di ricarica per lo sparamolle"
+  },
+  {
+   "section": "SCUOLA",
+   "from": "COMPASSI",
+   "to": "PA123B",
+   "type": "ricambio",
+   "score": 0.9,
+   "source": "ai",
+   "why": "mine di ricambio per il compasso"
+  },
+  {
+   "section": "DIY",
+   "from": "COLLA A CALDO",
+   "to": "PP041",
+   "type": "ricambio",
+   "score": 0.88,
+   "source": "ai",
+   "why": "ricariche di silicone 11 mm per la pistola"
+  },
+  {
+   "section": "DIY",
+   "from": "PISTOLA ARIA CALDA",
+   "to": "PP041",
+   "type": "ricambio",
+   "score": 0.88,
+   "source": "ai",
+   "why": "ricariche di silicone per la pistola a caldo"
+  },
+  {
+   "section": "SCRITTURA&CORREZIONE",
+   "from": "PORTAMINE",
+   "to": "PE131R",
+   "type": "ricambio",
+   "score": 0.9,
+   "source": "ai",
+   "why": "mine di ricarica HB 2.0 mm"
+  },
+  {
+   "section": "SCRITTURA&CORREZIONE",
+   "from": "TEMPERINI",
+   "to": "PA859",
+   "type": "ricambio",
+   "score": 0.85,
+   "source": "ai",
+   "why": "lama di ricarica per il temperamatite elettrico"
+  },
+  {
+   "section": "UFFICIO",
+   "from": "BACHECA SUGHERO",
+   "to": "PA346-1",
+   "type": "complemento",
+   "score": 0.9,
+   "source": "ai",
+   "why": "spilli cartografici per fissare fogli al pannello in sughero"
+  }
+ ]
+}

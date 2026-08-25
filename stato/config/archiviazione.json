@@ -1,0 +1,231 @@
+{
+  "section": "ARCHIVIAZIONE",
+  "lang": "it",
+  "opener": {
+    "kicker": "CAPITOLO TERZO",
+    "chapter_big": "03",
+    "title_lines": [
+      "Archiviazione",
+      "& Ordine"
+    ],
+    "hero_img": "../../../catalog_v2/assets/hero/archiviazione__A.webp",
+    "intro": "Oltre 340 referenze per archiviare, proteggere e trasportare i documenti: buste trasparenti in PP ed EVA con chiusura a zip, bottone o velcro; cartelle a tre lembi e a soffietto con elastico; portalistini da 10 a 100 buste; raccoglitori ad anelli con dorso personalizzabile e registratori a leva; separatori e indici compilabili; cartelline a L, portablocco con molla, pouches per plastificatrice e valigette portadocumenti. Materiali resistenti — polipropilene, cartoncino plastificato, EVA atossico — nei formati A4 e A3, in tinte assortite e trasparenti. Disponibili in blister, multipack ed espositori da banco.",
+    "featured": [
+      "PC101P",
+      "PC811",
+      "PC113-A4"
+    ]
+  },
+  "editorial": {
+    "title_main": "BUSINESS SCHOOL HOME",
+    "title_sub": "cancelleria di qualità, dal 1998",
+    "side_tag": "MP Qualità",
+    "lead": "Dal 1998 Main Paper progetta e distribuisce cancelleria di qualità per ufficio, scuola e casa. Azienda CEPYME500 — riconosciuta tra le 500 imprese leader per crescita, innovazione e proiezione internazionale — e premiata dalla Comunità di Madrid per l'innovazione e la qualità nei prodotti di cancelleria. Il capitolo archiviazione riunisce tutto il necessario per ordinare e conservare i documenti: oltre 340 referenze in 10 sottocategorie.",
+    "stats": [
+      {
+        "n": "343",
+        "l": "REFERENZE"
+      },
+      {
+        "n": "10",
+        "l": "SOTTOCAT."
+      }
+    ],
+    "pillars": [
+      {
+        "h": "CAPACITÀ",
+        "b": "Cartelle a soffietto, raccoglitori ad anelli e registratori a leva archiviano da poche pagine fino a 500 fogli forati, con dorsi da 20 a 80 mm."
+      },
+      {
+        "h": "PROTEZIONE",
+        "b": "Buste e cartelline in PP ed EVA ad alta trasparenza, atossiche e senza PVC, proteggono i documenti da polvere, umidità e usura."
+      },
+      {
+        "h": "ORGANIZZAZIONE",
+        "b": "Separatori colorati, indici compilabili e dorsi personalizzabili classificano l'archivio per materia e lo rendono immediato da consultare."
+      },
+      {
+        "h": "SOSTENIBILITÀ",
+        "b": "Cartoncini responsabili, polipropilene riciclabile e imballaggi ridotti per un archivio più sostenibile."
+      }
+    ],
+    "scenes": [
+      {
+        "img": "links_small/links_ufficio.webp",
+        "cap": "Separatori & indici"
+      },
+      {
+        "img": "clean_small/PC452.webp",
+        "cap": "Valigette portadocumenti"
+      },
+      {
+        "img": "clean_small/PC146.webp",
+        "cap": "Cartelline trasparenti"
+      }
+    ],
+    "certs": [],
+    "timeline": [
+      {
+        "y": "1998",
+        "l": "Fondazione MP"
+      },
+      {
+        "y": "2005",
+        "l": "GDO europea"
+      },
+      {
+        "y": "2012",
+        "l": "30+ paesi"
+      },
+      {
+        "y": "2018",
+        "l": "Linea eco"
+      },
+      {
+        "y": "2022",
+        "l": "Premio Madrid · CEPYME500"
+      }
+    ]
+  },
+  "promo_page": {
+    "title": "Promozioni & Pre-order",
+    "side_tag": "Novità 2026",
+    "intro": "Offerte e pre-ordini attivi del capitolo. I prodotti sono contrassegnati anche nelle pagine di catalogo."
+  },
+  "hero_rule": {
+    "max_fams": 8,
+    "require_desc": true
+  },
+  "big_family_min": 20,
+  "tips": {
+    "_generic": [
+      "Dal 1998 Main Paper distribuisce cancelleria e prodotti per l'ufficio.",
+      "Il programma RFQ Main Paper garantisce quotazioni entro 24 ore e un ordine minimo di un solo collo.",
+      "Ogni referenza è disponibile in blister singolo, multipack ed espositore da banco per la vendita al dettaglio."
+    ],
+    "BUSTE": "Le buste trasparenti MP in PP ed EVA proteggono i documenti A4: chiusura a zip, bottone o velcro, senza PVC.",
+    "CARTELLE": "Le cartelle a soffietto MP con elastico tengono insieme fino a 200 fogli: cartoncino plastificato antistrappo.",
+    "PORTALISTINI": "Un portalistini MP con 10-100 buste saldate mostra i documenti senza forarli: buste antiriflesso ad alta trasparenza.",
+    "RACCOGLITORI": "I raccoglitori ad anelli MP con dorso personalizzabile usano un meccanismo a leva: fino a 4 anelli da 40 mm.",
+    "REGISTRATORI": "I registratori MP a leva e compressore archiviano fino a 500 fogli forati: dorso 5 e 8 cm con finestra portaetichetta.",
+    "SEPARATORI": "I separatori MP in PP colorato dividono il raccoglitore per materia: tacche rinforzate e indice compilabile incluso.",
+    "PORTABLOCCO": "Il portablocco MP con molla ferma-fogli tiene gli appunti in ordine anche in piedi: superficie rigida per scrivere ovunque.",
+    "CARTELLINE": "Le cartelline a L trasparenti MP inseriscono e sfilano i fogli in un gesto: PP resistente, colori assortiti per classificare.",
+    "POUCHE": "Le pouches per plastificatrice MP proteggono i documenti dall'usura: 80-125 micron, finitura lucida, formati A4 e A3.",
+    "VALIGETTE": "Le valigette portadocumenti MP con maniglia e chiusura a scatto trasportano le pratiche A4 in sicurezza."
+  },
+  "related": {
+    "BUSTE": [
+      "CARTELLINE",
+      "PORTALISTINI",
+      "POUCHE",
+      "CARTELLE"
+    ],
+    "CARTELLE": [
+      "RACCOGLITORI",
+      "PORTALISTINI",
+      "SEPARATORI",
+      "BUSTE"
+    ],
+    "CARTELLINE": [
+      "BUSTE",
+      "PORTALISTINI",
+      "CARTELLE",
+      "POUCHE"
+    ],
+    "PORTABLOCCO": [
+      "CARTELLINE",
+      "BUSTE",
+      "VALIGETTE",
+      "CARTELLE"
+    ],
+    "PORTALISTINI": [
+      "RACCOGLITORI",
+      "CARTELLE",
+      "SEPARATORI",
+      "BUSTE"
+    ],
+    "POUCHE": [
+      "BUSTE",
+      "CARTELLINE",
+      "PORTALISTINI",
+      "CARTELLE"
+    ],
+    "RACCOGLITORI": [
+      "SEPARATORI",
+      "REGISTRATORI",
+      "PORTALISTINI",
+      "CARTELLE"
+    ],
+    "REGISTRATORI": [
+      "RACCOGLITORI",
+      "SEPARATORI",
+      "PORTALISTINI",
+      "CARTELLE"
+    ],
+    "SEPARATORI": [
+      "RACCOGLITORI",
+      "REGISTRATORI",
+      "PORTALISTINI",
+      "CARTELLE"
+    ],
+    "VALIGETTE": [
+      "PORTABLOCCO",
+      "CARTELLE",
+      "RACCOGLITORI",
+      "PORTALISTINI"
+    ]
+  },
+  "texts": {
+    "perche_mp": "PERCHÉ SCEGLIERE MP",
+    "diff_pillars": [
+      "Polipropilene, EVA e cartoncino plastificato di qualità su tutta la gamma",
+      "Formati A4/A3 standard, tinte assortite e trasparenti",
+      "Oltre 25 anni di esperienza"
+    ]
+  },
+  "xsell": {
+    "prod_acc": {},
+    "xrel": {
+      "BUSTE": [
+        {
+          "u": "X:PS201",
+          "c": "PS201",
+          "n": "MP BUSTA IMBOTTITA 110X160MM",
+          "ea": "8435250949120",
+          "sz": "110X160 mm",
+          "pk": "24",
+          "bx": "100",
+          "xi": "../../Catalogue材料/output_all/Carpeta 02_Sobremesa_2026_IT/../../../catalog_v2/assets/derived/PS201__solo.webp",
+          "sec": "Ufficio",
+          "ty": "coordinato"
+        }
+      ],
+      "POUCHE": [
+        {
+          "u": "X:PT201",
+          "c": "PT201",
+          "n": "MP PLASTIFICATRICE A3",
+          "ea": "8435721038780",
+          "sz": "—",
+          "pk": "—",
+          "bx": "10",
+          "xi": "../../Catalogue材料/output_all/Carpeta 02_Sobremesa_2026_IT/../../../catalog_v2/assets/derived/PT201__solo.webp",
+          "sec": "Ufficio",
+          "ty": "complemento"
+        }
+      ]
+    }
+  },
+  "deco": [
+    [
+      "links_small/links_ufficio.webp",
+      1800,
+      1392,
+      []
+    ]
+  ],
+  "brand": {
+    "color": "#5A3A93"
+  }
+}

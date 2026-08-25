@@ -1,0 +1,367 @@
+{
+  "section": "DIY",
+  "lang": "it",
+  "opener": {
+    "kicker": "CAPITOLO SETTIMO",
+    "chapter_big": "07",
+    "title_lines": [
+      "Manualità",
+      "& Creatività"
+    ],
+    "hero_img": "../../../catalog_v2/assets/hero/diy__A.webp",
+    "intro": "Oltre 400 referenze per il lavoro creativo e il fai-da-te: cartoncini colorati da 180-220 g/m², gomma EVA e feltro in fogli, carta velina, crespa e kraft, cellophane e cartone espanso. E poi occhi mobili, pompon, forme in polistirolo, bastoncini e tavolette in legno, sughero, fogli adesivi e magnetici, l'intera gamma di colle (stick, vinilica, a caldo, istantanea, siliconica, universale) e gli strumenti — forbici, lame, righelli, punzoni e pistola ad aria calda. Materiali atossici pensati per l'uso di bambini e ragazzi. Disponibili in blister, multipack ed espositori da banco.",
+    "featured": [
+      "PN460-50",
+      "PN541",
+      "PM001"
+    ]
+  },
+  "editorial": {
+    "title_main": "BUSINESS SCHOOL HOME",
+    "title_sub": "cancelleria di qualità, dal 1998",
+    "side_tag": "MP Qualità",
+    "lead": "Dal 1998 Main Paper progetta e distribuisce cancelleria di qualità per ufficio, scuola e casa. Azienda CEPYME500 — riconosciuta tra le 500 imprese leader per crescita, innovazione e proiezione internazionale — e premiata dalla Comunità di Madrid per l'innovazione e la qualità nei prodotti di cancelleria. Il capitolo manualità raccoglie tutto il necessario per creare: oltre 400 referenze in 40 sottocategorie.",
+    "stats": [
+      {
+        "n": "421",
+        "l": "REFERENZE"
+      },
+      {
+        "n": "40",
+        "l": "SOTTOCAT."
+      }
+    ],
+    "pillars": [
+      {
+        "h": "CREATIVITÀ",
+        "b": "Cartoncini, gomma EVA, feltro, carte decorative e mille accessori: una gamma completa per lavoretti, scuola e hobby creativo."
+      },
+      {
+        "h": "SICUREZZA",
+        "b": "Materiali atossici, colle lavabili senza solventi e bordi sicuri: pensati per l'uso di bambini e ragazzi."
+      },
+      {
+        "h": "COLORE",
+        "b": "Palette assortite, tinte pastello, fluo, glitter e metallizzate su carte, gomme e feltri per ogni progetto e stagione."
+      },
+      {
+        "h": "SOSTENIBILITÀ",
+        "b": "Carte responsabili, gomma EVA bio e legni naturali: materiali creativi a minore impatto ambientale."
+      }
+    ],
+    "scenes": [
+      {
+        "img": "links_small/links_astratto.webp",
+        "cap": "Carta velina & crespa"
+      },
+      {
+        "img": "clean_small/PN499A3.webp",
+        "cap": "Feltro & tessuti"
+      },
+      {
+        "img": "clean_small/PM142.webp",
+        "cap": "Adesivi & glitter"
+      }
+    ],
+    "certs": [],
+    "timeline": [
+      {
+        "y": "1998",
+        "l": "Fondazione MP"
+      },
+      {
+        "y": "2005",
+        "l": "GDO europea"
+      },
+      {
+        "y": "2012",
+        "l": "30+ paesi"
+      },
+      {
+        "y": "2018",
+        "l": "Linea eco"
+      },
+      {
+        "y": "2022",
+        "l": "Premio Madrid · CEPYME500"
+      }
+    ]
+  },
+  "promo_page": {
+    "title": "Promozioni & Pre-order",
+    "side_tag": "Novità 2026",
+    "intro": "Offerte e pre-ordini attivi del capitolo. I prodotti sono contrassegnati anche nelle pagine di catalogo."
+  },
+  "hero_rule": {
+    "max_fams": 8,
+    "require_desc": true
+  },
+  "big_family_min": 20,
+  "tips": {
+    "_generic": [
+      "Dal 1998 Main Paper distribuisce cancelleria e materiale creativo.",
+      "Il programma RFQ Main Paper garantisce quotazioni entro 24 ore e un ordine minimo di un solo collo.",
+      "Ogni referenza è disponibile in blister singolo, multipack ed espositore da banco per la vendita al dettaglio."
+    ],
+    "CARTONCINI COLORATI": "I cartoncini colorati MP da 180-220 g/m² reggono taglio, piega e incollaggio: tinte vivaci e pastello per ogni progetto.",
+    "GOMMA EVA": "La gomma EVA MP è morbida, atossica e lavabile: si taglia con le forbici e non sfilaccia, spessore 2 mm.",
+    "FELTRO": "Il feltro MP in fogli agugliati non sfilaccia ai bordi: colori assortiti brillanti per decorazioni e lavoretti.",
+    "CARTA VELINA": "La carta velina MP è sottile e resistente: ideale per fiori, pomponi e impacchettare, in colori che non stingono.",
+    "CARTA CRESPA": "La carta crespa MP si allunga e si modella: perfetta per fiori e ghirlande, tinte intense anche metallizzate.",
+    "OCCHI MOBILI": "Gli occhi mobili MP con pupilla che si muove danno vita a ogni lavoretto: retro adesivo o da incollare, da 6 a 20 mm.",
+    "COLLA STICK": "La colla stick MP lavabile incolla carta e cartoncino senza grinze: formula senza solventi, si asciuga trasparente.",
+    "COLLA VINILICA": "La colla vinilica MP bianca asciuga trasparente ed è atossica: adatta a carta, legno e tessuto, lavabile con acqua.",
+    "POLISTIROLO": "Le forme in polistirolo MP (sfere, uova, coni) sono leggere e compatte: base perfetta da decorare in ogni stagione.",
+    "BASTONCINI": "I bastoncini in legno naturale MP sono levigati e resistenti: per strutture, girandole e progetti di modellismo.",
+    "POMPOM": "I pompon MP in acrilico morbido sono coloratissimi: pronti da incollare per decorare biglietti, cornici e lavoretti.",
+    "SUGHERO": "Il sughero MP in fogli e rotoli è naturale e leggero: si taglia con facilità per bacheche, sottopentola e decorazioni.",
+    "CARTONE ESPANSO": "Il cartone espanso MP (foam board) è rigido e leggero: anima in schiuma tra due cartoncini, ideale per plastici e passe-partout."
+  },
+  "related": {
+    "ADESIVI": [
+      "FOGLI ADESIVI",
+      "GOMMA EVA - ADESIVI",
+      "OCCHI MOBILI",
+      "NASTRO MAGNETICO"
+    ],
+    "BASTONCINI": [
+      "LEGNO",
+      "POLISTIROLO",
+      "POMPOM",
+      "SUGHERO"
+    ],
+    "BLOCCHI": [
+      "SCRAPBOOKING",
+      "CARTONCINI COLORATI",
+      "CARTA VELINA"
+    ],
+    "CARTA CRESPA": [
+      "CARTA VELINA",
+      "CARTONCINI COLORATI",
+      "CELLOPHANE",
+      "CARTA KRAFT"
+    ],
+    "CARTA KRAFT": [
+      "CARTA VELINA",
+      "CARTA CRESPA",
+      "CARTONCINI COLORATI",
+      "CELLOPHANE"
+    ],
+    "CARTA VELINA": [
+      "CARTA CRESPA",
+      "CARTONCINI COLORATI",
+      "CELLOPHANE",
+      "CARTA KRAFT"
+    ],
+    "CARTONCINI COLORATI": [
+      "CARTA VELINA",
+      "CARTA CRESPA",
+      "GOMMA EVA",
+      "FELTRO"
+    ],
+    "CARTONCINI SPECIALI": [
+      "CARTONCINI COLORATI",
+      "SCRAPBOOKING",
+      "CARTA VELINA",
+      "FOGLI ADESIVI"
+    ],
+    "CARTONE ESPANSO": [
+      "POLISTIROLO",
+      "SUGHERO",
+      "LEGNO"
+    ],
+    "CELLOPHANE": [
+      "CARTA VELINA",
+      "CARTA CRESPA",
+      "CARTONCINI COLORATI",
+      "CARTA KRAFT"
+    ],
+    "COLLA A CALDO": [
+      "PISTOLA ARIA CALDA",
+      "COLLA SILICONICA",
+      "COLLA VINILICA",
+      "COLLA UNIVERSALE"
+    ],
+    "COLLA EXTRA FORTE": [
+      "COLLA ISTANTANEA",
+      "COLLA UNIVERSALE",
+      "COLLA SILICONICA",
+      "COLLA A CALDO"
+    ],
+    "COLLA ISTANTANEA": [
+      "COLLA UNIVERSALE",
+      "COLLA EXTRA FORTE",
+      "COLLA VINILICA",
+      "COLLA SILICONICA"
+    ],
+    "COLLA SILICONICA": [
+      "COLLA A CALDO",
+      "PISTOLA ARIA CALDA",
+      "COLLA UNIVERSALE",
+      "COLLA VINILICA"
+    ],
+    "COLLA STICK": [
+      "COLLA VINILICA",
+      "COLLA UNIVERSALE",
+      "CARTONCINI COLORATI",
+      "FOGLI ADESIVI"
+    ],
+    "COLLA UNIVERSALE": [
+      "COLLA VINILICA",
+      "COLLA STICK",
+      "COLLA ISTANTANEA",
+      "COLLA EXTRA FORTE"
+    ],
+    "COLLA VINILICA": [
+      "COLLA STICK",
+      "COLLA UNIVERSALE",
+      "COLLA A CALDO",
+      "CARTONCINI COLORATI"
+    ],
+    "FELTRO": [
+      "GOMMA EVA",
+      "POMPOM",
+      "OCCHI MOBILI",
+      "CARTONCINI COLORATI"
+    ],
+    "FOGLI ADESIVI": [
+      "GOMMA EVA - ADESIVI",
+      "ADESIVI",
+      "FOGLI MAGNETICI",
+      "CARTONCINI COLORATI"
+    ],
+    "FOGLI MAGNETICI": [
+      "NASTRO MAGNETICO",
+      "FOGLI ADESIVI",
+      "ADESIVI",
+      "GOMMA EVA - ADESIVI"
+    ],
+    "FORBICI": [
+      "RIGHELLI",
+      "PUNZONI",
+      "CARTONCINI COLORATI"
+    ],
+    "GOMMA EVA": [
+      "GOMMA EVA - ADESIVI",
+      "FELTRO",
+      "CARTONCINI COLORATI",
+      "OCCHI MOBILI"
+    ],
+    "GOMMA EVA - ADESIVI": [
+      "GOMMA EVA",
+      "FOGLI ADESIVI",
+      "OCCHI MOBILI",
+      "FELTRO"
+    ],
+    "LEGNO": [
+      "BASTONCINI",
+      "TAVOLETTE IN LEGNO",
+      "SUGHERO"
+    ],
+    "NASTRO MAGNETICO": [
+      "FOGLI MAGNETICI",
+      "ADESIVI",
+      "FOGLI ADESIVI",
+      "COLLA STICK"
+    ],
+    "OCCHI MOBILI": [
+      "POMPOM",
+      "GOMMA EVA",
+      "FELTRO",
+      "BASTONCINI"
+    ],
+    "PISTOLA ARIA CALDA": [
+      "COLLA A CALDO",
+      "COLLA SILICONICA",
+      "FORBICI"
+    ],
+    "POLISTIROLO": [
+      "BASTONCINI",
+      "CARTONE ESPANSO",
+      "POMPOM",
+      "LEGNO"
+    ],
+    "POMPOM": [
+      "OCCHI MOBILI",
+      "FELTRO",
+      "GOMMA EVA",
+      "BASTONCINI"
+    ],
+    "PORTADOCUMENTI": [
+      "CARTONCINI COLORATI",
+      "SCRAPBOOKING",
+      "BLOCCHI",
+      "FOGLI ADESIVI"
+    ],
+    "PUNZONI": [
+      "FORBICI",
+      "RIGHELLI",
+      "CARTONCINI COLORATI"
+    ],
+    "RIGHELLI": [
+      "FORBICI",
+      "PUNZONI",
+      "CARTONCINI COLORATI"
+    ],
+    "SCRAPBOOKING": [
+      "BLOCCHI",
+      "CARTONCINI COLORATI",
+      "FOGLI ADESIVI",
+      "CARTA KRAFT"
+    ],
+    "SUGHERO": [
+      "LEGNO",
+      "TAVOLETTE IN LEGNO",
+      "BASTONCINI"
+    ],
+    "TAVOLETTE IN LEGNO": [
+      "LEGNO",
+      "SUGHERO"
+    ]
+  },
+  "texts": {
+    "perche_mp": "PERCHÉ SCEGLIERE MP",
+    "diff_pillars": [
+      "Materiali atossici e colori assortiti su tutta la gamma creativa",
+      "Materiali sicuri per bambini e ragazzi",
+      "Oltre 25 anni di esperienza"
+    ]
+  },
+  "xsell": {
+    "prod_acc": {
+      "COLLA A CALDO": [
+        "PP041"
+      ],
+      "PISTOLA ARIA CALDA": [
+        "PP041"
+      ]
+    },
+    "xrel": {
+      "FORBICI": [
+        {
+          "u": "X:PT143-3",
+          "c": "PT143-3",
+          "n": "MP FORBICI ANTIADERENTI 17CM",
+          "ea": "8435464168867",
+          "sz": "17 cm",
+          "pk": "12",
+          "bx": "144",
+          "xi": "../../Catalogue材料/output_all/Carpeta 02_Sobremesa_2026_IT/../../../catalog_v2/assets/derived/PT143-3__solo.webp",
+          "sec": "Ufficio",
+          "ty": "coordinato"
+        }
+      ]
+    }
+  },
+  "deco": [
+    [
+      "links_small/links_astratto.webp",
+      1800,
+      1800,
+      []
+    ]
+  ],
+  "brand": {
+    "color": "#6F5A0C"
+  }
+}

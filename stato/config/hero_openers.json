@@ -1,0 +1,162 @@
+{
+ "_nota": "livello OPZIONALE degli hero di apertura capitolo. File assente o vuoto => il libro non cambia di un byte. Isaac 2026-08-15: questi candidati sono a 135 dpi su A4, quindi valgono per DIGITALE e SITO; per la STAMPA si aspettano i master a 300 dpi (stessi nomi file, cartella assets/hero). La variante e A (zona titolo a sinistra) perche il nostro pannello capitolo sta in basso a sinistra.",
+ "_stampa_min_dpi": 300,
+ "capitoli": {
+  "archiviazione": {
+   "file": "../../../catalog_v2/assets/hero/archiviazione__A.webp",
+   "variante": "A",
+   "formato": "fullHero",
+   "colore": "#75459B",
+   "titolo": "Archiviazione",
+   "px": [
+    1120,
+    1400
+   ],
+   "dpi_a4": 120,
+   "stampa_ok": false
+  },
+  "artix": {
+   "file": "../../../catalog_v2/assets/hero/artix__A.webp",
+   "variante": "A",
+   "formato": "fullHero",
+   "colore": "#A6202C",
+   "titolo": "Artix",
+   "px": [
+    1120,
+    1400
+   ],
+   "dpi_a4": 120,
+   "stampa_ok": false
+  },
+  "be_basic": {
+   "file": "../../../catalog_v2/assets/hero/be-basic__A.webp",
+   "variante": "A",
+   "formato": "fullHero",
+   "colore": "#3568AD",
+   "titolo": "Be Basic",
+   "px": [
+    1120,
+    1400
+   ],
+   "dpi_a4": 120,
+   "stampa_ok": false
+  },
+  "cervantes": {
+   "file": "../../../catalog_v2/assets/hero/cervantes__A.webp",
+   "variante": "A",
+   "formato": "fullHero",
+   "colore": "#3B458A",
+   "titolo": "Cervantes",
+   "px": [
+    1120,
+    1400
+   ],
+   "dpi_a4": 120,
+   "stampa_ok": false
+  },
+  "creatività_kids": {
+   "file": "../../../catalog_v2/assets/hero/creativita-kids__A.webp",
+   "variante": "A",
+   "formato": "fullHero",
+   "colore": "#D63B79",
+   "titolo": "Creatività Kids",
+   "px": [
+    1120,
+    1400
+   ],
+   "dpi_a4": 120,
+   "stampa_ok": false
+  },
+  "diy": {
+   "file": "../../../catalog_v2/assets/hero/diy__A.webp",
+   "variante": "A",
+   "formato": "fullHero",
+   "colore": "#248C9A",
+   "titolo": "DIY",
+   "px": [
+    1120,
+    1400
+   ],
+   "dpi_a4": 120,
+   "stampa_ok": false
+  },
+  "quaderni": {
+   "file": "../../../catalog_v2/assets/hero/quaderni__A.webp",
+   "variante": "A",
+   "formato": "compactBanner",
+   "colore": "#C73543",
+   "titolo": "Quaderni",
+   "px": [
+    1600,
+    700
+   ],
+   "dpi_a4": 60,
+   "stampa_ok": false
+  },
+  "sanrio": {
+   "file": "../../../catalog_v2/assets/hero/sanrio__A.webp",
+   "variante": "A",
+   "formato": "compactBanner",
+   "colore": "#E69AB3",
+   "titolo": "Sanrio",
+   "px": [
+    1600,
+    700
+   ],
+   "dpi_a4": 60,
+   "stampa_ok": false
+  },
+  "scrittura": {
+   "file": "../../../catalog_v2/assets/hero/scrittura__A.webp",
+   "variante": "A",
+   "formato": "fullHero",
+   "colore": "#1F5AA6",
+   "titolo": "Scrittura & Correzione",
+   "px": [
+    1120,
+    1400
+   ],
+   "dpi_a4": 120,
+   "stampa_ok": false
+  },
+  "scuola": {
+   "file": "../../../catalog_v2/assets/hero/scuola__A.webp",
+   "variante": "A",
+   "formato": "fullHero",
+   "colore": "#258FBE",
+   "titolo": "Scuola",
+   "px": [
+    1120,
+    1400
+   ],
+   "dpi_a4": 120,
+   "stampa_ok": false
+  },
+  "ufficio": {
+   "file": "../../../catalog_v2/assets/hero/ufficio__A.webp",
+   "variante": "A",
+   "formato": "fullHero",
+   "colore": "#0D6B73",
+   "titolo": "Ufficio",
+   "px": [
+    1120,
+    1400
+   ],
+   "dpi_a4": 120,
+   "stampa_ok": false
+  },
+  "zaini_e_astucci": {
+   "file": "../../../catalog_v2/assets/hero/zaini-e-astucci__A.webp",
+   "variante": "A",
+   "formato": "fullHero",
+   "colore": "#234A78",
+   "titolo": "Zaini e Astucci",
+   "px": [
+    1120,
+    1400
+   ],
+   "dpi_a4": 120,
+   "stampa_ok": false
+  }
+ }
+}

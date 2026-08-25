@@ -1,0 +1,602 @@
+{
+  "section": "UFFICIO",
+  "lang": "it",
+  "opener": {
+    "kicker": "CAPITOLO SECONDO",
+    "chapter_big": "02",
+    "title_lines": [
+      "Ufficio",
+      "& Scrivania"
+    ],
+    "hero_img": "../../../catalog_v2/assets/hero/ufficio__A.webp",
+    "intro": "Quasi 700 referenze per la scrivania e l'ufficio: pinzatrici e levapunti, perforatori a uno e più fori, calcolatrici da tavolo e tascabili, nastri adesivi e dispenser, colle e biadesivi, forbici e taglierini. E ancora organizer, portapenne e portariviste in rete metallica, vaschette portacorrispondenza, lavagne bianche e bacheche in sughero, planner e magneti, badge e portanomi, timbri e inchiostri, cestini gettacarte, clip, fermagli, molle e mollette, puntine e spilli. Materiali robusti — acciaio, rete metallica verniciata, ABS — pensati per l'uso quotidiano e professionale. Disponibili in blister, multipack ed espositori da banco.",
+    "featured": [
+      "PA636",
+      "PE031-1",
+      "PN126-04"
+    ]
+  },
+  "editorial": {
+    "title_main": "BUSINESS SCHOOL HOME",
+    "title_sub": "cancelleria di qualità, dal 1998",
+    "side_tag": "MP Qualità",
+    "lead": "Dal 1998 Main Paper progetta e distribuisce cancelleria di qualità per ufficio, scuola e casa. Azienda CEPYME500 — riconosciuta tra le 500 imprese leader per crescita, innovazione e proiezione internazionale — e premiata dalla Comunità di Madrid per l'innovazione e la qualità nei prodotti di cancelleria. Il capitolo ufficio raccoglie tutto ciò che serve alla scrivania: oltre 690 referenze in 71 sottocategorie.",
+    "stats": [
+      {
+        "n": "696",
+        "l": "REFERENZE"
+      },
+      {
+        "n": "71",
+        "l": "SOTTOCAT."
+      }
+    ],
+    "pillars": [
+      {
+        "h": "QUALITÀ",
+        "b": "Acciaio temprato, rete metallica verniciata a polvere e ABS ad alto spessore: pinzatrici, perforatori e forbici testati per cicli di lavoro intensivi."
+      },
+      {
+        "h": "ERGONOMIA",
+        "b": "Impugnature soft-touch, leve a basso sforzo e basi antiscivolo riducono l'affaticamento nelle operazioni ripetitive d'ufficio."
+      },
+      {
+        "h": "ORGANIZZAZIONE",
+        "b": "Una gamma completa di organizer, vaschette, portariviste e portapenne coordinati per ordinare scrivania e piano di lavoro."
+      },
+      {
+        "h": "SOSTENIBILITÀ",
+        "b": "Metalli riciclabili, plastiche riciclate e imballaggi ridotti. Carta e cartoncini responsabili."
+      }
+    ],
+    "scenes": [
+      {
+        "img": "links_small/links_nastro.webp",
+        "cap": "Organizzazione scrivania"
+      },
+      {
+        "img": "clean_small/PA146.webp",
+        "cap": "Lavagne & planning"
+      },
+      {
+        "img": "clean_small/PA506-01.webp",
+        "cap": "Nastri & fissaggio"
+      }
+    ],
+    "certs": [],
+    "timeline": [
+      {
+        "y": "1998",
+        "l": "Fondazione MP"
+      },
+      {
+        "y": "2005",
+        "l": "GDO europea"
+      },
+      {
+        "y": "2012",
+        "l": "30+ paesi"
+      },
+      {
+        "y": "2018",
+        "l": "Linea eco"
+      },
+      {
+        "y": "2022",
+        "l": "Premio Madrid · CEPYME500"
+      }
+    ]
+  },
+  "promo_page": {
+    "title": "Promozioni & Pre-order",
+    "side_tag": "Novità 2026",
+    "intro": "Offerte e pre-ordini attivi del capitolo. I prodotti sono contrassegnati anche nelle pagine di catalogo."
+  },
+  "hero_rule": {
+    "max_fams": 8,
+    "require_desc": true
+  },
+  "big_family_min": 20,
+  "tips": {
+    "_generic": [
+      "Dal 1998 Main Paper distribuisce cancelleria e prodotti per l'ufficio.",
+      "Il programma RFQ Main Paper garantisce quotazioni entro 24 ore e un ordine minimo di un solo collo.",
+      "Ogni referenza è disponibile in blister singolo, multipack ed espositore da banco per la vendita al dettaglio."
+    ],
+    "PINZATRICI": "Una pinzatrice da tavolo MP cuce fino a 25 fogli con punti 24/6 e 26/6: meccanismo in acciaio per milioni di cicli.",
+    "PERFORATORI": "Il perforatore a due fori MP fora fino a 20 fogli in una volta, con guida millimetrata e serbatoio salva-coriandoli.",
+    "CALCOLATRICI": "Le calcolatrici da tavolo MP uniscono alimentazione solare e a batteria: display a 10-12 cifre sempre leggibile.",
+    "NASTRI ADESIVI": "Il nastro invisibile MP diventa opaco solo dove serve: ci si scrive sopra a penna e non ingiallisce nel tempo.",
+    "ORGANIZER": "Gli organizer in rete metallica MP raccolgono penne, clip e note in un solo blocco: acciaio verniciato antiruggine.",
+    "PORTAPENNE": "Il portapenne in rete metallica MP resiste a urti e cadute: base antiscivolo per non rigare la scrivania.",
+    "LAVAGNE": "Le lavagne bianche MP hanno superficie magnetica laccata: si cancellano a secco anche dopo giorni.",
+    "BADGE": "I portabadge MP con cordoncino sono in PVC rigido antigraffio, con finestra trasparente per tessere 54x86 mm.",
+    "CLIP": "Le clip fermacarte in acciaio MP tengono fino a 100 fogli e si riutilizzano all'infinito senza segnare la carta.",
+    "ELASTICI": "Gli elastici MP in gomma naturale mantengono l'elasticità nel tempo: confezioni a peso, senza sprechi.",
+    "FORBICI": "Le forbici da ufficio MP hanno lame in acciaio inox e impugnatura soft-touch: taglio netto anche su più fogli.",
+    "TIMBRI E INCHIOSTRI": "L'inchiostro per timbri MP asciuga in pochi secondi e non cola: tamponi ricaricabili per migliaia di impronte.",
+    "CESTINI": "I cestini gettacarte in rete metallica MP sono robusti e areati: struttura in acciaio verniciato antiruggine.",
+    "MAGNETI": "I magneti MP tengono più fogli su lavagne e superfici metalliche: nucleo in ferrite ad alta presa.",
+    "PUNTINE": "Le puntine MP con punta in acciaio temprato penetrano senza piegarsi su sughero e legno tenero.",
+    "PLANNER": "I planner magnetici MP si applicano su frigo e lavagne: si scrivono e cancellano a secco, settimana dopo settimana."
+  },
+  "related": {
+    "APPENDICARTELLO": [
+      "BACHECA SUGHERO",
+      "LAVAGNE",
+      "MAGNETI",
+      "CORNICI"
+    ],
+    "BACHECA SUGHERO": [
+      "SPILLI"
+    ],
+    "BADGE": [
+      "PORTANOMI E PORTADEPLIANT",
+      "PORTACHIAVI"
+    ],
+    "BASE DA TAGLIO": [
+      "TAGLIERINI",
+      "TAPPETINI",
+      "FORBICI",
+      "TAGLIACARTE"
+    ],
+    "BUSTE": [
+      "CUSTODIE",
+      "ETICHETTE",
+      "CARTONCINI PER SCHEDARIO",
+      "FOGLI IN ACETATO TRASPARENTE"
+    ],
+    "CALCOLATRICI": [
+      "ORGANIZER",
+      "PORTAPENNE",
+      "PINZATRICI",
+      "PERFORATORI"
+    ],
+    "CAMPANELLI": [
+      "FERMACARTE",
+      "PORTACHIAVI",
+      "BADGE",
+      "TIMBRI E INCHIOSTRI"
+    ],
+    "CANCELLINI": [
+      "LAVAGNE",
+      "GESSETTI",
+      "MAGNETI"
+    ],
+    "CARTA CARBONE": [
+      "CARTA DA STAMPANTE",
+      "SCONTRINI ED ETICHETTE",
+      "ETICHETTE",
+      "CARTONCINI PER SCHEDARIO"
+    ],
+    "CARTA DA STAMPANTE": [
+      "CARTA FOTOGRAFICA",
+      "ETICHETTE",
+      "CARTONCINI PER SCHEDARIO",
+      "CARTA CARBONE"
+    ],
+    "CARTA FOTOGRAFICA": [
+      "CARTA DA STAMPANTE",
+      "CARTONCINI PER SCHEDARIO",
+      "ETICHETTE",
+      "PLASTIFICATRICE"
+    ],
+    "CARTONCINI PER SCHEDARIO": [
+      "BUSTE",
+      "CUSTODIE",
+      "ETICHETTE",
+      "CARTA DA STAMPANTE"
+    ],
+    "CESTINI": [
+      "PULIZIA",
+      "DISTRUGGIDOCUMENTI",
+      "ORGANIZER",
+      "PORTA OMBRELLI"
+    ],
+    "CLIP": [
+      "FERMAGLI",
+      "MOLLE",
+      "FERMACAMPIONI",
+      "FERMACARTE"
+    ],
+    "COLLE": [
+      "NASTRI ADESIVI",
+      "GOMMINI ADESIVI",
+      "FORBICI",
+      "PORTA NASTRI ADESIVI"
+    ],
+    "CORNICI": [
+      "PORTANOMI E PORTADEPLIANT",
+      "LEGGII",
+      "BACHECA SUGHERO",
+      "PORTADOCUMENTI"
+    ],
+    "CUSTODIE": [
+      "BUSTE",
+      "FOGLI IN ACETATO TRASPARENTE",
+      "CARTONCINI PER SCHEDARIO",
+      "PLASTIFICATRICE"
+    ],
+    "DISTRUGGIDOCUMENTI": [
+      "CESTINI",
+      "PULIZIA",
+      "ORGANIZER",
+      "PLASTIFICATRICE"
+    ],
+    "ELASTICI": [
+      "CLIP",
+      "FERMAGLI",
+      "MOLLETTE",
+      "GOMMINI ADESIVI"
+    ],
+    "ETICHETTE": [
+      "SCONTRINI ED ETICHETTE",
+      "CARTA DA STAMPANTE",
+      "CARTONCINI PER SCHEDARIO",
+      "BUSTE"
+    ],
+    "FERMACAMPIONI": [
+      "CLIP",
+      "FERMAGLI",
+      "MOLLE",
+      "SPILLI"
+    ],
+    "FERMACARTE": [
+      "CAMPANELLI",
+      "CLIP",
+      "FERMAGLI",
+      "MOLLE"
+    ],
+    "FERMAGLI": [
+      "CLIP",
+      "MOLLE",
+      "FERMACAMPIONI",
+      "ELASTICI"
+    ],
+    "FOGLI IN ACETATO TRASPARENTE": [
+      "CUSTODIE",
+      "BUSTE",
+      "CARTONCINI PER SCHEDARIO",
+      "PLASTIFICATRICE"
+    ],
+    "FORBICI": [
+      "TAGLIERINI",
+      "TAGLIACARTE",
+      "BASE DA TAGLIO",
+      "COLLE"
+    ],
+    "GESSETTI": [
+      "LAVAGNE",
+      "CANCELLINI",
+      "BACHECA SUGHERO"
+    ],
+    "GOMMINI ADESIVI": [
+      "NASTRI ADESIVI",
+      "COLLE",
+      "PUNTI METALLICI",
+      "MAGNETI"
+    ],
+    "LAVAGNE": [
+      "CANCELLINI",
+      "MAGNETI",
+      "PLANNER"
+    ],
+    "LEGGII": [
+      "PORTANOMI E PORTADEPLIANT",
+      "CORNICI",
+      "PORTADOCUMENTI",
+      "ORGANIZER"
+    ],
+    "LENTI": [
+      "LEGGII",
+      "PULIZIA",
+      "TAGLIACARTE",
+      "ORGANIZER"
+    ],
+    "LEVAPUNTI": [
+      "PINZATRICI",
+      "SPARAMOLLE",
+      "PERFORATORI",
+      "CLIP"
+    ],
+    "MAGNETI": [
+      "LAVAGNE",
+      "BACHECA SUGHERO",
+      "PLANNER",
+      "PUNTI METALLICI"
+    ],
+    "MOLLE": [
+      "MOLLETTE",
+      "CLIP",
+      "FERMAGLI",
+      "SPARAMOLLE"
+    ],
+    "MOLLETTE": [
+      "MOLLE",
+      "CLIP",
+      "FERMAGLI",
+      "ELASTICI"
+    ],
+    "NASTRI ADESIVI": [
+      "PORTA NASTRI ADESIVI",
+      "COLLE",
+      "GOMMINI ADESIVI",
+      "NASTRI TERMOADESIVI"
+    ],
+    "NASTRI TERMOADESIVI": [
+      "NASTRI ADESIVI",
+      "PLASTIFICATRICE",
+      "COLLE",
+      "FORBICI"
+    ],
+    "NOTE": [
+      "NOTE ADESIVE",
+      "SEGNAPAGINE",
+      "PLANNER",
+      "CARTA DA STAMPANTE"
+    ],
+    "NOTE ADESIVE": [
+      "NOTE",
+      "SEGNAPAGINE",
+      "PLANNER",
+      "PUNTI METALLICI"
+    ],
+    "ORGANIZER": [
+      "PORTAPENNE",
+      "PORTACORRISPONDENZA",
+      "PORTARIVISTE",
+      "CESTINI"
+    ],
+    "PERFORATORI": [
+      "RILEGATORI",
+      "PERFORATRICI",
+      "PINZATRICI",
+      "LEVAPUNTI"
+    ],
+    "PERFORATRICI": [
+      "PERFORATORI",
+      "RILEGATORI",
+      "PLASTIFICATRICE",
+      "PINZATRICI"
+    ],
+    "PINZATRICI": [
+      "LEVAPUNTI",
+      "PERFORATORI",
+      "CLIP",
+      "FERMAGLI"
+    ],
+    "PLANNER": [
+      "LAVAGNE",
+      "MAGNETI",
+      "NOTE ADESIVE",
+      "BACHECA SUGHERO"
+    ],
+    "PLASTIFICATRICE": [
+      "RILEGATORI",
+      "PERFORATRICI",
+      "CUSTODIE",
+      "NASTRI TERMOADESIVI"
+    ],
+    "PORTA NASTRI ADESIVI": [
+      "NASTRI ADESIVI",
+      "COLLE",
+      "FORBICI",
+      "GOMMINI ADESIVI"
+    ],
+    "PORTA OMBRELLI": [
+      "CESTINI",
+      "PORTARIVISTE",
+      "ORGANIZER",
+      "PULIZIA"
+    ],
+    "PORTACARTE": [
+      "PORTADOCUMENTI",
+      "PORTACORRISPONDENZA",
+      "CUSTODIE",
+      "BADGE"
+    ],
+    "PORTACHIAVI": [
+      "BADGE",
+      "CAMPANELLI"
+    ],
+    "PORTACORRISPONDENZA": [
+      "PORTARIVISTE",
+      "ORGANIZER",
+      "PORTADOCUMENTI"
+    ],
+    "PORTADOCUMENTI": [
+      "PORTACARTE",
+      "PORTACORRISPONDENZA",
+      "CUSTODIE"
+    ],
+    "PORTANOMI E PORTADEPLIANT": [
+      "BADGE",
+      "LEGGII",
+      "CORNICI",
+      "PORTADOCUMENTI"
+    ],
+    "PORTAPENNE": [
+      "ORGANIZER",
+      "PORTACORRISPONDENZA",
+      "PORTARIVISTE",
+      "CESTINI"
+    ],
+    "PORTARIVISTE": [
+      "PORTACORRISPONDENZA",
+      "ORGANIZER",
+      "REGGILIBRI"
+    ],
+    "PULIZIA": [
+      "CESTINI",
+      "LAVAGNE",
+      "LENTI",
+      "PORTA OMBRELLI"
+    ],
+    "PUNTI METALLICI": [
+      "BACHECA SUGHERO",
+      "SPILLI",
+      "MAGNETI",
+      "FERMACAMPIONI"
+    ],
+    "REGGILIBRI": [
+      "PORTARIVISTE",
+      "ORGANIZER",
+      "PORTADOCUMENTI"
+    ],
+    "RILEGATORI": [
+      "PERFORATORI",
+      "PERFORATRICI",
+      "PLASTIFICATRICE",
+      "CUSTODIE"
+    ],
+    "SCONTRINI ED ETICHETTE": [
+      "ETICHETTE",
+      "CARTA DA STAMPANTE",
+      "TIMBRI E INCHIOSTRI",
+      "BUSTE"
+    ],
+    "SEGNAPAGINE": [
+      "NOTE ADESIVE",
+      "NOTE",
+      "PLANNER",
+      "ETICHETTE"
+    ],
+    "SPARAMOLLE": [
+      "MOLLE",
+      "MOLLETTE",
+      "PINZATRICI",
+      "CLIP"
+    ],
+    "SPILLI": [
+      "PUNTI METALLICI",
+      "FERMACAMPIONI",
+      "MOLLETTE",
+      "CLIP"
+    ],
+    "TAGLIACARTE": [
+      "TAGLIERINI",
+      "FORBICI",
+      "BASE DA TAGLIO",
+      "LENTI"
+    ],
+    "TAGLIERINI": [
+      "BASE DA TAGLIO",
+      "TAPPETINI",
+      "FORBICI",
+      "TAGLIACARTE"
+    ],
+    "TAPPETINI": [
+      "BASE DA TAGLIO",
+      "TAGLIERINI",
+      "ORGANIZER",
+      "PULIZIA"
+    ],
+    "TIMBRI E INCHIOSTRI": [
+      "TIMBRI TESSILI",
+      "SCONTRINI ED ETICHETTE",
+      "ETICHETTE",
+      "PULIZIA"
+    ],
+    "TIMBRI TESSILI": [
+      "TIMBRI E INCHIOSTRI",
+      "ETICHETTE",
+      "SCONTRINI ED ETICHETTE",
+      "PULIZIA"
+    ]
+  },
+  "texts": {
+    "perche_mp": "PERCHÉ SCEGLIERE MP",
+    "diff_pillars": [
+      "Acciaio, rete metallica e ABS di qualità su tutta la gamma",
+      "Ergonomia e durata per l'uso professionale quotidiano",
+      "Oltre 25 anni di esperienza"
+    ]
+  },
+  "xsell": {
+    "prod_acc": {
+      "BACHECA SUGHERO": [
+        "PA346-1"
+      ],
+      "PINZATRICI": [
+        "PA140"
+      ],
+      "SPARAMOLLE": [
+        "PA110"
+      ]
+    },
+    "xrel": {
+      "CALCOLATRICI": [
+        {
+          "u": "X:PE025",
+          "c": "PE025",
+          "n": "MP CALCOLATRICE SCIENTIFICA 12CIFRE 155*85MM COL.",
+          "ea": "8435464159803",
+          "sz": "—",
+          "pk": "6",
+          "bx": "60",
+          "xi": "../../Catalogue材料/output_all/Carpeta 05_Escolar_2026_IT/../../../catalog_v2/assets/derived/PE025__solo.webp",
+          "sec": "Scuola",
+          "ty": "coordinato"
+        }
+      ],
+      "CAMPANELLI": [
+        {
+          "u": "X:PC912",
+          "c": "PC912",
+          "n": "MP PORTABLOCCO IN LEGNO CON CLIP METALLICA A4",
+          "ea": "8435250983490",
+          "sz": "A4",
+          "pk": "6",
+          "bx": "72",
+          "xi": "../../Catalogue材料/output_all/Carpeta 03_Archivo_2026_IT/../../../catalog_v2/assets/derived/PC912__solo.webp",
+          "sec": "Archiviazione",
+          "ty": "coordinato"
+        }
+      ],
+      "FERMACARTE": [
+        {
+          "u": "X:PC912",
+          "c": "PC912",
+          "n": "MP PORTABLOCCO IN LEGNO CON CLIP METALLICA A4",
+          "ea": "8435250983490",
+          "sz": "A4",
+          "pk": "6",
+          "bx": "72",
+          "xi": "../../Catalogue材料/output_all/Carpeta 03_Archivo_2026_IT/../../../catalog_v2/assets/derived/PC912__solo.webp",
+          "sec": "Archiviazione",
+          "ty": "coordinato"
+        }
+      ],
+      "PLASTIFICATRICE": [
+        {
+          "u": "X:PN199A3-100",
+          "c": "PN199A3-100",
+          "n": "MP POUCHE PER PLASTIFICATRICE A3 125MICR 100PZ",
+          "ea": "8435250921669",
+          "sz": "A3",
+          "pk": "24",
+          "bx": "6",
+          "xi": "../../Catalogue材料/output_all/Carpeta 03_Archivo_2026_IT/../../../catalog_v2/assets/derived/PN199A3-100__solo.webp",
+          "sec": "Archiviazione",
+          "ty": "ricambio"
+        }
+      ]
+    }
+  },
+  "card_size": {},
+  "deco": [
+    [
+      "links_small/links_nastro.webp",
+      1772,
+      1772,
+      [
+        "NASTRI ADESIVI",
+        "PORTA NASTRI ADESIVI",
+        "NASTRI TERMOADESIVI"
+      ]
+    ]
+  ],
+  "brand": {
+    "color": "#9C4413"
+  }
+}

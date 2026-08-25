@@ -1,0 +1,649 @@
+{
+ "_nota": "Livello OPZIONALE — quale PEZZO va nella miniatura variante.\nIsaac 2026-08-16: «只放重要的，MO248放闭合就可以了».\nRegola: la miniatura variante porta UN SOLO pezzo, la vista principale di quella\nreferenza. Interni/aperti, viste secondarie, quote e foto di gamma (tutti i colori\ninsieme) restano fuori: la foto grande della famiglia mostra gia' la composizione\nintera, la miniatura serve solo a riconoscere la variante.\nIl giudizio e' a vista, una domanda chiusa per famiglia, archiviata qui.\nFile assente o `famiglie` vuoto => il libro non cambia di un byte.",
+ "famiglie": {
+  "ACQUE": {
+   "principale": 3,
+   "perche": "set acquerelli: la matita e il pezzo piu leggibile"
+  },
+  "ARTIX BLOCCO DISEGNO ACQUERELLI SPIRALATO": {
+   "principale": 2,
+   "perche": "copertina, non il blocco aperto"
+  },
+  "ARTIX BLOCCO DISEGNO COP. PP NERO LISC": {
+   "principale": 1,
+   "perche": "copertina, non il blocco aperto"
+  },
+  "ARTIX PENNELLI PROF 3PZ ASSORT": {
+   "principale": 2,
+   "perche": "set 3 pennelli: uno basta a identificare la variante"
+  },
+  "ARTIX PENNELLI PROF PIATTI/TONDI 3PZ ASSORT": {
+   "principale": 2,
+   "perche": "set 3 pennelli"
+  },
+  "ARTIX PENNELLI PROF STENCIL 3PZ ASSORT": {
+   "principale": 2,
+   "perche": "set 3 pennelli"
+  },
+  "ARTIX SET PENNELLI PROF 19.5CM 3PZ ASSORT AZZURRO": {
+   "principale": 2,
+   "perche": "set 3 pennelli"
+  },
+  "ARTIX SET PENNELLI PROF PIATTI/TONDI 3PZ": {
+   "principale": 2,
+   "perche": "set 3 pennelli"
+  },
+  "ARTIX TAVOLOZZA IN LEGNO OVALE": {
+   "principale": 2,
+   "perche": "tavolozza in prospettiva, senza la quota 20cm"
+  },
+  "BEBASIC CORRETTORE A NASTRO 5MMX12M 3PZ": {
+   "principale": 4,
+   "perche": "stessa correttore in 3 colori"
+  },
+  "BEBASIC PORTAMINE+RICARICA MINE HB 0.7 M": {
+   "principale": 2,
+   "perche": "il portamine, non il tubetto di mine"
+  },
+  "CLIP": {
+   "principale": 3,
+   "perche": "clip in piedi, non la posa chiusa"
+  },
+  "MAXIQUADERNO COLORE TOTALE": {
+   "principale": 1,
+   "perche": "un quaderno, non il ventaglio di tutti i colori"
+  },
+  "MO248": {
+   "principale": 2,
+   "perche": "astuccio CHIUSO (Isaac), non gli interni"
+  },
+  "MP BLOCCO A7 70FF/60G": {
+   "principale": 1,
+   "perche": "un blocco, non i quattro colori insieme"
+  },
+  "MP BUSTA MULTIUSO IN TESSUTO C/CERNIERA COL. AS": {
+   "principale": 1,
+   "perche": "una busta, non la gamma colori"
+  },
+  "MP BUSTA TRASLUCIDA CHIUSURA BOTTONE+PORTATESSE": {
+   "principale": 1,
+   "perche": "una busta, non la gamma colori"
+  },
+  "MP BUSTA TRASP. BICOLOR CHIUSURA BOTTONE COL. A": {
+   "principale": 1,
+   "perche": "una busta, non la gamma colori"
+  },
+  "MP BUSTA TRASPARENTE CHIUSURA BOTTONE COL. ASS.": {
+   "principale": 2,
+   "perche": "una busta, non la gamma colori"
+  },
+  "MP BUSTA TRASPARENTE CHIUSURA RAPIDA COL. ASS.": {
+   "principale": 2,
+   "perche": "una busta, non la gamma colori"
+  },
+  "MP COLLA ISTANT EXTRA FORTE": {
+   "principale": 4,
+   "perche": "il flacone, non il cappuccio staccato"
+  },
+  "MP COLLA LIQUIDA ISTANTANEA": {
+   "principale": 4,
+   "perche": "il tubetto, non il cappuccio staccato"
+  },
+  "MP COMPASSO BALAUSTRONE + ACC + MINE RICARICA": {
+   "principale": 3,
+   "perche": "il compasso, non gli accessori"
+  },
+  "MP CORRETTORE A NASTRO MM X M": {
+   "principale": 4,
+   "perche": "stesso correttore in 3 colori"
+  },
+  "MP CORRETTORE A NASTRO X": {
+   "principale": 3,
+   "perche": "stesso correttore in 2 colori"
+  },
+  "MP CORRETTORE A NASTRO X 3PZ COL. ASS.": {
+   "principale": 2,
+   "perche": "stesso correttore in 3 colori"
+  },
+  "MP LAVAGNA COMBO MAGNETICA/ARDESIA": {
+   "principale": 2,
+   "perche": "lavagna, faccia bianca"
+  },
+  "MP MINI CORRETTORE A NASTRO X": {
+   "principale": 4,
+   "perche": "stesso mini correttore in 3 colori"
+  },
+  "MP MINI CORRETTORE A PENNA 4PZ": {
+   "principale": 3,
+   "perche": "la penna correttrice, non il bicchiere"
+  },
+  "MP MINI PINZATRICE 24/6 26/6 COL. ASS. + RICARICA": {
+   "principale": 3,
+   "perche": "pinzatrice, vista piu grande"
+  },
+  "MP NOTE ADESIVE TRASPARENTI": {
+   "principale": 2,
+   "perche": "il blocchetto, non il foglio staccato"
+  },
+  "MP NUMERI ADESIVI IN EVA COL. ASS.": {
+   "principale": 4,
+   "perche": "il gruppo numeri, non il singolo"
+  },
+  "MP PENNARELLI CLASSICI PUNTA FINE CONF. COLORI": {
+   "principale": 3,
+   "perche": "la fila di pennarelli, non il cappuccio"
+  },
+  "MP PENNARELLI JUMBO CONF. COLORI": {
+   "principale": 5,
+   "perche": "il pennarello intero, non il cappuccio"
+  },
+  "MP PERFORATORE A FORI FF": {
+   "principale": 2,
+   "perche": "il perforatore, vista frontale"
+  },
+  "MP PERFORATORE REGOLABILE FORI NERO": {
+   "principale": 1,
+   "perche": "il perforatore, vista frontale"
+  },
+  "MP PLASTILINA COL.ASS.": {
+   "principale": 2,
+   "perche": "un panetto, non tutta la gamma"
+  },
+  "MP PLASTILINA FLUO. COL.ASS.": {
+   "principale": 2,
+   "perche": "i panetti fluo"
+  },
+  "MP PORTAMINE 2.0MM CON AFFILAMINE + RICARICHE HB": {
+   "principale": 4,
+   "perche": "il portamine, non la quota 15cm"
+  },
+  "MP SET DISEGNO GEOMETRICO 4PZ TRASPARENTE": {
+   "principale": 3,
+   "perche": "la squadra, pezzo piu caratteristico del set"
+  },
+  "MP SET PENNELLI PER SCUOLA": {
+   "principale": 2,
+   "perche": "un pennello del set"
+  },
+  "MP SET SCRITTURA 2*MATITE HB+GOMMA+TEMPERINO": {
+   "principale": 5,
+   "perche": "il temperino del set, non la quota 18cm"
+  },
+  "MP TEMPERAMATITE DOPPIO FORO CON SERBATOIO CO": {
+   "principale": 2,
+   "perche": "temperamatite, un colore"
+  },
+  "MP TEMPERAMATITE DOPPIO FORO CON SERBATOIO+ COPERC": {
+   "principale": 3,
+   "perche": "temperamatite chiuso, non quello aperto con la quota"
+  },
+  "MP TEMPERAMATITE ELETTRICO DA BANCO COL. ASS.": {
+   "principale": 1,
+   "perche": "vista frontale"
+  },
+  "PA005-08": {
+   "principale": 2,
+   "perche": "righello lungo"
+  },
+  "PA1101": {
+   "principale": 3,
+   "perche": "forbici, un colore"
+  },
+  "PA118": {
+   "principale": 2,
+   "perche": "il compasso, non il raccordo"
+  },
+  "PA119": {
+   "principale": 2,
+   "perche": "il compasso, non gli accessori"
+  },
+  "PA123": {
+   "principale": 2,
+   "perche": "il tubetto mine"
+  },
+  "PA138": {
+   "principale": 3,
+   "perche": "la penna correttrice, non il bicchiere"
+  },
+  "PA159": {
+   "principale": 3,
+   "perche": "il righello del set"
+  },
+  "PA168": {
+   "principale": 1,
+   "perche": "cancellino, un colore"
+  },
+  "PA181": {
+   "principale": 4,
+   "perche": "i gessetti insieme"
+  },
+  "PA214": {
+   "principale": 1,
+   "perche": "cassetta CHIUSA"
+  },
+  "PA221": {
+   "principale": 2,
+   "perche": "porta tessera con la tessera"
+  },
+  "PA341": {
+   "principale": 3,
+   "perche": "gruppo puntine"
+  },
+  "PA344": {
+   "principale": 2,
+   "perche": "portachiavi, un colore"
+  },
+  "PA346": {
+   "principale": 3,
+   "perche": "puntina, un colore"
+  },
+  "PA347": {
+   "principale": 5,
+   "perche": "gruppo spilli"
+  },
+  "PA348": {
+   "principale": 2,
+   "perche": "magnete, faccia a vista"
+  },
+  "PA355": {
+   "principale": 2,
+   "perche": "gli anelli"
+  },
+  "PA358": {
+   "principale": 3,
+   "perche": "spilla chiusa"
+  },
+  "PA426": {
+   "principale": 2,
+   "perche": "correttore, un colore"
+  },
+  "PA442": {
+   "principale": 2,
+   "perche": "i magneti impilati"
+  },
+  "PA455-1": {
+   "principale": 6,
+   "perche": "correttore, un colore"
+  },
+  "PA528": {
+   "principale": 2,
+   "perche": "dispenser singolo, non i tre colori"
+  },
+  "PC005": {
+   "principale": 1,
+   "perche": "una busta, non la gamma"
+  },
+  "PC102IT": {
+   "principale": 1,
+   "perche": "una cartellina, non il gruppo"
+  },
+  "PC103IT-01": {
+   "principale": 1,
+   "perche": "scatola CHIUSA, non lo sviluppo piatto"
+  },
+  "PC105IT-01": {
+   "principale": 1,
+   "perche": "scatola CHIUSA, non lo sviluppo piatto"
+  },
+  "PC107IT-01": {
+   "principale": 3,
+   "perche": "la scatola, non la lettera A dell artwork"
+  },
+  "PC109IT": {
+   "principale": 1,
+   "perche": "un raccoglitore, non i gruppi colore"
+  },
+  "PC111IT-01": {
+   "principale": 2,
+   "perche": "scatola CHIUSA"
+  },
+  "PC125": {
+   "principale": 2,
+   "perche": "portablocco, un colore"
+  },
+  "PC126": {
+   "principale": 2,
+   "perche": "portablocco, un colore"
+  },
+  "PC150IT-01": {
+   "principale": 2,
+   "perche": "registratore di dorso, non aperto"
+  },
+  "PC180IT-01": {
+   "principale": 2,
+   "perche": "registratore di dorso, non aperto"
+  },
+  "PC305": {
+   "principale": 1,
+   "perche": "cartella CHIUSA"
+  },
+  "PC311": {
+   "principale": 2,
+   "perche": "portalistini CHIUSO"
+  },
+  "PC331": {
+   "principale": 1,
+   "perche": "cartella CHIUSA"
+  },
+  "PC335": {
+   "principale": 2,
+   "perche": "cartella CHIUSA"
+  },
+  "PC345": {
+   "principale": 1,
+   "perche": "valigetta CHIUSA"
+  },
+  "PC476": {
+   "principale": 2,
+   "perche": "portablocco CHIUSO"
+  },
+  "PC811": {
+   "principale": 1,
+   "perche": "la confezione a scaffale"
+  },
+  "PE025": {
+   "principale": 3,
+   "perche": "la calcolatrice, senza la quota"
+  },
+  "PE034-1": {
+   "principale": 3,
+   "perche": "calcolatrice aperta, senza la quota"
+  },
+  "PE105": {
+   "principale": 3,
+   "perche": "la penna intera, non il cappuccio"
+  },
+  "PE128-01": {
+   "principale": 4,
+   "perche": "il marcatore intero, non cappuccio ne quota"
+  },
+  "PE180": {
+   "principale": 3,
+   "perche": "il marcatore intero, non il cappuccio"
+  },
+  "PE206A-S": {
+   "principale": 5,
+   "perche": "la penna intera, non il cappuccio"
+  },
+  "PE215A": {
+   "principale": 3,
+   "perche": "la penna, non le ricariche"
+  },
+  "PE216N": {
+   "principale": 2,
+   "perche": "la penna intera"
+  },
+  "PE240-01": {
+   "principale": 3,
+   "perche": "la penna intera, non il cappuccio"
+  },
+  "PE243-01": {
+   "principale": 3,
+   "perche": "la penna intera, non il cappuccio"
+  },
+  "PE259-50A": {
+   "principale": 3,
+   "perche": "la penna intera, non il cappuccio"
+  },
+  "PE346-01": {
+   "principale": 2,
+   "perche": "la penna intera"
+  },
+  "PE358-01": {
+   "principale": 4,
+   "perche": "la ricarica, non la quota 16cm"
+  },
+  "PE411": {
+   "principale": 4,
+   "perche": "la penna intera, non il cappuccio"
+  },
+  "PE419": {
+   "principale": 3,
+   "perche": "la penna intera, non il cappuccio"
+  },
+  "PE460-1": {
+   "principale": 2,
+   "perche": "il marcatore intero, non il cappuccio"
+  },
+  "PE461": {
+   "principale": 2,
+   "perche": "il marcatore intero, non il cappuccio"
+  },
+  "PE534VL-S": {
+   "principale": 4,
+   "perche": "l evidenziatore intero"
+  },
+  "PE539-03": {
+   "principale": 3,
+   "perche": "il marcatore intero, non il cappuccio"
+  },
+  "PE541R-S": {
+   "principale": 3,
+   "perche": "il marcatore intero, non i cappucci"
+  },
+  "PE546S": {
+   "principale": 5,
+   "perche": "il marcatore intero, non le guaine"
+  },
+  "PE549-03": {
+   "principale": 3,
+   "perche": "il marcatore intero, non il cappuccio"
+  },
+  "PG168": {
+   "principale": 3,
+   "perche": "una gomma, non la fila di tutte"
+  },
+  "PG189-02": {
+   "principale": 2,
+   "perche": "temperino, un colore"
+  },
+  "PG236-02": {
+   "principale": 2,
+   "perche": "temperino singolo, non la coppia"
+  },
+  "PL019-3": {
+   "principale": 2,
+   "perche": "un righello"
+  },
+  "PL020-1": {
+   "principale": 5,
+   "perche": "il righello del set"
+  },
+  "PM001": {
+   "principale": 2,
+   "perche": "un occhio mobile"
+  },
+  "PN350-03": {
+   "principale": 2,
+   "perche": "il blocchetto, non la pila di colori"
+  },
+  "PO016": {
+   "principale": 1,
+   "perche": "vista principale"
+  },
+  "PP006-01": {
+   "principale": 3,
+   "perche": "la colla stick intera, non il cappuccio"
+  },
+  "PP157-36": {
+   "principale": 3,
+   "perche": "il gessetto con la sua etichetta, non la scatola"
+  },
+  "PP204-12": {
+   "principale": 3,
+   "perche": "il marcatore intero, non il cappuccio"
+  },
+  "PP206-6": {
+   "principale": 3,
+   "perche": "il marcatore intero, non il cappuccio"
+  },
+  "PP207-6": {
+   "principale": 3,
+   "perche": "il marcatore intero, non il cappuccio"
+  },
+  "PP251-C": {
+   "principale": 3,
+   "perche": "il pennello intero, non il cappuccio"
+  },
+  "PP255-05": {
+   "principale": 1,
+   "perche": "un pennello del set"
+  },
+  "PP256-06": {
+   "principale": 1,
+   "perche": "un pennello del set"
+  },
+  "PP288-09": {
+   "principale": 1,
+   "perche": "il set di pennelli a ventaglio"
+  },
+  "PP290-06": {
+   "principale": 6,
+   "perche": "un pennello del set"
+  },
+  "PP291-05": {
+   "principale": 4,
+   "perche": "un pennello del set"
+  },
+  "PP296-11": {
+   "principale": 6,
+   "perche": "un pennello del set"
+  },
+  "PP297-11": {
+   "principale": 6,
+   "perche": "un pennello del set"
+  },
+  "PP340-07": {
+   "principale": 6,
+   "perche": "un pennello del set"
+  },
+  "PP341-03": {
+   "principale": 3,
+   "perche": "un pennello del set"
+  },
+  "PP342-05": {
+   "principale": 4,
+   "perche": "un pennello del set"
+  },
+  "PP343-05": {
+   "principale": 5,
+   "perche": "un pennello del set"
+  },
+  "PP345-13": {
+   "principale": 6,
+   "perche": "un pennello del set"
+  },
+  "PP347-14": {
+   "principale": 4,
+   "perche": "un pennello del set"
+  },
+  "PP386": {
+   "principale": 4,
+   "perche": "un pennello del set"
+  },
+  "PP388": {
+   "principale": 2,
+   "perche": "un pennello del set"
+  },
+  "PP390": {
+   "principale": 2,
+   "perche": "un pennello del set"
+  },
+  "PP391": {
+   "principale": 2,
+   "perche": "un pennello del set"
+  },
+  "PP393": {
+   "principale": 2,
+   "perche": "un pennello del set"
+  },
+  "PP394": {
+   "principale": 2,
+   "perche": "un pennello del set"
+  },
+  "PP395": {
+   "principale": 2,
+   "perche": "un pennello del set"
+  },
+  "PP396": {
+   "principale": 2,
+   "perche": "un pennello del set"
+  },
+  "PP397": {
+   "principale": 2,
+   "perche": "un pennello del set"
+  },
+  "PP398": {
+   "principale": 2,
+   "perche": "un pennello del set"
+  },
+  "PP494/98": {
+   "principale": 2,
+   "perche": "il cavalletto intero"
+  },
+  "PP610": {
+   "principale": 3,
+   "perche": "un barattolo, non tutta la gamma"
+  },
+  "PP615": {
+   "principale": 2,
+   "perche": "un barattolo, non tutta la gamma"
+  },
+  "PP631": {
+   "principale": 1,
+   "perche": "la confezione, non il tappo"
+  },
+  "PP634": {
+   "principale": 1,
+   "perche": "il tubetto, non il tappo"
+  },
+  "PP639": {
+   "principale": 1,
+   "perche": "la confezione, non l etichetta"
+  },
+  "PP915": {
+   "principale": 7,
+   "perche": "il marcatore intero"
+  },
+  "PP917": {
+   "principale": 3,
+   "perche": "il marcatore intero, non il cappuccio"
+  },
+  "PP922": {
+   "principale": 3,
+   "perche": "il marcatore intero, non il cappuccio"
+  },
+  "PP927": {
+   "principale": 13,
+   "perche": "il marcatore intero"
+  },
+  "PP94": {
+   "principale": 2,
+   "perche": "il cavalletto con la tela"
+  },
+  "PP942": {
+   "principale": 5,
+   "perche": "un pastello, non la coppia"
+  },
+  "PP950": {
+   "principale": 4,
+   "perche": "vista principale"
+  },
+  "PP97": {
+   "principale": 1,
+   "perche": "la tela confezionata"
+  },
+  "PY053-58": {
+   "principale": 1,
+   "perche": "la confezione dello stampino, non le lettere sciolte"
+  },
+  "S013": {
+   "principale": 2,
+   "perche": "il cancellino, prodotto principale"
+  },
+  "S055": {
+   "principale": 3,
+   "perche": "il marcatore intero, non il cappuccio"
+  }
+ }
+}

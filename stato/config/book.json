@@ -1,0 +1,150 @@
+{
+  "base": "../../Catalogue材料/output_all/Carpeta 00_Iniciales_IT_26",
+  "book_index": true,
+  "cover": {
+    "wordmark": "MAIN ★ PAPER",
+    "year": "2026",
+    "strip": [
+      {
+        "img": "links_small/links_strip_mp.webp",
+        "logo": "mp.svg",
+        "plate": "#EF2C3D",
+        "lh": 7.4
+      },
+      {
+        "img": "links_small/links_strip_artix.webp",
+        "logo": "artix.svg",
+        "plate": "#b9292f",
+        "lh": 8.2
+      },
+      {
+        "img": "links_small/links_strip_sampack.webp",
+        "logo": "sampack.svg",
+        "plate": "#8a8f94",
+        "lh": 4.8
+      },
+      {
+        "img": "links_small/links_strip_cerv.webp",
+        "logo": "cervantes.svg",
+        "plate": "#1e4fa3",
+        "lh": 8.6
+      }
+    ],
+    "caption": "Catalogo Generale",
+    "caption_sub": "IT",
+    "tag": "BUSINESS · SCHOOL · HOME"
+  },
+  "company": {
+    "kicker": "CHI SIAMO",
+    "title": "MP · MAIN PAPER",
+    "intro": "Main Paper è il marchio MP per la cartoleria e la fornitura d'ufficio nei canali business, school e home. Questo Catalogo Generale 2026 raccoglie l'assortimento completo — dalla scrittura all'archiviazione, dalla scuola alle belle arti — organizzato in capitoli per area d'uso, con formati, confezioni e codici EAN pronti per l'ordine.",
+    "photos": [
+      {
+        "img": "links_small/links_magazzino.webp",
+        "cap": "Logistica · il magazzino"
+      },
+      {
+        "img": "links_small/links_negozio.webp",
+        "cap": "Nel punto vendita"
+      },
+      {
+        "img": "links_small/links_fabbrica.webp",
+        "cap": "Produzione"
+      },
+      {
+        "img": "links_small/links_sede.webp",
+        "cap": "La sede"
+      }
+    ],
+    "award_img": "links_small/links_cepyme.webp",
+    "award_cap": "CEPYME500 · Líderes en crecimiento empresarial",
+    "contacts_title": "CONTATTI",
+    "contacts": [
+      [
+        "MP ITALIA SRL",
+        "Via Alcide De Gasperi 46 · 20862 Arcore (MB)"
+      ],
+      [
+        "P.IVA",
+        "10589040962"
+      ],
+      [
+        "Telefono",
+        "+39 349 815 8331"
+      ],
+      [
+        "Email",
+        "ita.info@mainpaper.com"
+      ]
+    ],
+    "note": "Ordine minimo € 200 · Edizione 2026 · Catalogo Generale"
+  },
+  "notes_title": "NOTE",
+  "back": {
+    "tag": "BUSINESS · SCHOOL · HOME",
+    "line1": "Catalogo Generale 2026",
+    "contacts": [
+      "MP ITALIA SRL",
+      "Via Alcide De Gasperi 46 · 20862 Arcore (MB)",
+      "P.IVA 10589040962",
+      "+39 349 815 8331 · ita.info@mainpaper.com"
+    ],
+    "edition": "Edizione 2026 · Ordine minimo € 200"
+  },
+  "shared_texts": {
+    "a_seguire": "a seguire",
+    "contacts": [
+      [
+        "MP ITALIA SRL",
+        "Via Alcide De Gasperi 46 · 20862 Arcore (MB)"
+      ],
+      [
+        "P.IVA",
+        "10589040962"
+      ],
+      [
+        "Telefono",
+        "+39 349 815 8331"
+      ],
+      [
+        "Email",
+        "ita.info@mainpaper.com"
+      ]
+    ],
+    "contacts_title": "CONTATTI",
+    "edition": "Edizione 2026 · Catalogo Generale",
+    "footer_brand": "MAIN PAPER 2026",
+    "in_evidenza": "IN EVIDENZA",
+    "in_questo_capitolo": "IN QUESTO CAPITOLO",
+    "index_runhead": "Catalogo Generale 2026",
+    "indice": "INDICE REFERENZE",
+    "legend": [
+      [
+        "REF",
+        "Codice articolo MP"
+      ],
+      [
+        "SIZE",
+        "Formato / misura variante"
+      ],
+      [
+        "PACK",
+        "Pezzi per confezione interna"
+      ],
+      [
+        "BOX",
+        "Pezzi per cartone export"
+      ],
+      [
+        "EAN",
+        "Codice a barre EAN-13"
+      ]
+    ],
+    "legend_title": "LEGENDA",
+    "order_cue": "MP ITALIA SRL · +39 349 815 8331 · ita.info@mainpaper.com · Ordine minimo € 200",
+    "referenze_disponibili": "REFERENZE DISPONIBILI",
+    "referenze_disponibili_note": "Referenze a listino in attesa di fotografia — ordinabili da subito.",
+    "sapevi_che": "SAPEVI CHE",
+    "vedi_anche": "VEDI ANCHE"
+  }
+}

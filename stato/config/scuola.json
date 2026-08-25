@@ -1,0 +1,250 @@
+{
+  "section": "SCUOLA",
+  "lang": "it",
+  "opener": {
+    "kicker": "CAPITOLO QUINTO",
+    "chapter_big": "05",
+    "title_lines": [
+      "Scuola",
+      "& Geometria"
+    ],
+    "hero_img": "../../../catalog_v2/assets/hero/scuola__A.webp",
+    "intro": "Il corredo geometrico e didattico per la scuola: righelli in polistirene infrangibile da 15 a 50 cm, squadre a 45° e 60°, goniometri a 180° e 360°, compassi balaustrone con astuccio e mine di ricambio, calcolatrici scientifiche fino a 240 funzioni. E ancora punteruoli con cappuccio di sicurezza, flauti dolci in ABS atossico, kit elettrici per i primi circuiti e buste con bottone per compiti e verifiche. Materiali trasparenti antiriflesso e plastiche resistenti, pensate per l'uso scolastico. Disponibili in blister, set assortiti ed espositori da banco.",
+    "featured": [
+      "PE025",
+      "PA118-1",
+      "PA136"
+    ]
+  },
+  "editorial": {
+    "title_main": "BUSINESS SCHOOL HOME",
+    "title_sub": "cancelleria di qualità, dal 1998",
+    "side_tag": "MP Qualità",
+    "lead": "Dal 1998 Main Paper progetta e distribuisce cancelleria di qualità per ufficio, scuola e casa. Azienda CEPYME500 — riconosciuta tra le 500 imprese leader per crescita, innovazione e proiezione internazionale — e premiata dalla Comunità di Madrid per l'innovazione e la qualità nei prodotti di cancelleria. Il capitolo scuola raccoglie il corredo geometrico e didattico: 67 referenze in 9 sottocategorie.",
+    "stats": [
+      {
+        "n": "67",
+        "l": "REFERENZE"
+      },
+      {
+        "n": "9",
+        "l": "SOTTOCAT."
+      }
+    ],
+    "pillars": [
+      {
+        "h": "PRECISIONE",
+        "b": "Righelli, squadre e goniometri con gradazione fresata o serigrafata indelebile: misure accurate per il disegno tecnico."
+      },
+      {
+        "h": "SICUREZZA",
+        "b": "Materiali atossici, bordi arrotondati e cappucci di sicurezza per punteruoli e compassi: pensati per l'uso in classe."
+      },
+      {
+        "h": "DIDATTICA",
+        "b": "Kit elettrici, flauti dolci e calcolatrici scientifiche accompagnano il programma di scuola primaria, media e superiore."
+      },
+      {
+        "h": "ASSORTIMENTO",
+        "b": "Set geometrici completi, righelli colorati e formati da 15 a 50 cm: copertura totale del corredo richiesto dalle scuole."
+      }
+    ],
+    "scenes": [
+      {
+        "img": "links_small/links_musica.webp",
+        "cap": "Squadre & disegno tecnico"
+      },
+      {
+        "img": "clean_small/PL041.webp",
+        "cap": "Goniometri & angoli"
+      },
+      {
+        "img": "clean_small/PA990.webp",
+        "cap": "Kit didattici STEM"
+      }
+    ],
+    "certs": [],
+    "timeline": [
+      {
+        "y": "1998",
+        "l": "Fondazione MP"
+      },
+      {
+        "y": "2005",
+        "l": "GDO europea"
+      },
+      {
+        "y": "2012",
+        "l": "30+ paesi"
+      },
+      {
+        "y": "2018",
+        "l": "Linea eco"
+      },
+      {
+        "y": "2022",
+        "l": "Premio Madrid · CEPYME500"
+      }
+    ]
+  },
+  "promo_page": {
+    "title": "Promozioni & Pre-order",
+    "side_tag": "Novità 2026",
+    "intro": "Offerte e pre-ordini attivi del capitolo. I prodotti sono contrassegnati anche nelle pagine di catalogo."
+  },
+  "hero_rule": {
+    "max_fams": 8,
+    "require_desc": true
+  },
+  "big_family_min": 20,
+  "tips": {
+    "_generic": [
+      "Dal 1998 Main Paper distribuisce cancelleria e materiale scolastico.",
+      "Il programma RFQ Main Paper garantisce quotazioni entro 24 ore e un ordine minimo di un solo collo.",
+      "Ogni referenza è disponibile in blister singolo, multipack ed espositore da banco per la vendita al dettaglio."
+    ],
+    "RIGHELLI": "I righelli MP in polistirene infrangibile hanno scala serigrafata che non si cancella: bordo netto per tratti precisi.",
+    "COMPASSI": "Il compasso balaustrone MP con rotella di precisione mantiene l'apertura: astuccio con mine di ricambio e adattatore.",
+    "SQUADRE": "Le squadre MP a 45° e 60° in materiale trasparente antiriflesso: gradazione fresata per il disegno tecnico.",
+    "GONIOMETRI": "Il goniometro MP a 180° e 360° in plastica trasparente misura gli angoli con precisione, con foro di centraggio.",
+    "CALCOLATRICI": "Le calcolatrici scientifiche MP con oltre 240 funzioni coprono il programma di scuola media e superiore: display a 2 righe.",
+    "KIT ELETTRICI": "I kit elettrici didattici MP introducono i circuiti in classe: motorino, portalampada, cavi e interruttore in un blister.",
+    "FLAUTI": "Il flauto dolce MP in ABS atossico ha diteggiatura tedesca e barocca: custodia e bacchetta di pulizia incluse.",
+    "PUNTERUOLI": "Il punteruolo MP con punta in acciaio e cappuccio di sicurezza fora cartoncino e traforo: impugnatura ergonomica.",
+    "BUSTE": "Le buste con bottone MP in PP colorato proteggono compiti e verifiche A4: chiusura a pressione riutilizzabile."
+  },
+  "related": {
+    "BUSTE": [
+      "RIGHELLI",
+      "CALCOLATRICI",
+      "FLAUTI",
+      "KIT ELETTRICI"
+    ],
+    "CALCOLATRICI": [
+      "KIT ELETTRICI",
+      "RIGHELLI",
+      "COMPASSI",
+      "BUSTE"
+    ],
+    "COMPASSI": [
+      "RIGHELLI",
+      "SQUADRE",
+      "GONIOMETRI",
+      "PUNTERUOLI"
+    ],
+    "FLAUTI": [
+      "BUSTE",
+      "KIT ELETTRICI",
+      "CALCOLATRICI",
+      "RIGHELLI"
+    ],
+    "GONIOMETRI": [
+      "RIGHELLI",
+      "SQUADRE",
+      "COMPASSI",
+      "PUNTERUOLI"
+    ],
+    "KIT ELETTRICI": [
+      "CALCOLATRICI",
+      "PUNTERUOLI",
+      "COMPASSI",
+      "RIGHELLI"
+    ],
+    "PUNTERUOLI": [
+      "COMPASSI",
+      "KIT ELETTRICI",
+      "RIGHELLI",
+      "SQUADRE"
+    ],
+    "RIGHELLI": [
+      "SQUADRE",
+      "GONIOMETRI",
+      "COMPASSI",
+      "PUNTERUOLI"
+    ],
+    "SQUADRE": [
+      "RIGHELLI",
+      "GONIOMETRI",
+      "COMPASSI",
+      "PUNTERUOLI"
+    ]
+  },
+  "texts": {
+    "perche_mp": "PERCHÉ SCEGLIERE MP",
+    "diff_pillars": [
+      "Materiali trasparenti antiriflesso e plastiche infrangibili",
+      "Materiali sicuri per l'uso scolastico su tutta la gamma",
+      "Oltre 25 anni di esperienza"
+    ]
+  },
+  "xsell": {
+    "prod_acc": {
+      "COMPASSI": [
+        "PA123B"
+      ]
+    },
+    "xrel": {
+      "BUSTE": [
+        {
+          "u": "X:PC539-01",
+          "c": "PC539-01",
+          "n": "MP BUSTA A6 CHIUSURA BOTTONE NERO",
+          "ea": "8435464163534",
+          "sz": "—",
+          "pk": "12",
+          "bx": "288",
+          "xi": "../../Catalogue材料/output_all/Carpeta 03_Archivo_2026_IT/../../../catalog_v2/assets/derived/PC539-01__solo.webp",
+          "sec": "Archiviazione",
+          "ty": "coordinato"
+        }
+      ],
+      "CALCOLATRICI": [
+        {
+          "u": "X:PE026",
+          "c": "PE026",
+          "n": "MP CALCOLATRICE DA TAVOLO 10 CIFRE RIC. SOLARE 12*",
+          "ea": "8435464167341",
+          "sz": "NERO",
+          "pk": "6",
+          "bx": "168",
+          "xi": "../../Catalogue材料/output_all/Carpeta 02_Sobremesa_2026_IT/../../../catalog_v2/assets/derived/PE026__solo.webp",
+          "sec": "Ufficio",
+          "ty": "coordinato"
+        }
+      ]
+    }
+  },
+  "deco": [
+    [
+      "links_small/links_musica.webp",
+      1800,
+      1351,
+      [
+        "FLAUTI"
+      ]
+    ],
+    [
+      "links_small/links_cartelline.webp",
+      1800,
+      1351,
+      []
+    ],
+    [
+      "links_small/links_colla.webp",
+      1800,
+      1200,
+      []
+    ],
+    [
+      "links_small/links_righelli.webp",
+      1352,
+      1800,
+      [
+        "RIGHELLI"
+      ]
+    ]
+  ],
+  "brand": {
+    "color": "#1C7A34"
+  }
+}
