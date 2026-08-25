@@ -1,0 +1,5 @@
+# 禁用所有行尾转换:书的 HTML 必须和 dist/catalog_completo_v2.html 逐字节一致
+* -text
+*.png binary
+*.jpg binary
+*.webp binary
