@@ -33,3 +33,5 @@
 {"t":"mod","anc":{},"campo":"order","pre":"15 schede riordinate","post":"(ordine di listino)","dove":"SCRITTURA&CORREZIONE::CORRETTORI A NASTRO · ordine schede","etichetta":"ordine schede","id":"m0033","chi":"isaac","q":"2026-08-26 22:38:02"}
 {"t":"mod","anc":{"uid":"PA465-02"},"campo":"pick","pre":"(ritaglio automatico)","post":"7","etichetta":"pezzi miniatura","id":"m0034","chi":"isaac","q":"2026-08-26 22:38:42"}
 {"t":"mod","anc":{"uid":"PA466-02"},"campo":"pick","pre":"(ritaglio automatico)","post":"4","etichetta":"pezzi miniatura","id":"m0035","chi":"isaac","q":"2026-08-26 22:38:42"}
+{"t":"mod","anc":{"uid":"PA465-02"},"campo":"pick","pre":"7","post":"6","etichetta":"pezzi miniatura","id":"m0036","chi":"isaac","q":"2026-08-26 22:39:49"}
+{"t":"mod","anc":{"uid":"PA466-02"},"campo":"pick","pre":"4","post":"(ritaglio automatico)","etichetta":"pezzi miniatura","id":"m0037","chi":"isaac","q":"2026-08-26 22:39:49"}
