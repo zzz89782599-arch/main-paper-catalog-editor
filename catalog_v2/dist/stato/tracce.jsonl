@@ -13,3 +13,6 @@
 {"t":"mod","anc":{},"campo":"order","pre":"(ordine di listino)","post":"15 schede riordinate","dove":"SCRITTURA&CORREZIONE::CORRETTORI A NASTRO · ordine schede","etichetta":"ordine schede","id":"m0013","chi":"isaac","q":"2026-08-26 16:16:19"}
 {"t":"mod","anc":{"fam":"MP CORRETTORE A NASTRO X"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0014","chi":"isaac","q":"2026-08-26 17:42:14"}
 {"t":"mod","anc":{"uid":"PA415"},"campo":"pick","pre":"(ritaglio automatico)","post":"1","etichetta":"pezzi miniatura","id":"m0015","chi":"isaac","q":"2026-08-26 17:42:14"}
+{"t":"mod","anc":{"uid":"PA415"},"campo":"pick","pre":"1","post":"3","etichetta":"pezzi miniatura","id":"m0016","chi":"isaac","q":"2026-08-26 17:42:53"}
+{"t":"mod","anc":{"uid":"PA137M"},"campo":"pick","pre":"(ritaglio automatico)","post":"5","etichetta":"pezzi miniatura","id":"m0017","chi":"isaac","q":"2026-08-26 17:42:53"}
+{"t":"mod","anc":{"uid":"PA137-3"},"campo":"pick","pre":"(ritaglio automatico)","post":"1","etichetta":"pezzi miniatura","id":"m0018","chi":"isaac","q":"2026-08-26 17:42:53"}
