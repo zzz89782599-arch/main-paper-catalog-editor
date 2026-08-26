@@ -5,3 +5,5 @@
 {"t":"nota","anc":{"uid":"PA541"},"testo":"放大一点？","id":"n0001","chi":"isaac","q":"2026-08-26 14:49:56"}
 {"t":"mod","anc":{"uid":"PG139-3"},"campo":"pick","pre":"(ritaglio automatico)","post":"1","etichetta":"pezzi miniatura","id":"m0005","chi":"isaac","q":"2026-08-26 14:55:53"}
 {"t":"mod","anc":{},"campo":"order","pre":"15 schede riordinate","post":"(ordine di listino)","dove":"SCRITTURA&CORREZIONE::CORRETTORI A NASTRO · ordine schede","etichetta":"ordine schede","id":"m0006","chi":"isaac","q":"2026-08-26 14:55:53"}
+{"t":"mod","anc":{"fam":"MP CORRETTORE A NASTRO X"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0007","chi":"isaac","q":"2026-08-26 14:56:36"}
+{"t":"mod","anc":{"uid":"PG139-3"},"campo":"pick","pre":"1","post":"(ritaglio automatico)","etichetta":"pezzi miniatura","id":"m0008","chi":"isaac","q":"2026-08-26 14:56:36"}
