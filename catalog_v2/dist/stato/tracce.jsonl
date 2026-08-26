@@ -6,3 +6,8 @@
 {"t":"mod","anc":{},"campo":"order","pre":"15 schede riordinate","post":"(ordine di listino)","dove":"SCRITTURA&CORREZIONE::CORRETTORI A NASTRO · ordine schede","etichetta":"ordine schede","id":"m0006","chi":"isaac","q":"2026-08-26 14:55:53"}
 {"t":"mod","anc":{"fam":"MP CORRETTORE A NASTRO X"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0007","chi":"isaac","q":"2026-08-26 14:56:36"}
 {"t":"mod","anc":{"uid":"PG139-3"},"campo":"pick","pre":"1","post":"(ritaglio automatico)","etichetta":"pezzi miniatura","id":"m0008","chi":"isaac","q":"2026-08-26 14:56:36"}
+{"t":"mod","anc":{"fam":"MP CESTINO METALLICO NERO"},"campo":"separa","pre":"PA919C PA920C","post":"PA920C","etichetta":"separa","id":"m0009","chi":"isaac","q":"2026-08-26 16:16:19"}
+{"t":"mod","anc":{"fam":"PE105"},"campo":"format","pre":"rich","post":"band","etichetta":"formato","id":"m0010","chi":"isaac","q":"2026-08-26 16:16:19"}
+{"t":"mod","anc":{"fam":"PE144"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0011","chi":"isaac","q":"2026-08-26 16:16:19"}
+{"t":"mod","anc":{"fam":"PE216N"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0012","chi":"isaac","q":"2026-08-26 16:16:19"}
+{"t":"mod","anc":{},"campo":"order","pre":"(ordine di listino)","post":"15 schede riordinate","dove":"SCRITTURA&CORREZIONE::CORRETTORI A NASTRO · ordine schede","etichetta":"ordine schede","id":"m0013","chi":"isaac","q":"2026-08-26 16:16:19"}
