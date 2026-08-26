@@ -25,3 +25,4 @@
 {"t":"mod","anc":{"fam":"MP CORRETTORE A NASTRO X"},"campo":"format","pre":"rich","post":"band","etichetta":"formato","id":"m0025","chi":"isaac","q":"2026-08-26 22:30:29"}
 {"t":"mod","anc":{"fam":"PA552"},"campo":"famiglia|colori","pre":"rosa | verde | blu | giallo","post":"rosa | arancione/giallo | verde | blu | giallo","etichetta":"famiglia · colori","id":"m0026","chi":"isaac","q":"2026-08-26 22:30:29"}
 {"t":"mod","anc":{"uid":"PA552"},"campo":"foto","pre":"1","post":"(ritaglio automatico)","etichetta":"pezzi foto grande","id":"m0027","chi":"isaac","q":"2026-08-26 22:30:29"}
+{"t":"mod","anc":{"fam":"MP CORRETTORE A NASTRO X"},"campo":"format","pre":"band","post":"(automatico)","etichetta":"formato","id":"m0028","chi":"isaac","q":"2026-08-26 22:31:34"}
