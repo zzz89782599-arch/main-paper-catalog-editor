@@ -282,7 +282,6 @@
   "PP632": "rich",
   "PE025": "band",
   "MP CESTINO METALLICO NERO": "rich",
-  "PA919C": "rich",
   "PA920C": "band",
   "PE546S": "band",
   "PE342-1": "rich",
@@ -302,7 +301,7 @@
   "PE537": "rich",
   "PE535": "rich",
   "PP673": "band",
-  "MP CORRETTORE A NASTRO MM X M": "rich",
+  "MP CORRETTORE A NASTRO MM X M": "pair",
   "PE144": "band",
   "PE216N": "band",
   "MP CORRETTORE A NASTRO X": "band"
