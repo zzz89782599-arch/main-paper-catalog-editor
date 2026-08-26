@@ -1,1 +1,4 @@
-{"t":"nota","anc":{"fam":"PA552"},"testo":"做小一点","id":"n0001","chi":"isaac","q":"2026-08-26 10:28:12"}
+{"t": "nota", "anc": {"fam": "PA552"}, "testo": "做小一点", "id": "n0001", "chi": "isaac", "q": "2026-08-26 10:28:12"}
+{"t": "nota", "anc": {"uid": "PA553"}, "testo": "删掉", "id": "n0002", "chi": "isaac", "q": "2026-08-26 10:26:11 (dal Mac)"}
+{"t": "risp", "rif": "n0002", "testo": "ok", "id": "r0001", "chi": "isaac", "q": "2026-08-26 10:26:35 (dal Mac)"}
+{"t": "chiudi", "rif": "n0002", "esito": "fatta", "perche": "好了", "id": "c0001", "chi": "isaac", "q": "2026-08-26 10:26:46 (dal Mac)"}
