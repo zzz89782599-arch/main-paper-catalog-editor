@@ -20,3 +20,5 @@
 {"t":"mod","anc":{"uid":"PA415"},"campo":"pick","pre":"3","post":"1","etichetta":"pezzi miniatura","id":"m0020","chi":"isaac","q":"2026-08-26 17:44:00"}
 {"t":"mod","anc":{},"campo":"order","pre":"15 schede riordinate","post":"(ordine di listino)","dove":"SCRITTURA&CORREZIONE::CORRETTORI A NASTRO · ordine schede","etichetta":"ordine schede","id":"m0021","chi":"isaac","q":"2026-08-26 17:44:00"}
 {"t":"mod","anc":{"fam":"MP CORRETTORE A NASTRO X"},"campo":"format","pre":"pair","post":"band","etichetta":"formato","id":"m0022","chi":"isaac","q":"2026-08-26 19:47:31"}
+{"t":"mod","anc":{"uid":"PE531"},"campo":"foto","pre":"(ritaglio automatico)","post":"1","etichetta":"pezzi foto grande","id":"m0023","chi":"isaac","q":"2026-08-26 19:48:02"}
+{"t":"mod","anc":{"uid":"PE531"},"campo":"foto","pre":"1","post":"(ritaglio automatico)","etichetta":"pezzi foto grande","id":"m0024","chi":"isaac","q":"2026-08-26 19:48:44"}
