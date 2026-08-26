@@ -20,14 +20,7 @@
    "emoji": "👩🏻‍🎨",
    "lv": 3,
    "attivo": true
-  },
-  "design": {
-   "nome": "Design & Marketing",
-   "emoji": "🧩",
-   "lv": 2,
-   "attivo": true
   }
  },
- "_chiavi": "Ogni persona puo' avere `chiave`: l'IMPRONTA della sua chiave GitHub (SHA-256, primi 16 caratteri) — NON la chiave. Serve perche' incollando la propria chiave si entri gia' come se stessi, invece di sceglere il nome da un elenco: due chiavi diverse, due persone diverse, due livelli diversi. Si collega dal pannello d'ingresso, spuntando «ricorda questa chiave come mia»: l'impronta la calcola il browser, la chiave non esce di li' e qui non ci arriva mai.",
- "_condiviso": "`design` e' un ACCOUNT CONDIVISO e resta L2 apposta: la sua firma non dice chi c'era davvero dietro, quindi non gli si da' il potere di toccare impaginazione e questo elenco. Le persone con nome e cognome sono L3."
+ "_chiavi": "Ogni persona puo' avere `chiave`: l'IMPRONTA della sua chiave GitHub (SHA-256, primi 16 caratteri) — NON la chiave. Serve perche' incollando la propria chiave si entri gia' come se stessi, invece di sceglere il nome da un elenco: due chiavi diverse, due persone diverse, due livelli diversi. Si collega dal pannello d'ingresso, spuntando «ricorda questa chiave come mia»: l'impronta la calcola il browser, la chiave non esce di li' e qui non ci arriva mai."
 }
