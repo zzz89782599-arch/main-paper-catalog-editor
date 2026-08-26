@@ -1,0 +1,7 @@
+{
+  "_nota": "Chi puo' fare cosa (CLOUD_PLAN §7). L1 = sola lettura (nessun token): sfoglia e propone idee, non tocca il libro. L2 = testo e dati: descrizioni, EAN, pack/box, titoli, colore-tipo, introduzioni, testate. L3 = tutto, piu' il formato di pagina e QUESTO elenco. Il livello lo da' l'elenco, non se lo sceglie l'utente. ⚠️ Sta FUORI da config/ apposta: config/* lo puo' scrivere anche un L2, questo file no — se stesse dentro, un L2 potrebbe promuoversi da solo.",
+  "_aggiungere": "Isaac (L3) aggiunge i colleghi dal pannello Persone dentro l'editor: nome + livello. Non serve toccare questo file a mano.",
+  "utenti": {
+    "isaac": { "nome": "Isaac", "lv": 3, "attivo": true }
+  }
+}
