@@ -1,4 +1,4 @@
-﻿codice,file,w,h,keep,elementi,item,item_w,item_h,dcol,dedge,ink,item_rot
+codice,file,w,h,keep,elementi,item,item_w,item_h,dcol,dedge,ink,item_rot
 BD23023,BD23023__solo.webp,1528,943,0.996,7,BD23023__item.webp,860,675,,,,
 CE1061IT-0A,CE1061IT-0A__solo.webp,624,973,0.873,1,CE1061IT-0A__item.webp,577,900,60.14,0.1128,,
 CE1061IT-0B,CE1061IT-0B__solo.webp,622,972,0.877,1,CE1061IT-0B__item.webp,575,900,60.14,0.1128,,
@@ -1147,10 +1147,10 @@ PE242N,PE242N__solo.webp,1040,943,0.818,4,PE242N__item.webp,177,900,2.49,0.0309,
 PE242R-S,PE242R-S__solo.webp,1039,956,0.81,4,PE242R-S__item.webp,174,900,2.49,0.0309,,
 PE242R,PE242R__solo.webp,1040,939,0.819,4,PE242R__item.webp,195,900,2.49,0.0309,,
 PE243-01,PE243-01__solo.webp,1529,949,0.988,4,PE243-01__item.webp,77,900,5.28,0.0515,,
-PE243A-S,PE243A-S__solo.webp,1040,948,0.81,3,PE243A-S__item.webp,76,900,5.28,0.0515,,
-PE243A,PE243A__solo.webp,1040,947,0.828,3,PE243A__item.webp,77,900,5.28,0.0515,,
-PE243N-S,PE243N-S__solo.webp,1040,948,0.811,3,PE243N-S__item.webp,76,900,5.28,0.0515,,
-PE243N,PE243N__solo.webp,1039,948,0.825,3,PE243N__item.webp,76,900,5.28,0.0515,,
+PE243A-S,PE243A-S__solo.webp,1040,948,0.81,3,PE243A-S__item.webp,76,900,5.28,0.0515,,lay
+PE243A,PE243A__solo.webp,1040,947,0.828,3,PE243A__item.webp,77,900,5.28,0.0515,,lay
+PE243N-S,PE243N-S__solo.webp,1040,948,0.811,3,PE243N-S__item.webp,76,900,5.28,0.0515,,lay
+PE243N,PE243N__solo.webp,1039,948,0.825,3,PE243N__item.webp,76,900,5.28,0.0515,,lay
 PE243R-S,PE243R-S__solo.webp,1040,949,0.811,3,PE243R-S__item.webp,76,900,5.28,0.0515,,
 PE243R,PE243R__solo.webp,1040,950,0.825,3,PE243R__item.webp,76,900,5.28,0.0515,,
 PE244-1,PE244-1__solo.webp,1528,940,0.988,4,PE244-1__item.webp,217,900,49.05,0.0706,,
