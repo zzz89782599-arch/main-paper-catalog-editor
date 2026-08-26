@@ -5,7 +5,8 @@
   "isaac": {
    "nome": "Isaac",
    "lv": 3,
-   "attivo": true
+   "attivo": true,
+   "chiave": "e722e9bdf3d583a5"
   },
   "design": {
    "nome": "Design & Marketing",
