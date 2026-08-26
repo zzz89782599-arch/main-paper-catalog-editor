@@ -1,0 +1,51 @@
+# guardia.yml — fase 4 (CLOUD_PLAN §12F): «ha fatto piu' di quanto gli spetta?»
+#
+# ⚠️ COSA NON E'. Con UNA chiave condivisa (§7) non c'e' autenticazione: chi ha la
+# chiave puo' firmarsi con qualunque nome. Questa guardia NON ferma un
+# malintenzionato — prende l'ERRORE ONESTO: il collega che tocca l'impaginazione
+# mentre doveva solo proporre un'idea. §12B lo dice gia'; ripeterlo qui serve a non
+# credere di avere una serratura quando si ha un cartello.
+#
+# Cosa fa quando trova uno sforo (Isaac, 26/08: «只回滚越界的那几个文件»):
+# rimette a posto SOLO i file toccati oltre il livello, e lascia tutto il resto —
+# le idee e le firme di chi ha sbagliato file sono la parte che serve a capire.
+#
+# Il giudizio sta in build/guardia_ruoli.js (funzione pura, cancello: ruoli_smoke)
+# e il rimedio in build/guardia_ripristina.sh (cancello: ripristina_smoke, su git
+# vero). Qui dentro non c'e' logica: se ce ne fosse, non sarebbe provabile.
+name: guardia
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  ruoli:
+    # la guardia non deve giudicare se stessa, se no si rincorre
+    if: "github.actor != 'github-actions[bot]' && !startsWith(github.event.head_commit.message, 'guardia:')"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # serve il commit di PRIMA per sapere com'era
+
+      - name: chi ha fatto cosa
+        id: giudizio
+        run: |
+          V="$(node catalog_v2/build/guardia_ruoli.js "${{ github.event.before }}" "${{ github.sha }}" || true)"
+          echo "$V"
+          echo "verdetto=$(printf '%s' "$V" | node -e 'let s="";process.stdin.on("data",d=>s+=d).on("end",()=>{let v="";try{v=JSON.parse(s).verdetto||""}catch(e){}console.log(v)})')" >> "$GITHUB_OUTPUT"
+
+      # ⚠️ si agisce SOLO su un «oltre» esplicito, non su «il passo prima e' fallito».
+      # Sono due cose diverse: al primo push di un ramo `github.event.before` e' tutto
+      # zeri, `git diff` esplode, e un rimedio agganciato al fallimento partirebbe
+      # senza sapere contro cosa. Un robot che scrive sul repo di qualcun altro deve
+      # muoversi solo quando ha una risposta, mai quando ha un errore.
+      - name: rimetti a posto i file toccati oltre il livello
+        if: steps.giudizio.outputs.verdetto == 'oltre'
+        run: |
+          bash catalog_v2/build/guardia_ripristina.sh "${{ github.event.before }}" "${{ github.sha }}" || true
+          git push origin HEAD:main
