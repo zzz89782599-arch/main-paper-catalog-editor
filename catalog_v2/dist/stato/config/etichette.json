@@ -1,0 +1,5 @@
+{
+ "_nota": "UNITA' delle etichette sotto le miniature, FAMIGLIA per FAMIGLIA. Isaac 27/08, davanti a un «6» solo: «只有一个6,所指不明» — e poi: «需要按照具体情况处理, 有的是数量,有的是本子行距,有的是联单联数,有的是画笔号». Cioe': non esiste una regola unica, e infatti aggiungere «mm» a un numero di pennello (000, 00, 0) sarebbe SBAGLIATO. Quindi l'unita' la scrive lui, una per famiglia, e solo dove ha senso.",
+ "_come": "chiave = nome della famiglia (quello che si vede in `dist/_fam_index.json`). valore = l'unita'. Se contiene {} il numero ci va dentro (\"n° {}\" -> «n° 6»), se no si aggiunge in coda (\"colori\" -> «6 colori»). ⚠️ si applica SOLO ai valori che sono un numero e basta: in una famiglia dove i fratelli si chiamano «AZZURRO FLUO» quello resta com'e', non diventa «AZZURRO FLUO colori».",
+ "unita": {}
+}
