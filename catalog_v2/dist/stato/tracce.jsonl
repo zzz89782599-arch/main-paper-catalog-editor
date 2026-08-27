@@ -13,3 +13,4 @@
 {"t":"mod","anc":{"uid":"PA423-3"},"campo":"pick","pre":"1+2","post":"1","etichetta":"pezzi miniatura","id":"m0013-of19","chi":"isaac","q":"2026-08-27 16:19:12"}
 {"t":"mod","anc":{"fam":"PA465-01"},"campo":"gruppo","pre":"MP CORRETTORE A NASTRO MM X M","post":"(automatico)","etichetta":"gruppo","id":"m0014-6u4n","chi":"isaac","q":"2026-08-27 16:19:43"}
 {"t":"mod","anc":{"fam":"PA466-01"},"campo":"gruppo","pre":"MP CORRETTORE A NASTRO MM X M","post":"(automatico)","etichetta":"gruppo","id":"m0015-jfkk","chi":"isaac","q":"2026-08-27 16:19:43"}
+{"t":"mod","anc":{"uid":"PA467-2"},"campo":"item_rot","pre":"lay","post":"(automatico)","etichetta":"orientamento","id":"m0016-w3yz","chi":"isaac","q":"2026-08-27 16:20:33"}
