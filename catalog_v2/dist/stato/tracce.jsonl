@@ -40,3 +40,6 @@
 {"t":"mod","anc":{"uid":"PE147N-IT"},"campo":"item_rot","pre":"(automatico)","post":"lay","etichetta":"orientamento","id":"m0040","chi":"isaac","q":"2026-08-27 00:30:37"}
 {"t":"mod","anc":{"uid":"PE147N-IT"},"campo":"item_rot","pre":"lay","post":"up","etichetta":"orientamento","id":"m0041","chi":"isaac","q":"2026-08-27 00:30:47"}
 {"t":"mod","anc":{"uid":"PE147N-IT"},"campo":"pick","pre":"(ritaglio automatico)","post":"1","etichetta":"pezzi miniatura","id":"m0042","chi":"isaac","q":"2026-08-27 00:30:47"}
+{"t":"mod","anc":{"uid":"PE147N-IT"},"campo":"pick","pre":"1","post":"3","etichetta":"pezzi miniatura","id":"m0043","chi":"isaac","q":"2026-08-27 00:30:56"}
+{"t":"mod","anc":{"uid":"PE147N-IT"},"campo":"item_rot","pre":"up","post":"lay","etichetta":"orientamento","id":"m0044","chi":"isaac","q":"2026-08-27 00:31:44"}
+{"t":"mod","anc":{"fam":"PE147"},"campo":"format","pre":"band","post":"(automatico)","etichetta":"formato","id":"m0045","chi":"isaac","q":"2026-08-27 00:31:44"}
