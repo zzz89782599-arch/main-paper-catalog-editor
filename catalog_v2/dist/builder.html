@@ -286,7 +286,15 @@ var o=[];var l=Array.isArray(e);for(f=n.s.c;f<=n.e.c;++f)s[f]=ya(f);for(var c=n.
         }
         field += ch; i++; continue;
       }
-      if (ch === '"') { inQ = true; i++; continue; }
+      // ⚠️⚠️ v45.8 — LA VIRGOLETTA APRE UN CAMPO CITATO SOLO ALL'INIZIO DEL
+      // CAMPO. Il modulo `csv` di Python fa cosi'; qui invece QUALSIASI `"`
+      // faceva scattare la modalita' citata, anche a meta' parola. Con un pollice
+      // scritto a mano — «monitor 19" led,2» — Python legge due campi giusti e il
+      // browser se ne mangia il delimitatore E il ritorno a capo, assorbendo le
+      // righe successive dentro il campo. I due gemelli producevano libri diversi
+      // dallo stesso CSV, e il cancello `model_parity` se ne accorge solo al
+      // prossimo `--ship`. (Trovato da una revisione.)
+      if (ch === '"' && field === '') { inQ = true; i++; continue; }
       if (ch === delim) { endField(); i++; continue; }
       if (ch === '\r') { endRec(); i += (text[i + 1] === '\n') ? 2 : 1; continue; }
       if (ch === '\n') { endRec(); i++; continue; }
