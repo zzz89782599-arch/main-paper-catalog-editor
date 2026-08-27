@@ -6,3 +6,4 @@
 {"t":"mod","anc":{"uid":"PA465-02"},"campo":"pick","pre":"5","post":"5+6+7","etichetta":"pezzi miniatura","id":"m0006-n8ic","chi":"isaac","q":"2026-08-27 16:00:41"}
 {"t":"mod","anc":{"fam":"PA467-1"},"campo":"separa","pre":"PA467-2","post":"(automatico)","etichetta":"separa","id":"m0007-9nx6","chi":"isaac","q":"2026-08-27 16:01:15"}
 {"t":"mod","anc":{"uid":"PA465-02"},"campo":"pick","pre":"5+6+7","post":"(ritaglio automatico)","etichetta":"pezzi miniatura","id":"m0008-zod2","chi":"isaac","q":"2026-08-27 16:01:15"}
+{"t":"mod","anc":{"uid":"PA465-02"},"campo":"pick","pre":"(ritaglio automatico)","post":"5+6+7","etichetta":"pezzi miniatura","id":"m0009-vbjb","chi":"isaac","q":"2026-08-27 16:01:46"}
