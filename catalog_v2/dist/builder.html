@@ -2638,8 +2638,12 @@ var o=[];var l=Array.isArray(e);for(f=n.s.c;f<=n.e.c;++f)s[f]=ya(f);for(var c=n.
 
     if (ncols === 2) {
       // v44.47: gemello di paginate.pair_row — 'rich'/'wide' espliciti
+      // ⚠️ v44.95: 'pair' e' un SINONIMO di 'wide' (la voce di menu «对卡·无描述»
+      // scrive `pair`). Prima non lo era e quella voce non faceva niente.
       var _req = {}, _n = 0;
-      fams.forEach(function (f) { var o = OVERRIDES.format[f.id];
+      fams.forEach(function (f) {
+        var o = OVERRIDES.format[f.id];
+        if (o === 'pair') o = 'wide';
         if (o === 'rich' || o === 'wide') { if (!_req[o]) { _req[o] = 1; _n++; } } });
       var _hasDesc = fams.some(function (f) { return f.desc_it || f.desc_en; });
       if (_n === 1 && _req.wide) mode = 'wide';
