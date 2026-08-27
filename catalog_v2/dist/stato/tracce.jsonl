@@ -38,3 +38,5 @@
 {"t":"mod","anc":{"fam":"MP MINI CORRETTORE A PENNA 4PZ"},"campo":"img","pre":"PA432","post":"PA435","etichetta":"img","id":"m0038","chi":"isaac","q":"2026-08-27 00:25:59"}
 {"t":"mod","anc":{"fam":"MP MINI CORRETTORE A PENNA 4PZ"},"campo":"img","pre":"PA435","post":"PA432","etichetta":"img","id":"m0039","chi":"isaac","q":"2026-08-27 00:26:07"}
 {"t":"mod","anc":{"uid":"PE147N-IT"},"campo":"item_rot","pre":"(automatico)","post":"lay","etichetta":"orientamento","id":"m0040","chi":"isaac","q":"2026-08-27 00:30:37"}
+{"t":"mod","anc":{"uid":"PE147N-IT"},"campo":"item_rot","pre":"lay","post":"up","etichetta":"orientamento","id":"m0041","chi":"isaac","q":"2026-08-27 00:30:47"}
+{"t":"mod","anc":{"uid":"PE147N-IT"},"campo":"pick","pre":"(ritaglio automatico)","post":"1","etichetta":"pezzi miniatura","id":"m0042","chi":"isaac","q":"2026-08-27 00:30:47"}
