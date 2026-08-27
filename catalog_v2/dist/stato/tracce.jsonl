@@ -46,3 +46,4 @@
 {"t":"mod","anc":{"uid":"PE147N-IT"},"campo":"pick","pre":"3","post":"(ritaglio automatico)","etichetta":"pezzi miniatura","id":"m0046","chi":"isaac","q":"2026-08-27 00:32:13"}
 {"t":"mod","anc":{"fam":"PA122"},"campo":"separa","pre":"(automatico)","post":"PA122L","etichetta":"separa","id":"m0047","chi":"isaac","q":"2026-08-27 00:35:03"}
 {"t":"mod","anc":{"uid":"PE147N-IT"},"campo":"pick","pre":"(ritaglio automatico)","post":"3","etichetta":"pezzi miniatura","id":"m0048","chi":"isaac","q":"2026-08-27 00:35:03"}
+{"t":"mod","anc":{"uid":"PA415"},"campo":"pick","pre":"1","post":"2","etichetta":"pezzi miniatura","id":"m0049","chi":"isaac","q":"2026-08-27 05:58:26"}
