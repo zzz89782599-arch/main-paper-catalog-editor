@@ -45,3 +45,16 @@
 {"t":"mod","anc":{"fam":"MP CORRETTORE A NASTRO X 3PZ"},"campo":"format","pre":"band","post":"(automatico)","etichetta":"formato","id":"m0044-qus0","chi":"isaac","q":"2026-09-07 14:09:07"}
 {"t":"mod","anc":{"fam":"MP CORRETTORE A NASTRO X 3PZ"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0045-dyea","chi":"isaac","q":"2026-09-07 14:10:08"}
 {"t":"mod","anc":{"fam":"MP CORRETTORE A NASTRO X 3PZ"},"campo":"separa","pre":"(automatico)","post":"PA457S","etichetta":"separa","id":"m0046-u1br","chi":"isaac","q":"2026-09-07 14:12:01"}
+{"t":"mod","anc":{"fam":"PG143"},"campo":"famiglia|colori","pre":"rosa/blu","post":"rosa/blu/arancia","etichetta":"famiglia · colori","id":"m0047-amtz","chi":"isaac","q":"2026-09-07 14:23:13"}
+{"t":"mod","anc":{"fam":"PE246"},"campo":"format","pre":"band","post":"rich","etichetta":"formato","id":"m0048-ns7w","chi":"isaac","q":"2026-09-07 14:23:13"}
+{"t":"mod","anc":{"fam":"PA452"},"campo":"format","pre":"(automatico)","post":"rich","etichetta":"formato","id":"m0049-tu1n","chi":"isaac","q":"2026-09-07 14:23:13"}
+{"t":"mod","anc":{"fam":"PA457S"},"campo":"format","pre":"(automatico)","post":"rich","etichetta":"formato","id":"m0050-60kc","chi":"isaac","q":"2026-09-07 14:23:13"}
+{"t":"mod","anc":{"fam":"PA376"},"campo":"format","pre":"(automatico)","post":"rich","etichetta":"formato","id":"m0051-09d7","chi":"isaac","q":"2026-09-07 14:23:13"}
+{"t":"mod","anc":{"fam":"MP CORRETTORE A PENNA 4PZ"},"campo":"format","pre":"(automatico)","post":"triple","etichetta":"formato","id":"m0052-sdhh","chi":"isaac","q":"2026-09-07 14:23:13"}
+{"t":"mod","anc":{"fam":"MP MINI CORRETTORE A PENNA 4PZ"},"campo":"format","pre":"(automatico)","post":"triple","etichetta":"formato","id":"m0053-6iax","chi":"isaac","q":"2026-09-07 14:23:13"}
+{"t":"mod","anc":{"fam":"EX032"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0054-w12s","chi":"isaac","q":"2026-09-07 14:23:13"}
+{"t":"mod","anc":{"fam":"PE551V"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0055-12up","chi":"isaac","q":"2026-09-07 14:23:13"}
+{"t":"mod","anc":{"fam":"PE552V"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0056-2n4h","chi":"isaac","q":"2026-09-07 14:23:13"}
+{"t":"mod","anc":{"fam":"PE243-01"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0057-inmj","chi":"isaac","q":"2026-09-07 14:23:13"}
+{"t":"mod","anc":{"fam":"PE215A"},"campo":"format","pre":"(automatico)","post":"rich","etichetta":"formato","id":"m0058-u34o","chi":"isaac","q":"2026-09-07 14:23:13"}
+{"t":"mod","anc":{},"campo":"order","pre":"(ordine di listino)","post":"16 schede riordinate","dove":"SCRITTURA&CORREZIONE::EVIDENZIATORI · ordine schede","etichetta":"ordine schede","id":"m0059-k393","chi":"isaac","q":"2026-09-07 14:23:13"}
