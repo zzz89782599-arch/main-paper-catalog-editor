@@ -92,3 +92,8 @@
 {"t":"mod","anc":{"fam":"PE242-01"},"campo":"separa","pre":"PE242A-S","post":"PE242A-S PE242N-S","etichetta":"separa","id":"m0089-ep3l","chi":"isaac","q":"2026-09-07 14:54:38"}
 {"t":"mod","anc":{"fam":"PE242-01"},"campo":"separa","pre":"PE242A-S PE242N-S","post":"PE242A-S PE242N-S PE242R-S","etichetta":"separa","id":"m0090-84h2","chi":"isaac","q":"2026-09-07 14:55:02"}
 {"t":"mod","anc":{"fam":"PE240-01"},"campo":"separa","pre":"(automatico)","post":"PE240N-S","etichetta":"separa","id":"m0091-f7ig","chi":"isaac","q":"2026-09-07 14:55:29"}
+{"t":"mod","anc":{"fam":"PE240-01"},"campo":"separa","pre":"PE240N-S PE240R-S","post":"PE240N-S PE240R-S PE240-04+PE240A+PE240AC+PE240M+PE240N+PE240R+PE240RO","etichetta":"separa","id":"m0092-hrwi","chi":"isaac","q":"2026-09-07 14:55:46"}
+{"t":"mod","anc":{"uid":"PE460-3"},"campo":"ripk","pre":"(composizione originale)","post":"riordino −2,3,4","etichetta":"riordino foto grande","id":"m0093-wyph","chi":"isaac","q":"2026-09-07 14:55:46"}
+{"t":"mod","anc":{"fam":"PE240-01"},"campo":"finestra","pre":"PE240A","post":"PE240-01","etichetta":"finestra","id":"m0094-bthp","chi":"isaac","q":"2026-09-07 14:55:46"}
+{"t":"mod","anc":{"fam":"PE342-2"},"campo":"format","pre":"rich","post":"(automatico)","etichetta":"formato","id":"m0095-qulx","chi":"isaac","q":"2026-09-07 14:55:46"}
+{"t":"mod","anc":{"fam":"PE240-04"},"campo":"separa","pre":"(automatico)","post":"PE240A+PE240AC+PE240M+PE240N+PE240R+PE240RO","etichetta":"separa","id":"m0096-vjzl","chi":"isaac","q":"2026-09-07 14:56:11"}
