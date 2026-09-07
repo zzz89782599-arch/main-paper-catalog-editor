@@ -300,11 +300,11 @@
     "PA122": "band",
     "PC092": "band",
     "MP CORRETTORE A NASTRO X 3PZ": "band",
-    "PA452": "triple",
-    "PA457S": "triple",
+    "PA452": "rich",
+    "PA457S": "rich",
     "PA376": "triple",
-    "MP CORRETTORE A PENNA 4PZ": "rich",
-    "MP MINI CORRETTORE A PENNA 4PZ": "pair"
+    "MP CORRETTORE A PENNA 4PZ": "triple",
+    "MP MINI CORRETTORE A PENNA 4PZ": "triple"
   },
   "order": {
     "SCRITTURA&CORREZIONE::MARCATORE TESSILE": [
