@@ -299,7 +299,8 @@
   "PA553": "band",
   "PA122": "band",
   "PC092": "band",
-  "MP CORRETTORE A NASTRO X 3PZ": "band"
+  "MP CORRETTORE A NASTRO X 3PZ": "band",
+  "PA452": "triple"
  },
  "order": {
   "SCRITTURA&CORREZIONE::MARCATORE TESSILE": [

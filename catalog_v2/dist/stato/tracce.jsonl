@@ -44,3 +44,4 @@
 {"t":"mod","anc":{"uid":"PA423-3"},"campo":"pick","pre":"1+2+3+4+6","post":"1","etichetta":"pezzi miniatura","id":"m0043-6twg","chi":"isaac","q":"2026-09-07 14:09:07"}
 {"t":"mod","anc":{"fam":"MP CORRETTORE A NASTRO X 3PZ"},"campo":"format","pre":"band","post":"(automatico)","etichetta":"formato","id":"m0044-qus0","chi":"isaac","q":"2026-09-07 14:09:07"}
 {"t":"mod","anc":{"fam":"MP CORRETTORE A NASTRO X 3PZ"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0045-dyea","chi":"isaac","q":"2026-09-07 14:10:08"}
+{"t":"mod","anc":{"fam":"MP CORRETTORE A NASTRO X 3PZ"},"campo":"separa","pre":"(automatico)","post":"PA457S","etichetta":"separa","id":"m0046-u1br","chi":"isaac","q":"2026-09-07 14:12:01"}
