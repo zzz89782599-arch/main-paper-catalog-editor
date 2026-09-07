@@ -304,7 +304,8 @@
     "PA457S": "rich",
     "PA376": "triple",
     "MP CORRETTORE A PENNA 4PZ": "triple",
-    "MP MINI CORRETTORE A PENNA 4PZ": "triple"
+    "MP MINI CORRETTORE A PENNA 4PZ": "triple",
+    "EX032": "band"
   },
   "order": {
     "SCRITTURA&CORREZIONE::MARCATORE TESSILE": [
@@ -653,6 +654,24 @@
       "PA467-1",
       "PA468-1",
       "PA541"
+    ],
+    "SCRITTURA&CORREZIONE::EVIDENZIATORI": [
+      "EX032",
+      "MP EVIDENZIATORE 2-5MM COLORI FLUO",
+      "PE505",
+      "PE503",
+      "PE504",
+      "PE516",
+      "PE517",
+      "PE519",
+      "PE530",
+      "PE531",
+      "PE532",
+      "PE533",
+      "PE534VL-S",
+      "PE535",
+      "PE537",
+      "PE546S"
     ]
   },
   "hero": {
