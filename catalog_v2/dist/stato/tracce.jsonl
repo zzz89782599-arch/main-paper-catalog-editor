@@ -167,3 +167,9 @@
 {"t":"mod","anc":{"uid":"PE487R-S"},"campo":"pick","pre":"1","post":"2","etichetta":"pezzi miniatura","id":"m0164-fgji","chi":"isaac","q":"2026-09-07 15:29:02"}
 {"t":"mod","anc":{"uid":"PE487V-S"},"campo":"pick","pre":"1","post":"2","etichetta":"pezzi miniatura","id":"m0165-ct1q","chi":"isaac","q":"2026-09-07 15:29:02"}
 {"t":"mod","anc":{"uid":"PE487-2"},"campo":"pick","pre":"(ritaglio automatico)","post":"2","etichetta":"pezzi miniatura","id":"m0166-oca2","chi":"isaac","q":"2026-09-07 15:29:02"}
+{"t":"mod","anc":{"uid":"PE487R-S"},"campo":"pick","pre":"2","post":"1","etichetta":"pezzi miniatura","id":"m0167-83i1","chi":"isaac","q":"2026-09-07 15:29:32"}
+{"t":"mod","anc":{"uid":"PE487V-S"},"campo":"pick","pre":"2","post":"1","etichetta":"pezzi miniatura","id":"m0168-l4fx","chi":"isaac","q":"2026-09-07 15:29:32"}
+{"t":"mod","anc":{"uid":"PE487-2"},"campo":"pick","pre":"2","post":"(ritaglio automatico)","etichetta":"pezzi miniatura","id":"m0169-8yj7","chi":"isaac","q":"2026-09-07 15:29:32"}
+{"t":"mod","anc":{"fam":"PE487V-S"},"campo":"format","pre":"triple","post":"band","etichetta":"formato","id":"m0170-ewfy","chi":"isaac","q":"2026-09-07 15:29:56"}
+{"t":"mod","anc":{"fam":"PE487"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0171-ftxf","chi":"isaac","q":"2026-09-07 15:29:56"}
+{"t":"mod","anc":{"uid":"PE487N-S"},"campo":"pick","pre":"1","post":"2","etichetta":"pezzi miniatura","id":"m0172-2o6b","chi":"isaac","q":"2026-09-07 15:30:19"}
