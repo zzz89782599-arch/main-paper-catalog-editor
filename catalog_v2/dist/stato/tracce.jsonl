@@ -97,3 +97,7 @@
 {"t":"mod","anc":{"fam":"PE240-01"},"campo":"finestra","pre":"PE240A","post":"PE240-01","etichetta":"finestra","id":"m0094-bthp","chi":"isaac","q":"2026-09-07 14:55:46"}
 {"t":"mod","anc":{"fam":"PE342-2"},"campo":"format","pre":"rich","post":"(automatico)","etichetta":"formato","id":"m0095-qulx","chi":"isaac","q":"2026-09-07 14:55:46"}
 {"t":"mod","anc":{"fam":"PE240-04"},"campo":"separa","pre":"(automatico)","post":"PE240A+PE240AC+PE240M+PE240N+PE240R+PE240RO","etichetta":"separa","id":"m0096-vjzl","chi":"isaac","q":"2026-09-07 14:56:11"}
+{"t":"mod","anc":{"fam":"PE242A-S"},"campo":"gruppo","pre":"(automatico)","post":"PE242N-S","etichetta":"gruppo","id":"m0097-tw8z","chi":"isaac","q":"2026-09-07 14:57:07"}
+{"t":"mod","anc":{"fam":"PE242N-S"},"campo":"gruppo","pre":"PE242A-S","post":"(automatico)","etichetta":"gruppo","id":"m0098-4pup","chi":"isaac","q":"2026-09-07 14:57:07"}
+{"t":"mod","anc":{"fam":"PE242R-S"},"campo":"gruppo","pre":"(automatico)","post":"PE242N-S","etichetta":"gruppo","id":"m0099-2jzq","chi":"isaac","q":"2026-09-07 14:57:32"}
+{"t":"mod","anc":{"fam":"PE342-1"},"campo":"format","pre":"rich","post":"(automatico)","etichetta":"formato","id":"m0100-08cu","chi":"isaac","q":"2026-09-07 14:57:32"}
