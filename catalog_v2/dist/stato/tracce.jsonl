@@ -152,3 +152,5 @@
 {"t":"mod","anc":{"uid":"PE487R-S"},"campo":"pick","pre":"(ritaglio automatico)","post":"1","etichetta":"pezzi miniatura","id":"m0149-z8fj","chi":"isaac","q":"2026-09-07 15:25:24"}
 {"t":"mod","anc":{"uid":"PE487V-S"},"campo":"pick","pre":"(ritaglio automatico)","post":"1","etichetta":"pezzi miniatura","id":"m0150-n8i4","chi":"isaac","q":"2026-09-07 15:25:49"}
 {"t":"mod","anc":{"fam":"PE487V-S"},"campo":"separa","pre":"(automatico)","post":"PE487A-S PE487N-S","etichetta":"separa","id":"m0151-n2vk","chi":"isaac","q":"2026-09-07 15:26:14"}
+{"t":"mod","anc":{"fam":"PE487V-S"},"campo":"separa","pre":"PE487A-S PE487N-S","post":"PE487A-S PE487N-S PE487R-S PE487+PE487-1+PE487-2+PE487-3+PE487-4+PE487-5","etichetta":"separa","id":"m0152-r7oa","chi":"isaac","q":"2026-09-07 15:26:29"}
+{"t":"mod","anc":{"fam":"PE487V-S"},"campo":"finestra","pre":"PE487-2","post":"PE487","etichetta":"finestra","id":"m0153-rxuw","chi":"isaac","q":"2026-09-07 15:26:29"}
