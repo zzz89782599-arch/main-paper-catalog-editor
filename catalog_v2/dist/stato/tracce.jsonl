@@ -180,3 +180,5 @@
 {"t":"mod","anc":{"fam":"PE242-01"},"campo":"separa","pre":"(automatico)","post":"PE242A-S PE242N-S PE242R-S","etichetta":"separa","id":"m0177-wz0l","chi":"isaac","q":"2026-09-07 15:33:30"}
 {"t":"mod","anc":{"fam":"PE242N-S"},"campo":"gruppo","pre":"(automatico)","post":"PE242R-S","etichetta":"gruppo","id":"m0178-hvp9","chi":"isaac","q":"2026-09-07 15:34:16"}
 {"t":"mod","anc":{"fam":"PE242A-S"},"campo":"gruppo","pre":"(automatico)","post":"PE242N-S","etichetta":"gruppo","id":"m0179-xe8u","chi":"isaac","q":"2026-09-07 15:34:16"}
+{"t":"mod","anc":{"fam":"PE242N-S"},"campo":"gruppo","pre":"PE242R-S","post":"PE242A-S","etichetta":"gruppo","id":"m0180-ifoi","chi":"isaac","q":"2026-09-07 15:34:39"}
+{"t":"mod","anc":{"fam":"PE242A-S"},"campo":"gruppo","pre":"PE242N-S","post":"PE242R-S","etichetta":"gruppo","id":"m0181-tus6","chi":"isaac","q":"2026-09-07 15:34:39"}
