@@ -114,3 +114,4 @@
 {"t":"mod","anc":{"fam":"PE240-01"},"campo":"finestra","pre":"PE240A","post":"PE240-01","etichetta":"finestra","id":"m0111-fc20","chi":"isaac","q":"2026-09-07 15:00:39"}
 {"t":"mod","anc":{"fam":"PE240-01"},"campo":"finestra","pre":"PE240-01","post":"PE240A","etichetta":"finestra","id":"m0112-iv8f","chi":"isaac","q":"2026-09-07 15:01:19"}
 {"t":"mod","anc":{"fam":"PE240-01"},"campo":"separa","pre":"PE240A PE240AC PE240M PE240N PE240N-S PE240R PE240R-S","post":"PE240A PE240AC PE240M PE240N PE240N-S PE240R PE240R-S PE240RO","etichetta":"separa","id":"m0113-a0fe","chi":"isaac","q":"2026-09-07 15:01:19"}
+{"t":"mod","anc":{},"campo":"order","pre":"(ordine di listino)","post":"12 schede riordinate","dove":"SCRITTURA&CORREZIONE::PENNE A INCHIOSTRO LIQUIDO · ordine schede","etichetta":"ordine schede","id":"m0114-9hiq","chi":"isaac","q":"2026-09-07 15:02:57"}
