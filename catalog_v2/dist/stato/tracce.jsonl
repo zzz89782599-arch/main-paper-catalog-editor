@@ -137,3 +137,6 @@
 {"t":"mod","anc":{"fam":"PE342-1"},"campo":"format","pre":"rich","post":"(automatico)","etichetta":"formato","id":"m0134-l4co","chi":"isaac","q":"2026-09-07 15:10:34"}
 {"t":"mod","anc":{"fam":"PE240-01"},"campo":"separa","pre":"PE240N-S PE240R-S","post":"(automatico)","etichetta":"separa","id":"m0135-a35l","chi":"isaac","q":"2026-09-07 15:11:45"}
 {"t":"mod","anc":{"uid":"PE180O"},"campo":"pick","pre":"(ritaglio automatico)","post":"1","etichetta":"pezzi miniatura","id":"m0136-wcez","chi":"isaac","q":"2026-09-07 15:12:27"}
+{"t":"mod","anc":{"uid":"PE180O"},"campo":"item_rot","pre":"(automatico)","post":"lay","etichetta":"orientamento","id":"m0137-msb8","chi":"isaac","q":"2026-09-07 15:12:39"}
+{"t":"mod","anc":{"uid":"PE180P"},"campo":"item_rot","pre":"(automatico)","post":"lay","etichetta":"orientamento","id":"m0138-tabu","chi":"isaac","q":"2026-09-07 15:12:39"}
+{"t":"mod","anc":{"uid":"PE180P"},"campo":"pick","pre":"(ritaglio automatico)","post":"1","etichetta":"pezzi miniatura","id":"m0139-x3zb","chi":"isaac","q":"2026-09-07 15:12:39"}
