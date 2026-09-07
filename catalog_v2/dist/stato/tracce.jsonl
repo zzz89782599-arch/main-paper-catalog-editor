@@ -87,3 +87,5 @@
 {"t":"mod","anc":{"uid":"PE460-3"},"campo":"ripk","pre":"riordino −2,3,4","post":"(composizione originale)","etichetta":"riordino foto grande","id":"m0084-qu0k","chi":"isaac","q":"2026-09-07 14:48:34"}
 {"t":"mod","anc":{"fam":"PE342-2"},"campo":"format","pre":"(automatico)","post":"rich","etichetta":"formato","id":"m0085-34os","chi":"isaac","q":"2026-09-07 14:49:42"}
 {"t":"mod","anc":{"fam":"PE342-1"},"campo":"separa","pre":"PE342-2","post":"(automatico)","etichetta":"separa","id":"m0086-jh7o","chi":"isaac","q":"2026-09-07 14:49:42"}
+{"t":"mod","anc":{"fam":"PE242-01"},"campo":"separa","pre":"(automatico)","post":"PE242A-S","etichetta":"separa","id":"m0087-y9ip","chi":"isaac","q":"2026-09-07 14:54:28"}
+{"t":"mod","anc":{},"campo":"order","pre":"(ordine di listino)","post":"14 schede riordinate","dove":"SCRITTURA&CORREZIONE::MATITE GRAFITE · ordine schede","etichetta":"ordine schede","id":"m0088-vqds","chi":"isaac","q":"2026-09-07 14:54:28"}
