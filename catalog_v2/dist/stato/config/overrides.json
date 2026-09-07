@@ -312,7 +312,12 @@
   "PG178-02": "rich",
   "PG179R-01": "rich",
   "PE185": "rich",
-  "PE180": "rich"
+  "PE180": "rich",
+  "PE487A-S": "triple",
+  "PE487N-S": "triple",
+  "PE487R-S": "triple",
+  "PE487V-S": "band",
+  "PE487": "band"
  },
  "order": {
   "SCRITTURA&CORREZIONE::MARCATORE TESSILE": [
