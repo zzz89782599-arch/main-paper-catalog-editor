@@ -73,3 +73,4 @@
 {"t":"mod","anc":{"uid":"PE140-16"},"campo":"pick","pre":"1","post":"13","etichetta":"pezzi miniatura","id":"m0072-j5oa","chi":"isaac","q":"2026-09-07 14:31:41"}
 {"t":"mod","anc":{"uid":"PE164-2"},"campo":"item_rot","pre":"(automatico)","post":"lay","etichetta":"orientamento","id":"m0073-usvq","chi":"isaac","q":"2026-09-07 14:32:32"}
 {"t":"mod","anc":{"uid":"PE164-3"},"campo":"item_rot","pre":"(automatico)","post":"lay","etichetta":"orientamento","id":"m0074-7vbb","chi":"isaac","q":"2026-09-07 14:32:32"}
+{"t":"mod","anc":{"fam":"PA552"},"campo":"famiglia|colori","pre":"rosa | arancione/giallo | verde | blu | giallo","post":"rosa | verde | blu | giallo","etichetta":"famiglia · colori","id":"m0075-5nji","chi":"isaac","q":"2026-09-07 14:37:06"}
