@@ -89,3 +89,6 @@
 {"t":"mod","anc":{"fam":"PE342-1"},"campo":"separa","pre":"PE342-2","post":"(automatico)","etichetta":"separa","id":"m0086-jh7o","chi":"isaac","q":"2026-09-07 14:49:42"}
 {"t":"mod","anc":{"fam":"PE242-01"},"campo":"separa","pre":"(automatico)","post":"PE242A-S","etichetta":"separa","id":"m0087-y9ip","chi":"isaac","q":"2026-09-07 14:54:28"}
 {"t":"mod","anc":{},"campo":"order","pre":"(ordine di listino)","post":"14 schede riordinate","dove":"SCRITTURA&CORREZIONE::MATITE GRAFITE · ordine schede","etichetta":"ordine schede","id":"m0088-vqds","chi":"isaac","q":"2026-09-07 14:54:28"}
+{"t":"mod","anc":{"fam":"PE242-01"},"campo":"separa","pre":"PE242A-S","post":"PE242A-S PE242N-S","etichetta":"separa","id":"m0089-ep3l","chi":"isaac","q":"2026-09-07 14:54:38"}
+{"t":"mod","anc":{"fam":"PE242-01"},"campo":"separa","pre":"PE242A-S PE242N-S","post":"PE242A-S PE242N-S PE242R-S","etichetta":"separa","id":"m0090-84h2","chi":"isaac","q":"2026-09-07 14:55:02"}
+{"t":"mod","anc":{"fam":"PE240-01"},"campo":"separa","pre":"(automatico)","post":"PE240N-S","etichetta":"separa","id":"m0091-f7ig","chi":"isaac","q":"2026-09-07 14:55:29"}
