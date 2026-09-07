@@ -131,3 +131,4 @@
 {"t":"mod","anc":{"uid":"PE487V-S"},"campo":"pick","pre":"(ritaglio automatico)","post":"1","etichetta":"pezzi miniatura","id":"m0128-yog7","chi":"isaac","q":"2026-09-07 15:07:23"}
 {"t":"mod","anc":{"fam":"PE546S"},"campo":"img","pre":"PE546S","post":"PE546","etichetta":"img","id":"m0129-cfzw","chi":"isaac","q":"2026-09-07 15:07:23"}
 {"t":"mod","anc":{"fam":"PE240-01"},"campo":"finestra","pre":"PE240A","post":"PE240-01","etichetta":"finestra","id":"m0130-xl1b","chi":"isaac","q":"2026-09-07 15:07:23"}
+{"t":"mod","anc":{"fam":"PE240-01"},"campo":"separa","pre":"PE240A PE240AC PE240M PE240N PE240N-S PE240R PE240R-S PE240RO PE240-04+PE240A+PE240AC+PE240M+PE240N+PE240N-S+PE240R+PE240R-S+PE240RO","post":"(automatico)","etichetta":"separa","id":"m0131-dxhi","chi":"isaac","q":"2026-09-07 15:08:19"}
