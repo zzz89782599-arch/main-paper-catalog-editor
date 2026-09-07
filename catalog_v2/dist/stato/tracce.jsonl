@@ -75,3 +75,4 @@
 {"t":"mod","anc":{"uid":"PE164-3"},"campo":"item_rot","pre":"(automatico)","post":"lay","etichetta":"orientamento","id":"m0074-7vbb","chi":"isaac","q":"2026-09-07 14:32:32"}
 {"t":"mod","anc":{"fam":"PA552"},"campo":"famiglia|colori","pre":"rosa | arancione/giallo | verde | blu | giallo","post":"rosa | verde | blu | giallo","etichetta":"famiglia · colori","id":"m0075-5nji","chi":"isaac","q":"2026-09-07 14:37:06"}
 {"t":"nota","anc":{"fam":"MP CORRETTORE A NASTRO X 3PZ"},"testo":"PA423-3 的缩略图缺失产品","id":"n0001-fk6q","chi":"isaac","q":"2026-09-07 14:37:39"}
+{"t":"mod","anc":{"fam":"PA429"},"campo":"famiglia|colori","pre":"blu | nero/grigio | rosso","post":"blu | grigio | rosso","etichetta":"famiglia · colori","id":"m0076-9miz","chi":"isaac","q":"2026-09-07 14:38:43"}
