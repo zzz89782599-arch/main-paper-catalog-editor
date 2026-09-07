@@ -78,3 +78,4 @@
 {"t":"mod","anc":{"fam":"PA429"},"campo":"famiglia|colori","pre":"blu | nero/grigio | rosso","post":"blu | grigio | rosso","etichetta":"famiglia · colori","id":"m0076-9miz","chi":"isaac","q":"2026-09-07 14:38:43"}
 {"t":"nota","anc":{"fam":"MP CORRETTORE A NASTRO X 3PZ COL. ASS."},"testo":"缩略图太小","id":"n0002-91uo","chi":"isaac","q":"2026-09-07 14:41:49"}
 {"t":"mod","anc":{"uid":"PE546S"},"campo":"pick","pre":"(ritaglio automatico)","post":"1","etichetta":"pezzi miniatura","id":"m0077-rnfn","chi":"isaac","q":"2026-09-07 14:44:12"}
+{"t":"mod","anc":{"fam":"PE546S"},"campo":"img","pre":"PE546S","post":"PE546","etichetta":"img","id":"m0078-1zvd","chi":"isaac","q":"2026-09-07 14:44:47"}
