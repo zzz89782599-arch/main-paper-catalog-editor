@@ -59,3 +59,5 @@
 {"t":"mod","anc":{"fam":"PE215A"},"campo":"format","pre":"(automatico)","post":"rich","etichetta":"formato","id":"m0058-u34o","chi":"isaac","q":"2026-09-07 14:23:13"}
 {"t":"mod","anc":{},"campo":"order","pre":"(ordine di listino)","post":"16 schede riordinate","dove":"SCRITTURA&CORREZIONE::EVIDENZIATORI · ordine schede","etichetta":"ordine schede","id":"m0059-k393","chi":"isaac","q":"2026-09-07 14:23:13"}
 {"t":"mod","anc":{"fam":"PG143"},"campo":"famiglia|colori","pre":"rosa/blu/arancia","post":"rosa/blu/arancio","etichetta":"famiglia · colori","id":"m0060-k754","chi":"isaac","q":"2026-09-07 14:23:28"}
+{"t":"mod","anc":{"fam":"PG143"},"campo":"famiglia|colori","pre":"rosa/blu/arancio","post":"rosa/blu","etichetta":"famiglia · colori","id":"m0061-ag5s","chi":"isaac","q":"2026-09-07 14:23:36"}
+{"t":"mod","anc":{"fam":"PG143"},"campo":"famiglia|colori","pre":"rosa/blu","post":"arancione | rosa | blu","etichetta":"famiglia · colori","id":"m0062-xar2","chi":"isaac","q":"2026-09-07 14:24:25"}
