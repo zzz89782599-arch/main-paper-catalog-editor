@@ -217,3 +217,7 @@
 {"t":"mod","anc":{"fam":"PE140"},"campo":"famiglia|colori","pre":"nero | blu | rosso | verde | azzurro | verde lime | lilla","post":"nero | blu | rosso | verde | azzurro | verde lime | lilla | fucsia","etichetta":"famiglia · colori","id":"m0213-9pmc","chi":"isaac","q":"2026-09-08 10:10:56"}
 {"t":"mod","anc":{"fam":"PE140"},"campo":"separa","pre":"PE140-13","post":"PE140-13 PE140-16","etichetta":"separa","id":"m0214-8qsq","chi":"isaac","q":"2026-09-08 10:10:56"}
 {"t":"mod","anc":{"fam":"PE140"},"campo":"separa","pre":"PE140-13 PE140-16","post":"PE140-13 PE140-16 PE140-14","etichetta":"separa","id":"m0215-a95q","chi":"isaac","q":"2026-09-08 10:11:06"}
+{"t":"mod","anc":{"fam":"PE140"},"campo":"separa","pre":"PE140-13 PE140-16 PE140-14","post":"PE140-13+PE140-14 PE140-16","etichetta":"separa","id":"m0216-a8tu","chi":"isaac","q":"2026-09-08 10:45:23"}
+{"t":"mod","anc":{"fam":"PA457S"},"campo":"format","pre":"(automatico)","post":"rich","etichetta":"formato","id":"m0217-yhxw","chi":"isaac","q":"2026-09-08 10:45:23"}
+{"t":"mod","anc":{"fam":"PE487"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0218-kti6","chi":"isaac","q":"2026-09-08 10:45:23"}
+{"t":"mod","anc":{"fam":"PE534-01"},"campo":"format","pre":"(automatico)","post":"hero","etichetta":"formato","id":"m0219-ip09","chi":"isaac","q":"2026-09-08 10:45:23"}
