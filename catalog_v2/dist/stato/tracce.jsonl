@@ -229,3 +229,7 @@
 {"t":"mod","anc":{"uid":"PN822"},"campo":"pick","pre":"(ritaglio automatico)","post":"2","etichetta":"pezzi miniatura","id":"m0225-dqqf","chi":"isaac","q":"2026-09-08 10:49:10"}
 {"t":"mod","anc":{"uid":"PN823"},"campo":"pick","pre":"(ritaglio automatico)","post":"2","etichetta":"pezzi miniatura","id":"m0226-ywhg","chi":"isaac","q":"2026-09-08 10:49:10"}
 {"t":"mod","anc":{"uid":"PC227"},"campo":"foto","pre":"(ritaglio automatico)","post":"1+3","etichetta":"pezzi foto grande","id":"m0227-ro8c","chi":"isaac","q":"2026-09-08 14:33:54"}
+{"t":"mod","anc":{"fam":"PC230"},"campo":"finestra","pre":"PC230","post":"PC230T","etichetta":"finestra","id":"m0228-spn9","chi":"isaac","q":"2026-09-08 14:35:03"}
+{"t":"mod","anc":{"uid":"PC227"},"campo":"ripk","pre":"(composizione originale)","post":"riordino −4","etichetta":"riordino foto grande","id":"m0229-4148","chi":"isaac","q":"2026-09-08 14:35:03"}
+{"t":"mod","anc":{"uid":"PC228"},"campo":"ripk","pre":"(composizione originale)","post":"riordino −3","etichetta":"riordino foto grande","id":"m0230-a4j9","chi":"isaac","q":"2026-09-08 14:35:03"}
+{"t":"mod","anc":{"uid":"PC227"},"campo":"foto","pre":"1+3","post":"(ritaglio automatico)","etichetta":"pezzi foto grande","id":"m0231-4cyp","chi":"isaac","q":"2026-09-08 14:35:03"}
