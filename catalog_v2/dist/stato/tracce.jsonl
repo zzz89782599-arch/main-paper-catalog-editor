@@ -184,3 +184,6 @@
 {"t":"mod","anc":{"fam":"PE242A-S"},"campo":"gruppo","pre":"PE242N-S","post":"PE242R-S","etichetta":"gruppo","id":"m0181-tus6","chi":"isaac","q":"2026-09-07 15:34:39"}
 {"t":"nota","anc":{"fam":"PE242A-S"},"testo":"需要pe242家族，叠起来","id":"n0003-ffj9","chi":"isaac","q":"2026-09-07 15:36:18"}
 {"t":"mod","anc":{"fam":"PE140"},"campo":"separa","pre":"(automatico)","post":"PE140-13","etichetta":"separa","id":"m0182-ne9o","chi":"isaac","q":"2026-09-07 15:37:46"}
+{"t":"mod","anc":{"fam":"PE486V-S"},"campo":"separa","pre":"(automatico)","post":"PE486A-S","etichetta":"separa","id":"m0183-emt6","chi":"isaac","q":"2026-09-08 07:56:46"}
+{"t":"mod","anc":{"fam":"PA457S"},"campo":"format","pre":"(automatico)","post":"rich","etichetta":"formato","id":"m0184-kng4","chi":"isaac","q":"2026-09-08 07:56:46"}
+{"t":"mod","anc":{"fam":"PE487"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0185-329m","chi":"isaac","q":"2026-09-08 07:56:46"}
