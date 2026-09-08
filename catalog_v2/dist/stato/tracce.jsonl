@@ -213,3 +213,4 @@
 {"t":"mod","anc":{"fam":"PA457S"},"campo":"format","pre":"(automatico)","post":"rich","etichetta":"formato","id":"m0209-j3rn","chi":"isaac","q":"2026-09-08 10:08:51"}
 {"t":"mod","anc":{"fam":"PE487"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0210-fc2a","chi":"isaac","q":"2026-09-08 10:08:51"}
 {"t":"mod","anc":{"fam":"PE534-01"},"campo":"format","pre":"(automatico)","post":"hero","etichetta":"formato","id":"m0211-ibb4","chi":"isaac","q":"2026-09-08 10:08:51"}
+{"t":"mod","anc":{"fam":"PE242-01"},"campo":"separa","pre":"PE242A-S+PE242N-S PE242R-S","post":"PE242A-S+PE242N-S+PE242R-S","etichetta":"separa","id":"m0212-38ca","chi":"isaac","q":"2026-09-08 10:09:04"}
