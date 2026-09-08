@@ -192,3 +192,4 @@
 {"t":"mod","anc":{"fam":"PE486R-S"},"campo":"gruppo","pre":"(automatico)","post":"PE486A-S","etichetta":"gruppo","id":"m0188-grod","chi":"isaac","q":"2026-09-08 07:57:06"}
 {"t":"mod","anc":{"fam":"PE486R-S"},"campo":"gruppo","pre":"PE486A-S","post":"PE486N-S","etichetta":"gruppo","id":"m0189-v613","chi":"isaac","q":"2026-09-08 07:57:15"}
 {"t":"mod","anc":{},"campo":"order","pre":"(ordine di listino)","post":"19 schede riordinate","dove":"SCRITTURA&CORREZIONE::MARCATORE INDELEBILE · ordine schede","etichetta":"ordine schede","id":"m0190-8cia","chi":"isaac","q":"2026-09-08 07:57:23"}
+{"t":"mod","anc":{"fam":"PE486V-S"},"campo":"separa","pre":"PE486A-S PE486N-S PE486R-S","post":"PE486A-S PE486N-S PE486R-S PE486","etichetta":"separa","id":"m0191-6zws","chi":"isaac","q":"2026-09-08 07:57:50"}
