@@ -221,3 +221,5 @@
 {"t":"mod","anc":{"fam":"PA457S"},"campo":"format","pre":"(automatico)","post":"rich","etichetta":"formato","id":"m0217-yhxw","chi":"isaac","q":"2026-09-08 10:45:23"}
 {"t":"mod","anc":{"fam":"PE487"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0218-kti6","chi":"isaac","q":"2026-09-08 10:45:23"}
 {"t":"mod","anc":{"fam":"PE534-01"},"campo":"format","pre":"(automatico)","post":"hero","etichetta":"formato","id":"m0219-ip09","chi":"isaac","q":"2026-09-08 10:45:23"}
+{"t":"mod","anc":{"fam":"PE140"},"campo":"separa","pre":"PE140-13+PE140-14 PE140-16","post":"PE140-13+PE140-14+PE140-16","etichetta":"separa","id":"m0220-6lf1","chi":"isaac","q":"2026-09-08 10:45:35"}
+{"t":"mod","anc":{"uid":"PE140-14"},"campo":"pick","pre":"(ritaglio automatico)","post":"1","etichetta":"pezzi miniatura","id":"m0221-l551","chi":"isaac","q":"2026-09-08 10:46:01"}
