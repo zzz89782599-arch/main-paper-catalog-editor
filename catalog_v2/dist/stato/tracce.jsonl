@@ -197,3 +197,6 @@
 {"t":"mod","anc":{"fam":"PE420"},"campo":"gruppo","pre":"PE419","post":"(automatico)","etichetta":"gruppo","id":"m0193-qfsc","chi":"isaac","q":"2026-09-08 08:00:18"}
 {"t":"mod","anc":{"fam":"PE486N-S"},"campo":"gruppo","pre":"(automatico)","post":"PE486A-S","etichetta":"gruppo","id":"m0194-kl94","chi":"isaac","q":"2026-09-08 08:00:27"}
 {"t":"mod","anc":{"fam":"PE486A-S"},"campo":"gruppo","pre":"PE486N-S","post":"(automatico)","etichetta":"gruppo","id":"m0195-kdiy","chi":"isaac","q":"2026-09-08 08:00:27"}
+{"t":"mod","anc":{"fam":"PE534VL-S"},"campo":"separa","pre":"(automatico)","post":"PE534AC-S","etichetta":"separa","id":"m0196-vmse","chi":"isaac","q":"2026-09-08 09:42:05"}
+{"t":"mod","anc":{"fam":"PA457S"},"campo":"format","pre":"(automatico)","post":"rich","etichetta":"formato","id":"m0197-7nsn","chi":"isaac","q":"2026-09-08 09:42:05"}
+{"t":"mod","anc":{"fam":"PE487"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0198-4tu1","chi":"isaac","q":"2026-09-08 09:42:05"}
