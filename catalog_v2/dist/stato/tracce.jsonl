@@ -187,3 +187,4 @@
 {"t":"mod","anc":{"fam":"PE486V-S"},"campo":"separa","pre":"(automatico)","post":"PE486A-S","etichetta":"separa","id":"m0183-emt6","chi":"isaac","q":"2026-09-08 07:56:46"}
 {"t":"mod","anc":{"fam":"PA457S"},"campo":"format","pre":"(automatico)","post":"rich","etichetta":"formato","id":"m0184-kng4","chi":"isaac","q":"2026-09-08 07:56:46"}
 {"t":"mod","anc":{"fam":"PE487"},"campo":"format","pre":"(automatico)","post":"band","etichetta":"formato","id":"m0185-329m","chi":"isaac","q":"2026-09-08 07:56:46"}
+{"t":"mod","anc":{"fam":"PE486V-S"},"campo":"separa","pre":"PE486A-S","post":"PE486A-S PE486N-S PE486R-S","etichetta":"separa","id":"m0186-6nr2","chi":"isaac","q":"2026-09-08 07:56:57"}
