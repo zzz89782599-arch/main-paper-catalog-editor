@@ -225,3 +225,6 @@
 {"t":"mod","anc":{"uid":"PE140-14"},"campo":"pick","pre":"(ritaglio automatico)","post":"1","etichetta":"pezzi miniatura","id":"m0221-l551","chi":"isaac","q":"2026-09-08 10:46:01"}
 {"t":"mod","anc":{"uid":"PN240"},"campo":"pack/box","pre":"25 / 144","post":"12 / —","etichetta":"pack / box","id":"m0222-slum","chi":"isaac","q":"2026-09-08 10:47:17"}
 {"t":"mod","anc":{"uid":"PA352-5"},"campo":"pick","pre":"(ritaglio automatico)","post":"2","etichetta":"pezzi miniatura","id":"m0223-i724","chi":"isaac","q":"2026-09-08 10:48:25"}
+{"t":"mod","anc":{"uid":"PN821"},"campo":"pick","pre":"(ritaglio automatico)","post":"2","etichetta":"pezzi miniatura","id":"m0224-9yz3","chi":"isaac","q":"2026-09-08 10:48:50"}
+{"t":"mod","anc":{"uid":"PN822"},"campo":"pick","pre":"(ritaglio automatico)","post":"2","etichetta":"pezzi miniatura","id":"m0225-dqqf","chi":"isaac","q":"2026-09-08 10:49:10"}
+{"t":"mod","anc":{"uid":"PN823"},"campo":"pick","pre":"(ritaglio automatico)","post":"2","etichetta":"pezzi miniatura","id":"m0226-ywhg","chi":"isaac","q":"2026-09-08 10:49:10"}
