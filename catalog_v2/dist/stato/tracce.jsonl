@@ -195,3 +195,5 @@
 {"t":"mod","anc":{"fam":"PE486V-S"},"campo":"separa","pre":"PE486A-S PE486N-S PE486R-S","post":"PE486A-S PE486N-S PE486R-S PE486","etichetta":"separa","id":"m0191-6zws","chi":"isaac","q":"2026-09-08 07:57:50"}
 {"t":"mod","anc":{"fam":"PE420"},"campo":"gruppo","pre":"(automatico)","post":"PE419","etichetta":"gruppo","id":"m0192-p7x3","chi":"isaac","q":"2026-09-08 07:59:28"}
 {"t":"mod","anc":{"fam":"PE420"},"campo":"gruppo","pre":"PE419","post":"(automatico)","etichetta":"gruppo","id":"m0193-qfsc","chi":"isaac","q":"2026-09-08 08:00:18"}
+{"t":"mod","anc":{"fam":"PE486N-S"},"campo":"gruppo","pre":"(automatico)","post":"PE486A-S","etichetta":"gruppo","id":"m0194-kl94","chi":"isaac","q":"2026-09-08 08:00:27"}
+{"t":"mod","anc":{"fam":"PE486A-S"},"campo":"gruppo","pre":"PE486N-S","post":"(automatico)","etichetta":"gruppo","id":"m0195-kdiy","chi":"isaac","q":"2026-09-08 08:00:27"}
